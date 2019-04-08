@@ -1,0 +1,67 @@
+{
+  "id": 1310676217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.61667,1.73333,-58.61667,1.73333",
+    "geom:latitude":1.73333,
+    "geom:longitude":-58.61667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Kurukuru-Baibari",
+    "gn:country_code":"GY",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377608,
+    "gn:latitude":1.73333,
+    "gn:longitude":-58.61667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Kurukuru-Baibari",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671743,
+        1091685197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377608
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"50f60ade16fa5d8a17f80328171f7488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685197,
+            "locality_id":1310676217,
+            "region_id":85671743
+        }
+    ],
+    "wof:id":1310676217,
+    "wof:lastmodified":1536670654,
+    "wof:name":"Kurukuru-Baibari",
+    "wof:parent_id":1091685197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.61666999999999,
+    1.73333,
+    -58.61666999999999,
+    1.73333
+],
+  "geometry": {"coordinates":[-58.61666999999999,1.73333],"type":"Point"}
+}

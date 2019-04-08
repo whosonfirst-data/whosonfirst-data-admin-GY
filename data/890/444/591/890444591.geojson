@@ -1,0 +1,80 @@
+{
+  "id": 890444591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.60504,6.38485,-57.60504,6.38485",
+    "geom:latitude":6.38485,
+    "geom:longitude":-57.60504,
+    "gn:country":"GY",
+    "gn:fcode":"EST",
+    "gn:pop":2253,
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Fort Wellington"
+    ],
+    "qs:name":"Catherinas Lust",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671737,
+        1091683643,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378690,
+        "gp:id":376782,
+        "qs:id":1044189,
+        "wd:id":"Q5052499",
+        "wk:page":"Catherinas Lust"
+    },
+    "wof:country":"GY",
+    "wof:created":1469052474,
+    "wof:geomhash":"7139dcc30eae475d93704b8e9f43f6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683643,
+            "locality_id":890444591,
+            "region_id":85671737
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683643,
+            "locality_id":890444591,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":890444591,
+    "wof:lastmodified":1527782134,
+    "wof:name":"Catherinas Lust",
+    "wof:parent_id":1091683643,
+    "wof:placetype":"locality",
+    "wof:population":2253,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.60504,
+    6.38485,
+    -57.60504,
+    6.38485
+],
+  "geometry": {"coordinates":[-57.60504,6.38485],"type":"Point"}
+}

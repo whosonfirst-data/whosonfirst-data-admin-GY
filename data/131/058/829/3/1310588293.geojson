@@ -1,0 +1,67 @@
+{
+  "id": 1310588293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.29828,6.44808,-58.29828,6.44808",
+    "geom:latitude":6.44808,
+    "geom:longitude":-58.29828,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Elizabeth Ann",
+    "gn:country_code":"GY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3378785,
+    "gn:latitude":6.44808,
+    "gn:longitude":-58.29828,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Elizabeth Ann",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378785
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"d124c62a723cb96e55b2f321b5bab4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683427,
+            "locality_id":1310588293,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1310588293,
+    "wof:lastmodified":1536797713,
+    "wof:name":"Elizabeth Ann",
+    "wof:parent_id":1091683427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.29828000000001,
+    6.44808,
+    -58.29828000000001,
+    6.44808
+],
+  "geometry": {"coordinates":[-58.29828000000001,6.44808],"type":"Point"}
+}

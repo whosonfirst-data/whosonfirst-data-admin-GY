@@ -1,0 +1,67 @@
+{
+  "id": 1360068845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.31438,6.37629,-58.31438,6.37629",
+    "geom:latitude":6.37629,
+    "geom:longitude":-58.31438,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Stena",
+    "gn:country_code":"GY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3375879,
+    "gn:latitude":6.37629,
+    "gn:longitude":-58.31438,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Stena",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375879
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"3cc37967fe059e2803a7e945685169de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682779,
+            "locality_id":1360068845,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1360068845,
+    "wof:lastmodified":1536968859,
+    "wof:name":"Stena",
+    "wof:parent_id":1091682779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.31438000000001,
+    6.37629,
+    -58.31438000000001,
+    6.37629
+],
+  "geometry": {"coordinates":[-58.31438000000001,6.37629],"type":"Point"}
+}

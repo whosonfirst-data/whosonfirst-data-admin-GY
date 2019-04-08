@@ -1,0 +1,75 @@
+{
+  "id": 1293183713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.66147,6.46761,-57.66147,6.46761",
+    "geom:latitude":6.46761,
+    "geom:longitude":-57.66147,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lichfield",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377415,
+    "gn:latitude":6.46761,
+    "gn:longitude":-57.66147,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Lichfield",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091681611,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377415
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"a23b96bc0ee26368e833e4f1632a73c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681611,
+            "locality_id":1293183713,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681611,
+            "locality_id":1293183713,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":1293183713,
+    "wof:lastmodified":1536728476,
+    "wof:name":"Lichfield",
+    "wof:parent_id":1091681611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.66147,
+    6.46761,
+    -57.66147,
+    6.46761
+],
+  "geometry": {"coordinates":[-57.66147,6.46761],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1276536633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.61637,6.4724,-58.61637,6.4724",
+    "geom:latitude":6.4724,
+    "geom:longitude":-58.61637,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wolga",
+    "gn:country_code":"GY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375080,
+    "gn:latitude":6.4724,
+    "gn:longitude":-58.61637,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Wolga",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375080
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"4e1bb7bd1275945ba0873e2eeffbf644",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276536633,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276536633,
+    "wof:lastmodified":1537002791,
+    "wof:name":"Wolga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.61637,
+    6.4724,
+    -58.61637,
+    6.4724
+],
+  "geometry": {"coordinates":[-58.61637,6.4724],"type":"Point"}
+}

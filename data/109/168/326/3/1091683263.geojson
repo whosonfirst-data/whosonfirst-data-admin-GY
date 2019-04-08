@@ -1,0 +1,90 @@
+{
+  "id": 1091683263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001801,
+    "geom:area_square_m":22111946.945991,
+    "geom:bbox":"-58.197109222,6.67990627599,-58.1305989299,6.73049351884",
+    "geom:latitude":6.70347,
+    "geom:longitude":-58.163041,
+    "iso:country":"GY",
+    "lbl:latitude":6.703318,
+    "lbl:longitude":-58.163041,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Diamond / Golden Grove",
+    "meso:gadm_hasc2":"GY.DE.DG",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"413",
+    "meso:mps_x":-58.163041,
+    "meso:mps_y":6.703318,
+    "meso:name_en":"Diamond/Golden Grove",
+    "meso:source":"AOTM",
+    "mps:latitude":6.703318,
+    "mps:longitude":-58.163041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Diamond / Golden Grove"
+    ],
+    "name:eng_x_variant":[
+        "Diamond / Golden Grove"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Diamond / Golden Grove",
+    "statoids:population":"12506",
+    "statoids:statoid":"GY.DE.DG",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.DG"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879044,
+    "wof:geomhash":"70b95618ec6cc7cb9d8b53a241c67d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683263,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091683263,
+    "wof:lastmodified":1536614922,
+    "wof:name":"Diamond/Golden Grove",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":12506,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"DG",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.19710922199988,
+    6.67990627599176,
+    -58.13059892994525,
+    6.73049351884449
+],
+  "geometry": {"coordinates":[[[-58.19710589149558,6.73049351884449],[-58.18876810935267,6.72648531514441],[-58.18002147973156,6.72221567357659],[-58.17285777562704,6.72004750062483],[-58.16927592357479,6.71896341414895],[-58.16569407152253,6.71787932767307],[-58.15700921252169,6.71528700151037],[-58.14876164632607,6.71347547844654],[-58.14084028279034,6.71229378086371],[-58.13687960102247,6.71170293207229],[-58.13291891925461,6.71111208328087],[-58.13147968178875,6.70301559731727],[-58.13059892994525,6.69652459273138],[-58.13176560064177,6.68954610375952],[-58.13413733788042,6.68472618987564],[-58.13532320649975,6.6823162329337],[-58.13650907511907,6.67990627599176],[-58.13982204421391,6.68140365213813],[-58.14313501330875,6.6829010282845],[-58.14976095149842,6.68589578057724],[-58.15638913748573,6.68821066149634],[-58.1621805422936,6.68942502871218],[-58.16955437687493,6.69048152480617],[-58.17895692465235,6.69096304961243],[-58.18887081330369,6.69087397491153],[-58.18960952799983,6.691638947],[-58.18955612199989,6.70077800800027],[-58.1904182429999,6.70163869900017],[-58.1904449459999,6.7049722670003],[-58.19124984699988,6.7057776450003],[-58.19124984699988,6.71083354900014],[-58.19211196899988,6.71163892700014],[-58.19294357299992,6.71583318700027],[-58.1937484739999,6.71661090900011],[-58.1937484739999,6.71913909900024],[-58.19541549699994,6.72247219099995],[-58.1963043209999,6.72833347300013],[-58.19710922199988,6.72913885100019],[-58.19710589149558,6.73049351884449]]],"type":"Polygon"}
+}

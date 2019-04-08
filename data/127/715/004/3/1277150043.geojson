@@ -1,0 +1,79 @@
+{
+  "id": 1277150043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.53979,6.25704,-57.53979,6.25704",
+    "geom:latitude":6.25704,
+    "geom:longitude":-57.53979,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Blairmont",
+    "gn:country_code":"GY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379354,
+    "gn:latitude":6.25704,
+    "gn:longitude":-57.53979,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Blairmont",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blairmont Place",
+        "Blairmont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671737,
+        1091683545,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379354
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"3baac7a0470d5d40878df3c448130e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683545,
+            "locality_id":1277150043,
+            "region_id":85671737
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683545,
+            "locality_id":1277150043,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1277150043,
+    "wof:lastmodified":1537625484,
+    "wof:name":"Blairmont",
+    "wof:parent_id":1091683545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.53979,
+    6.25704,
+    -57.53979,
+    6.25704
+],
+  "geometry": {"coordinates":[-57.53979,6.25704],"type":"Point"}
+}

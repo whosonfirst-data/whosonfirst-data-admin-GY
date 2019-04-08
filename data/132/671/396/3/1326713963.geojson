@@ -1,0 +1,72 @@
+{
+  "id": 1326713963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58998,7.3338,-59.58998,7.3338",
+    "geom:latitude":7.3338,
+    "geom:longitude":-59.58998,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kokerite",
+    "gn:country_code":"GY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377823,
+    "gn:latitude":7.3338,
+    "gn:longitude":-59.58998,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kokerite",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokerit",
+        "Kokerit Landing",
+        "Kokerite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377823
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"5037ee8fea4334b939a27430e653ef1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681149,
+            "locality_id":1326713963,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1326713963,
+    "wof:lastmodified":1537625481,
+    "wof:name":"Kokerite",
+    "wof:parent_id":1091681149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58998,
+    7.3338,
+    -59.58998,
+    7.3338
+],
+  "geometry": {"coordinates":[-59.58998,7.3338],"type":"Point"}
+}

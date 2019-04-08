@@ -1,0 +1,75 @@
+{
+  "id": 1193107363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.77764,6.43729,-57.77764,6.43729",
+    "geom:latitude":6.43729,
+    "geom:longitude":-57.77764,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mora Point",
+    "gn:country_code":"GY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3376856,
+    "gn:latitude":6.43729,
+    "gn:longitude":-57.77764,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Mora Point",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091683675,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376856
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"31db2f1d952afd0ea5ee26edbcdb77e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683675,
+            "locality_id":1193107363,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683675,
+            "locality_id":1193107363,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":1193107363,
+    "wof:lastmodified":1536377042,
+    "wof:name":"Mora Point",
+    "wof:parent_id":1091683675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.77764000000001,
+    6.43729,
+    -57.77764000000001,
+    6.43729
+],
+  "geometry": {"coordinates":[-57.77764000000001,6.43729],"type":"Point"}
+}

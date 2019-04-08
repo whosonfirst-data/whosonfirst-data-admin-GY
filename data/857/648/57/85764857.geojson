@@ -1,0 +1,130 @@
+{
+  "id": 85764857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16587273.0356,
+    "geom:bbox":"-57.520823,6.246626,-57.520823,6.246626",
+    "geom:latitude":6.246626,
+    "geom:longitude":-57.520823,
+    "gn:gn_country":"GY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":6.24988,
+    "gn:longitude":-57.50847,
+    "iso:country":"GY",
+    "lbl:latitude":6.246626,
+    "lbl:longitude":-57.520823,
+    "mps:latitude":6.245139,
+    "mps:longitude":-57.517792,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Smythfield"
+    ],
+    "name:unk_x_variant":[
+        "Smythfield"
+    ],
+    "qs:gn_adm0_cc":"GY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3376762,
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Smythfield",
+    "qs:local_max":13,
+    "qs:local_sum":13,
+    "qs:localhoods":1,
+    "qs:name":"Smythfield",
+    "qs:name_adm0":"Guyana",
+    "qs:name_adm1":"East Berbice-Corentyne",
+    "qs:name_local":"New Amsterdam",
+    "qs:photo_max":4,
+    "qs:photo_sum":13,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424836,
+    "qs:woe_adm1":2345606,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":376766,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"GY",
+    "qs_pg:gn_country":"GY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3375930,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Smythfield",
+    "qs_pg:name_adm0":"Guyana",
+    "qs_pg:name_adm1":"East Berbice-Corentyne",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":501436,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424836,
+    "qs_pg:woe_id":376694,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85671757,
+        102191577,
+        1091685479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375930,
+        "gp:id":376694,
+        "qs:id":501436,
+        "qs_pg:id":501436
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"25e983c1f34d0b9fc5576f6716ab226b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685479,
+            "locality_id":-1,
+            "neighbourhood_id":85764857,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":85764857,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379333,
+    "wof:name":"Smythfield",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126086029
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.520823,
+    6.246626,
+    -57.520823,
+    6.246626
+],
+  "geometry": {"coordinates":[-57.520823,6.246626],"type":"Point"}
+}

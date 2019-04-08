@@ -1,0 +1,64 @@
+{
+  "id": 1209095279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.86031,7.75892,-59.86031,7.75892",
+    "geom:latitude":7.75892,
+    "geom:longitude":-59.86031,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mission Landing",
+    "gn:country_code":"GY",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376930,
+    "gn:latitude":7.75892,
+    "gn:longitude":-59.86031,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mission Landing",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mission Landing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376930
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"0b08511068bd8829bf1971f976f5ce2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632397,
+            "locality_id":1209095279
+        }
+    ],
+    "wof:id":1209095279,
+    "wof:lastmodified":1537625479,
+    "wof:name":"Mission Landing",
+    "wof:parent_id":85632397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.86031,
+    7.75892,
+    -59.86031,
+    7.75892
+],
+  "geometry": {"coordinates":[-59.86031,7.75892],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310391717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.15785,5.9793,-57.15785,5.9793",
+    "geom:latitude":5.9793,
+    "geom:longitude":-57.15785,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Number Sixty-four Babylon",
+    "gn:country_code":"GY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379590,
+    "gn:latitude":5.9793,
+    "gn:longitude":-57.15785,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Number Sixty-four Babylon",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Number 64",
+        "Babylon",
+        "Number Sixty-four Babylon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091681393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379590
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"41210535958fe5006c3186f5774d1944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091681393,
+            "locality_id":1310391717,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1310391717,
+    "wof:lastmodified":1537625485,
+    "wof:name":"Number Sixty-four Babylon",
+    "wof:parent_id":1091681393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.15785,
+    5.9793,
+    -57.15785,
+    5.9793
+],
+  "geometry": {"coordinates":[-57.15785,5.9793],"type":"Point"}
+}

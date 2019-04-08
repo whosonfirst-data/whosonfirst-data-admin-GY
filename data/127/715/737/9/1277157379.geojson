@@ -1,0 +1,68 @@
+{
+  "id": 1277157379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.08643,6.81866,-58.08643,6.81866",
+    "geom:latitude":6.81866,
+    "geom:longitude":-58.08643,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Beterverwagting",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312365,
+    "gn:latitude":6.81866,
+    "gn:longitude":-58.08643,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Beterverwagting",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091685765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312365,
+        "wk:page":"Beterverwagting"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"52fc110c7c776ba38871027a6e8b4ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685765,
+            "locality_id":1277157379,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1277157379,
+    "wof:lastmodified":1537563242,
+    "wof:name":"Beterverwagting",
+    "wof:parent_id":1091685765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.08643000000001,
+    6.81866,
+    -58.08643000000001,
+    6.81866
+],
+  "geometry": {"coordinates":[-58.08643000000001,6.81866],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126105185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.16121,6.81757,-58.16121,6.81757",
+    "geom:latitude":6.81757,
+    "geom:longitude":-58.16121,
+    "gn:gn_country":"GY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"GY",
+    "lbl:latitude":6.81757,
+    "lbl:longitude":-58.16121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GY",
+    "qs_pg:gn_country":"GY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3379032,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cummingsburg",
+    "qs_pg:name_adm0":"Guyana",
+    "qs_pg:name_adm1":"Demerara-Mahaica",
+    "qs_pg:photos":1005,
+    "qs_pg:photos_1k":204,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1005,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117085,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424836,
+    "qs_pg:woe_id":376425,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424836,
+    "woe:name_adm0":"Guyana",
+    "woe:name_adm1":"Demerara-Mahaica",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85671761,
+        102191577,
+        85632397,
+        1091683403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379032,
+        "gp:id":376425,
+        "qs_pg:id":1117085
+    },
+    "wof:country":"GY",
+    "wof:created":1497316798,
+    "wof:geomhash":"e08c2ef7d0f08aaf7769a5bcf380aab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683403,
+            "locality_id":-1,
+            "neighbourhood_id":1126105185,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1126105185,
+    "wof:lastmodified":1534379333,
+    "wof:name":"Cummingsburg",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[
+        85764845
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.16121,
+    6.81757,
+    -58.16121,
+    6.81757
+],
+  "geometry": {"coordinates":[-58.16121,6.81757],"type":"Point"}
+}

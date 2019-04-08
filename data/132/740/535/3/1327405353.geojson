@@ -1,0 +1,67 @@
+{
+  "id": 1327405353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.98333,4.95,-59.98333,4.95",
+    "geom:latitude":4.95,
+    "geom:longitude":-59.98333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Wiapri",
+    "gn:country_code":"GY",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375119,
+    "gn:latitude":4.95,
+    "gn:longitude":-59.98333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Wiapri",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671739,
+        1091684267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375119
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"50bc80c0bbe9c8b84fe42caa3c3f0212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684267,
+            "locality_id":1327405353,
+            "region_id":85671739
+        }
+    ],
+    "wof:id":1327405353,
+    "wof:lastmodified":1536720252,
+    "wof:name":"Wiapri",
+    "wof:parent_id":1091684267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.98333,
+    4.95,
+    -59.98333,
+    4.95
+],
+  "geometry": {"coordinates":[-59.98333,4.95],"type":"Point"}
+}

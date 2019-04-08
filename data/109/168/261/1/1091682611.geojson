@@ -1,0 +1,90 @@
+{
+  "id": 1091682611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000896,
+    "geom:area_square_m":10998092.035894,
+    "geom:bbox":"-58.4501192736,6.81945278395,-58.4068425212,6.86231871609",
+    "geom:latitude":6.840788,
+    "geom:longitude":-58.427922,
+    "iso:country":"GY",
+    "lbl:latitude":6.840753,
+    "lbl:longitude":-58.42825,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Parika / Mora",
+    "meso:gadm_hasc2":"GY.ES.PM",
+    "meso:gaul_adm2":"Bonasika/boerasirie",
+    "meso:local_id":"312",
+    "meso:mps_x":-58.42825,
+    "meso:mps_y":6.840753,
+    "meso:name_en":"Parika/Mora",
+    "meso:source":"AOTM",
+    "mps:latitude":6.840753,
+    "mps:longitude":-58.42825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Parika / Mora"
+    ],
+    "name:eng_x_variant":[
+        "Parika / Mora"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Parika / Mora",
+    "statoids:population":"5208",
+    "statoids:statoid":"GY.ES.PM",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.PM"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879016,
+    "wof:geomhash":"cb9fa86868fa0b6190ec3a34e7d2d93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682611,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682611,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Parika/Mora",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":5208,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"PM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.45011927358452,
+    6.81945278395236,
+    -58.406842521243,
+    6.86231871609125
+],
+  "geometry": {"coordinates":[[[-58.42131699137069,6.86231871609125],[-58.41725448287896,6.8557919233879],[-58.41367166197844,6.8497233457846],[-58.41025709161072,6.84464376594303],[-58.40854980642686,6.84210397602225],[-58.406842521243,6.83956418610146],[-58.41409263825047,6.83512974692118],[-58.42062287472253,6.83016402719723],[-58.42589840105391,6.8248084055748],[-58.42853616421961,6.82213059476358],[-58.4311739273853,6.81945278395236],[-58.43268074206047,6.82106841712438],[-58.43418755673565,6.82268405029641],[-58.437201186086,6.82591531664045],[-58.44302580008519,6.83221019679153],[-58.45011927358452,6.84053868274358],[-58.44132962701302,6.84621907351419],[-58.43616297431471,6.85047671761143],[-58.43092409164163,6.85511122665771],[-58.42612054150617,6.85871497137448],[-58.42371876643843,6.86051684373287],[-58.42131699137069,6.86231871609125]]],"type":"Polygon"}
+}

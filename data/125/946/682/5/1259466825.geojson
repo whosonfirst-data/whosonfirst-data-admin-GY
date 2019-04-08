@@ -1,0 +1,67 @@
+{
+  "id": 1259466825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.81667,7.96667,-59.81667,7.96667",
+    "geom:latitude":7.96667,
+    "geom:longitude":-59.81667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hobediah",
+    "gn:country_code":"GY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378409,
+    "gn:latitude":7.96667,
+    "gn:longitude":-59.81667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Hobediah",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378409
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"ab9fe2c940a07fd6aa124147847b8d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681147,
+            "locality_id":1259466825,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1259466825,
+    "wof:lastmodified":1536882051,
+    "wof:name":"Hobediah",
+    "wof:parent_id":1091681147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.81667,
+    7.96667,
+    -59.81667,
+    7.96667
+],
+  "geometry": {"coordinates":[-59.81667,7.96667],"type":"Point"}
+}

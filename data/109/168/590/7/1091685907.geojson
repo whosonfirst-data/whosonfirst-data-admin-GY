@@ -1,0 +1,71 @@
+{
+  "id": 1091685907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000678,
+    "geom:area_square_m":8331346.265484,
+    "geom:bbox":"-57.3849512757,6.15654105834,-57.3450761271,6.28796116159",
+    "geom:latitude":6.218868,
+    "geom:longitude":-57.365327,
+    "iso:country":"GY",
+    "lbl:latitude":6.21867,
+    "lbl:longitude":-57.365325,
+    "meso:adm1_alt":"6",
+    "meso:admin_1":"East Berbice-Corentyne",
+    "meso:gadm_admin":"Rose Hall",
+    "meso:gadm_hasc2":"GY.EB.RH",
+    "meso:gaul_adm2":"East Canje/east Coast Berbice",
+    "meso:local_id":"618",
+    "meso:mps_x":-57.365325,
+    "meso:mps_y":6.21867,
+    "meso:name_en":"Rose Hall",
+    "meso:source":"AOTM",
+    "mps:latitude":6.21867,
+    "mps:longitude":-57.365325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Rose Hall"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85671757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.EB.RH"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879152,
+    "wof:geomhash":"1754eb68c4aef7c550f2f4b91e797f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685907,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1091685907,
+    "wof:lastmodified":1536614926,
+    "wof:name":"Rose Hall",
+    "wof:parent_id":85671757,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"RH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.38495127574467,
+    6.15654105833645,
+    -57.34507612708876,
+    6.2879611615899
+],
+  "geometry": {"coordinates":[[[-57.34871639296764,6.2879611615899],[-57.34507612708876,6.28465706719907],[-57.34575309839398,6.28212760852377],[-57.37936443651465,6.15654105833645],[-57.38495127574467,6.15788603815109],[-57.38484599267548,6.15827207607145],[-57.36783730903355,6.2193256345175],[-57.34871639296764,6.2879611615899]]],"type":"Polygon"}
+}

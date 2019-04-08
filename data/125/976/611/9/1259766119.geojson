@@ -1,0 +1,75 @@
+{
+  "id": 1259766119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.65899,6.46088,-57.65899,6.46088",
+    "geom:latitude":6.46088,
+    "geom:longitude":-57.65899,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Jacoba",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378176,
+    "gn:latitude":6.46088,
+    "gn:longitude":-57.65899,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Jacoba",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091681611,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378176
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"499380b7b70d08f43374f18e09e5952f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681611,
+            "locality_id":1259766119,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681611,
+            "locality_id":1259766119,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":1259766119,
+    "wof:lastmodified":1536948522,
+    "wof:name":"Jacoba",
+    "wof:parent_id":1091681611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.65899,
+    6.46088,
+    -57.65899,
+    6.46088
+],
+  "geometry": {"coordinates":[-57.65899,6.46088],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309682595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.79004,6.48181,-57.79004,6.48181",
+    "geom:latitude":6.48181,
+    "geom:longitude":-57.79004,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Essau and Jacob",
+    "gn:country_code":"GY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3378747,
+    "gn:latitude":6.48181,
+    "gn:longitude":-57.79004,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Essau and Jacob",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esau and Jacob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091683675,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378747
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"961d7cdfee9d80a349c9c6275d92ee21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683675,
+            "locality_id":1309682595,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683675,
+            "locality_id":1309682595,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":1309682595,
+    "wof:lastmodified":1537625483,
+    "wof:name":"Essau and Jacob",
+    "wof:parent_id":1091683675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.79004000000001,
+    6.48181,
+    -57.79004000000001,
+    6.48181
+],
+  "geometry": {"coordinates":[-57.79004000000001,6.48181],"type":"Point"}
+}

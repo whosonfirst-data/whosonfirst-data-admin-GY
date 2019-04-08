@@ -1,0 +1,73 @@
+{
+  "id": 1226205975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.71667,4.55,-59.71667,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":-59.71667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Wandapa Village",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375291,
+    "gn:latitude":4.55,
+    "gn:longitude":-59.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wandapa Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waudapa Village",
+        "Wandapa",
+        "Wandapa Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671739,
+        1091684213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375291
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"b556164bdbf53fa77399493dcc7c2f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684213,
+            "locality_id":1226205975,
+            "region_id":85671739
+        }
+    ],
+    "wof:id":1226205975,
+    "wof:lastmodified":1537625474,
+    "wof:name":"Wandapa Village",
+    "wof:parent_id":1091684213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.71666999999999,
+    4.55,
+    -59.71666999999999,
+    4.55
+],
+  "geometry": {"coordinates":[-59.71666999999999,4.55],"type":"Point"}
+}

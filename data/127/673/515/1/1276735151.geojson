@@ -1,0 +1,76 @@
+{
+  "id": 1276735151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.72437,7.25117,-58.72437,7.25117",
+    "geom:latitude":7.25117,
+    "geom:longitude":-58.72437,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kabakaburi",
+    "gn:country_code":"GY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313459,
+    "gn:latitude":7.25117,
+    "gn:longitude":-58.72437,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Kabakaburi",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091681197,
+        85671753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313459,
+        "wk:page":"Kabakaburi"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"d21387535f8ccb74ef50a04442ada1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681197,
+            "locality_id":1276735151,
+            "region_id":85671773
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681197,
+            "locality_id":1276735151,
+            "region_id":85671753
+        }
+    ],
+    "wof:id":1276735151,
+    "wof:lastmodified":1537563242,
+    "wof:name":"Kabakaburi",
+    "wof:parent_id":1091681197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.72436999999999,
+    7.25117,
+    -58.72436999999999,
+    7.25117
+],
+  "geometry": {"coordinates":[-58.72436999999999,7.25117],"type":"Point"}
+}

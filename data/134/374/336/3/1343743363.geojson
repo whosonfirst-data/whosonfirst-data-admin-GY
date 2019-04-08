@@ -1,0 +1,67 @@
+{
+  "id": 1343743363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6,5.95,-60.6,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":-60.6,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Minata",
+    "gn:country_code":"GY",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661136,
+    "gn:latitude":5.95,
+    "gn:longitude":-60.6,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Minata",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091684047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661136
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"dacb3a914f85e16129abb4e53452f179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684047,
+            "locality_id":1343743363,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1343743363,
+    "wof:lastmodified":1536834552,
+    "wof:name":"Minata",
+    "wof:parent_id":1091684047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6,
+    5.95,
+    -60.6,
+    5.95
+],
+  "geometry": {"coordinates":[-60.6,5.95],"type":"Point"}
+}

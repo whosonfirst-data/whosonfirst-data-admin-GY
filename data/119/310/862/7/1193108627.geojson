@@ -1,0 +1,67 @@
+{
+  "id": 1193108627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.0,4.93333,-60.0,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":-60.0,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Waipa Village",
+    "gn:country_code":"GY",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375355,
+    "gn:latitude":4.93333,
+    "gn:longitude":-60.0,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Waipa Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85682011,
+        102059035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375355
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"ab381e5e9e677a7acbe4f800257758a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059035,
+            "locality_id":1193108627,
+            "region_id":85682011
+        }
+    ],
+    "wof:id":1193108627,
+    "wof:lastmodified":1536375731,
+    "wof:name":"Waipa Village",
+    "wof:parent_id":102059035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.0,
+    4.93333,
+    -60.0,
+    4.93333
+],
+  "geometry": {"coordinates":[-60.0,4.93333],"type":"Point"}
+}

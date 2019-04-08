@@ -1,0 +1,67 @@
+{
+  "id": 1276421915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.43333,5.51667,-60.43333,5.51667",
+    "geom:latitude":5.51667,
+    "geom:longitude":-60.43333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pipillipai",
+    "gn:country_code":"GY",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661070,
+    "gn:latitude":5.51667,
+    "gn:longitude":-60.43333,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pipillipai",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091683927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661070
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"d426e17d46980e6c03f2f0b648028004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683927,
+            "locality_id":1276421915,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1276421915,
+    "wof:lastmodified":1536660051,
+    "wof:name":"Pipillipai",
+    "wof:parent_id":1091683927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.43333000000001,
+    5.51667,
+    -60.43333000000001,
+    5.51667
+],
+  "geometry": {"coordinates":[-60.43333000000001,5.51667],"type":"Point"}
+}

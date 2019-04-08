@@ -1,0 +1,90 @@
+{
+  "id": 1091682273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001502,
+    "geom:area_square_m":18445004.317495,
+    "geom:bbox":"-58.2462110927,6.76278654058,-58.187084198,6.80889221886",
+    "geom:latitude":6.787509,
+    "geom:longitude":-58.221313,
+    "iso:country":"GY",
+    "lbl:latitude":6.789936,
+    "lbl:longitude":-58.225792,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Meer Zorgen / Malgre Tout",
+    "meso:gadm_hasc2":"GY.ES.MZ",
+    "meso:gaul_adm2":"Lower West Demerara River",
+    "meso:local_id":"304",
+    "meso:mps_x":-58.225792,
+    "meso:mps_y":6.789936,
+    "meso:name_en":"Meer Zorgen/Malgre Tout",
+    "meso:source":"AOTM",
+    "mps:latitude":6.789936,
+    "mps:longitude":-58.225792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Meer Zorgen / Malgre Tout"
+    ],
+    "name:eng_x_variant":[
+        "Meer Zorgen / Malgre Tout"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Meer Zorgen / Malgre Tout",
+    "statoids:population":"3985",
+    "statoids:statoid":"GY.ES.MZ",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.MZ"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879000,
+    "wof:geomhash":"8493171a1aaf37714a404f68968241d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682273,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682273,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Meer Zorgen/Malgre Tout",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":3985,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"MZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.24621109274276,
+    6.762786540584,
+    -58.18708419799992,
+    6.8088922188644
+],
+  "geometry": {"coordinates":[[[-58.2451075693502,6.80156375960942],[-58.24035113190818,6.80339587442316],[-58.23559469446617,6.80522798923691],[-58.22608181958214,6.8088922188644],[-58.22329798874898,6.80709809808066],[-58.22051415791582,6.80530397729691],[-58.2149464962495,6.80171573572942],[-58.20718096993143,6.79861138790517],[-58.20089457469997,6.79762944840433],[-58.1947059911283,6.79679345751592],[-58.18709883889365,6.79588616463288],[-58.18708419799992,6.79497242000019],[-58.1887512209999,6.7916388510003],[-58.19294357299992,6.78663873700015],[-58.19294357299992,6.78497219100024],[-58.19544601399997,6.78330564500021],[-58.19625091599988,6.77916669800015],[-58.1968385105389,6.77802815203826],[-58.19993823995273,6.77812042987456],[-58.20673148077944,6.77857898827851],[-58.21089794555678,6.77904101739375],[-58.21533823891315,6.77815884921889],[-58.21923326630512,6.77357339569695],[-58.22111684472887,6.7682512618216],[-58.22216826439602,6.7655189012028],[-58.22269397422959,6.7641527208934],[-58.22321968406317,6.762786540584],[-58.23181496810273,6.76384711698648],[-58.23716868853536,6.76591113916324],[-58.23994803222421,6.76881758031027],[-58.24097644285091,6.77249700884357],[-58.24060437093281,6.77527839530111],[-58.23976979179926,6.77750160826108],[-58.23924180829057,6.78090261824042],[-58.24087381944337,6.78645869261777],[-58.24354245609307,6.79128196192355],[-58.24487677441792,6.79369359657644],[-58.24621109274276,6.79610523122933],[-58.2451075693502,6.80156375960942]]],"type":"Polygon"}
+}

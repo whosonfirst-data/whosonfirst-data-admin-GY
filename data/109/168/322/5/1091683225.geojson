@@ -1,0 +1,90 @@
+{
+  "id": 1091683225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000963,
+    "geom:area_square_m":11830378.606682,
+    "geom:bbox":"-58.1971058915,6.71787932767,-58.1586836846,6.75398877734",
+    "geom:latitude":6.736993,
+    "geom:longitude":-58.178234,
+    "iso:country":"GY",
+    "lbl:latitude":6.737368,
+    "lbl:longitude":-58.177868,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Herstelling / Little Diamond",
+    "meso:gadm_hasc2":"GY.DE.HL",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"412",
+    "meso:mps_x":-58.177868,
+    "meso:mps_y":6.737368,
+    "meso:name_en":"Herstelling/Little Diamond",
+    "meso:source":"AOTM",
+    "mps:latitude":6.737368,
+    "mps:longitude":-58.177868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Herstelling / Little Diamond"
+    ],
+    "name:eng_x_variant":[
+        "Herstelling / Little Diamond"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Herstelling / Little Diamond",
+    "statoids:population":"7112",
+    "statoids:statoid":"GY.DE.HL",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.HL"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879042,
+    "wof:geomhash":"5bfe751e7ec709e845d4107bf74ee1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683225,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091683225,
+    "wof:lastmodified":1536614922,
+    "wof:name":"Herstelling/Little Diamond",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":7112,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"HL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.19710589149558,
+    6.71787932767307,
+    -58.15868368457311,
+    6.75398877733814
+],
+  "geometry": {"coordinates":[[[-58.19217835757403,6.75398877733814],[-58.18324335396671,6.75150828022124],[-58.17561489816792,6.75075414011057],[-58.17096275213312,6.7502208931198],[-58.16696152360279,6.7493174277779],[-58.16319473539686,6.74782028580807],[-58.16093920998499,6.74650697043535],[-58.15981144727905,6.74585031274899],[-58.15868368457311,6.74519365506263],[-58.1617641810727,6.73316142296609],[-58.16372912629761,6.72552037531958],[-58.16471159891007,6.72169985149633],[-58.16569407152253,6.71787932767307],[-58.16927592357479,6.71896341414895],[-58.17285777562704,6.72004750062483],[-58.18002147973156,6.72221567357659],[-58.18876810935267,6.72648531514441],[-58.19710589149558,6.73049351884449],[-58.19708251999992,6.73999977100016],[-58.19627761799995,6.74086093900019],[-58.19541549699994,6.74666643100022],[-58.19217835757403,6.75398877733814]]],"type":"Polygon"}
+}

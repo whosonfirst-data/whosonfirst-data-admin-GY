@@ -1,0 +1,67 @@
+{
+  "id": 1326710525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.17126,6.68765,-58.17126,6.68765",
+    "geom:latitude":6.68765,
+    "geom:longitude":-58.17126,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Craig",
+    "gn:country_code":"GY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379041,
+    "gn:latitude":6.68765,
+    "gn:longitude":-58.17126,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Craig",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379041
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"2378e0a71b37e6f0eadbed419711dec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683311,
+            "locality_id":1326710525,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1326710525,
+    "wof:lastmodified":1536727459,
+    "wof:name":"Craig",
+    "wof:parent_id":1091683311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.17126,
+    6.68765,
+    -58.17126,
+    6.68765
+],
+  "geometry": {"coordinates":[-58.17126,6.68765],"type":"Point"}
+}

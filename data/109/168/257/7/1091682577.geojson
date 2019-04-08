@@ -1,0 +1,90 @@
+{
+  "id": 1091682577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000843,
+    "geom:area_square_m":10349604.33199,
+    "geom:bbox":"-58.4213169914,6.8395641861,-58.3808297374,6.8722524073",
+    "geom:latitude":6.858056,
+    "geom:longitude":-58.398556,
+    "iso:country":"GY",
+    "lbl:latitude":6.859312,
+    "lbl:longitude":-58.398942,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Good Hope / Hydronie",
+    "meso:gadm_hasc2":"GY.ES.GH",
+    "meso:gaul_adm2":"Bonasika/boerasirie",
+    "meso:local_id":"311",
+    "meso:mps_x":-58.398942,
+    "meso:mps_y":6.859312,
+    "meso:name_en":"Good Hope/Hydronie",
+    "meso:source":"AOTM",
+    "mps:latitude":6.859312,
+    "mps:longitude":-58.398942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Good Hope / Hydronie"
+    ],
+    "name:eng_x_variant":[
+        "Good Hope / Hydronie"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Good Hope / Hydronie",
+    "statoids:population":"1993",
+    "statoids:statoid":"GY.ES.GH",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.GH"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879014,
+    "wof:geomhash":"95824b451529e692b3fefd0ea5941e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682577,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682577,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Good Hope/Hydronie",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":1993,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"GH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.42131699137069,
+    6.83956418610146,
+    -58.3808297374318,
+    6.87225240729531
+],
+  "geometry": {"coordinates":[[[-58.3808297374318,6.87225240729531],[-58.38107863011633,6.86272885865734],[-58.38115395036715,6.85542619100858],[-58.38119161049255,6.8517748571842],[-58.38122927061796,6.84812352335982],[-58.38650771541835,6.8477929670408],[-58.39080117824988,6.84849410568331],[-58.39399260712561,6.84902674132166],[-58.39792097277844,6.84668353619015],[-58.40202186605247,6.84310013913656],[-58.40443219364774,6.84133216261901],[-58.40563735744537,6.84044817436024],[-58.406842521243,6.83956418610146],[-58.40854980642686,6.84210397602225],[-58.41025709161072,6.84464376594303],[-58.41367166197844,6.8497233457846],[-58.41725448287896,6.8557919233879],[-58.42131699137069,6.86231871609125],[-58.41212704287089,6.8656571888301],[-58.4048835405393,6.86875236425901],[-58.39792688622767,6.87082137724259],[-58.39042087747171,6.87207925799434],[-58.38562530745176,6.87216583264482],[-58.38322752244179,6.87220911997007],[-58.3808297374318,6.87225240729531]]],"type":"Polygon"}
+}

@@ -1,0 +1,230 @@
+{
+  "id": 1141906957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.5000574154,7.27042055148,-58.5000574154,7.27042055148",
+    "geom:latitude":7.270421,
+    "geom:longitude":-58.500057,
+    "gn:gn_country":"GY",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":12448,
+    "gn:population":12448,
+    "iso:country":"GY",
+    "lbl:latitude":7.270421,
+    "lbl:longitude":-58.500057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0646\u0627 \u0631\u064a\u062c\u064a\u0646\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u5a1c\u5973\u738b\u6751"
+    ],
+    "name:dut_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:eng_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:fre_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:ger_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ca\u30fb\u30ec\u30b8\u30e3\u30a4\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc560\ub098\ub808\uc9c0\ub098"
+    ],
+    "name:lit_x_preferred":[
+        "Ana Red\u017eina"
+    ],
+    "name:nob_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0646\u0627 \u0631\u06af\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:por_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:spa_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:swe_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:vol_x_preferred":[
+        "Anna Regina"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Guyana",
+    "ne:ADM0_A3":"GUY",
+    "ne:ADM1NAME":"Cuyuni-Mazaruni",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"GY",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":7.270421,
+    "ne:LONGITUDE":-58.500057,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Anna Regina",
+    "ne:MAX_AREAKM":5.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-58.475,
+    "ne:MAX_BBXMIN":-58.491667,
+    "ne:MAX_BBYMAX":7.283333,
+    "ne:MAX_BBYMIN":7.25,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":11.0,
+    "ne:MAX_PERMI":7.0,
+    "ne:MAX_POP10":3113,
+    "ne:MAX_POP20":3113,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-58.481944,
+    "ne:MEAN_BBYC":7.266667,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":5.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-58.475,
+    "ne:MIN_BBXMIN":-58.491667,
+    "ne:MIN_BBYMAX":7.283333,
+    "ne:MIN_BBYMIN":7.25,
+    "ne:MIN_PERKM":11.0,
+    "ne:MIN_PERMI":7.0,
+    "ne:NAME":"Anna Regina",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Anna Regina",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":3113,
+    "ne:POP_MIN":3113,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Guyana",
+    "ne:SOV_A3":"GUY",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "qs_pg:aaroncc":"GY",
+    "qs_pg:gn_country":"GY",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":7303406,
+    "qs_pg:gn_pop":12448,
+    "qs_pg:name":"Anna Regina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":107148,
+    "qs_pg:qs_pg_placetype":"locality",
+    "reversegeo:latitude":7.270421,
+    "reversegeo:longitude":-58.500057,
+    "src:geom":"naturalearth",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671753,
+        1091681277,
+        85671773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303406,
+        "qs_pg:id":107148,
+        "wd:id":"Q563067"
+    },
+    "wof:country":"GY",
+    "wof:created":1499130661,
+    "wof:geomhash":"5f2b1386580b129c7cd2a217f573ac8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681277,
+            "locality_id":1141906957,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681277,
+            "locality_id":1141906957,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1141906957,
+    "wof:lastmodified":1534379333,
+    "wof:name":"Anna Regina",
+    "wof:parent_id":1091681277,
+    "wof:placetype":"locality",
+    "wof:population":12448,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125956073
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.50005741538558,
+    7.27042055147774,
+    -58.50005741538558,
+    7.27042055147774
+],
+  "geometry": {"coordinates":[-58.50005741538558,7.27042055147774],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260369593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.33632,6.23898,-57.33632,6.23898",
+    "geom:latitude":6.23898,
+    "geom:longitude":-57.33632,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tain",
+    "gn:country_code":"GY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3375804,
+    "gn:latitude":6.23898,
+    "gn:longitude":-57.33632,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Tain",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091685955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375804
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"32339075666fbd7cf92376b606c9e5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685955,
+            "locality_id":1260369593,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1260369593,
+    "wof:lastmodified":1537090338,
+    "wof:name":"Tain",
+    "wof:parent_id":1091685955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.33631999999999,
+    6.23898,
+    -57.33631999999999,
+    6.23898
+],
+  "geometry": {"coordinates":[-57.33631999999999,6.23898],"type":"Point"}
+}

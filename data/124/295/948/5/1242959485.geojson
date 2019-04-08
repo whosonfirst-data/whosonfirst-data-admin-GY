@@ -1,0 +1,70 @@
+{
+  "id": 1242959485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.13475,5.90049,-57.13475,5.90049",
+    "geom:latitude":5.90049,
+    "geom:longitude":-57.13475,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Springlands",
+    "gn:country_code":"GY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375895,
+    "gn:latitude":5.90049,
+    "gn:longitude":-57.13475,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Springlands",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Springlands Place",
+        "Springlands"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091685409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375895
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"d0c980db5b24a9146ea1d7bd8abe71e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685409,
+            "locality_id":1242959485,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1242959485,
+    "wof:lastmodified":1537625475,
+    "wof:name":"Springlands",
+    "wof:parent_id":1091685409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.13475,
+    5.90049,
+    -57.13475,
+    5.90049
+],
+  "geometry": {"coordinates":[-57.13475,5.90049],"type":"Point"}
+}

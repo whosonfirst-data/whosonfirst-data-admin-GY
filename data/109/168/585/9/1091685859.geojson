@@ -1,0 +1,71 @@
+{
+  "id": 1091685859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000639,
+    "geom:area_square_m":7856135.208755,
+    "geom:bbox":"-57.389173537,6.15788603815,-57.348716393,6.29098508864",
+    "geom:latitude":6.22542,
+    "geom:longitude":-57.368585,
+    "iso:country":"GY",
+    "lbl:latitude":6.226,
+    "lbl:longitude":-57.368398,
+    "meso:adm1_alt":"6",
+    "meso:admin_1":"East Berbice-Corentyne",
+    "meso:gadm_admin":"Hampshire / Kilcoy",
+    "meso:gadm_hasc2":"GY.MA.GN",
+    "meso:gaul_adm2":"East Canje/east Coast Berbice",
+    "meso:local_id":"610",
+    "meso:mps_x":-57.368398,
+    "meso:mps_y":6.226,
+    "meso:name_en":"Hampshire/Kilcoy",
+    "meso:source":"AOTM",
+    "mps:latitude":6.226,
+    "mps:longitude":-57.368398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Hampshire / Kilcoy"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191577,
+        85671757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.MA.GN"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879150,
+    "wof:geomhash":"ea509991b7d9073427ef73d6eaf10317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685859,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1091685859,
+    "wof:lastmodified":1536614926,
+    "wof:name":"Hampshire/Kilcoy",
+    "wof:parent_id":85671757,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"GN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.38917353701298,
+    6.15788603815109,
+    -57.34871639296764,
+    6.29098508864058
+],
+  "geometry": {"coordinates":[[[-57.35305093325911,6.29098508864058],[-57.35136032099985,6.29036092800027],[-57.34871639296764,6.2879611615899],[-57.36783730903355,6.2193256345175],[-57.38484599267548,6.15827207607145],[-57.38495127574467,6.15788603815109],[-57.38906299547852,6.15887589660553],[-57.38907267559369,6.15887822700363],[-57.38917353701298,6.15913758493895],[-57.35305093325911,6.29098508864058]]],"type":"Polygon"}
+}

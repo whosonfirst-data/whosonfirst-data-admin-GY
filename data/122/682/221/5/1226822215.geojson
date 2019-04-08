@@ -1,0 +1,75 @@
+{
+  "id": 1226822215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.78014,6.45326,-57.78014,6.45326",
+    "geom:latitude":6.45326,
+    "geom:longitude":-57.78014,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bara Bara",
+    "gn:country_code":"GY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8197314,
+    "gn:latitude":6.45326,
+    "gn:longitude":-57.78014,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bara Bara",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091683675,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197314
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"cec7bc2948f4861a294fe0ef2e9a5846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683675,
+            "locality_id":1226822215,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683675,
+            "locality_id":1226822215,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":1226822215,
+    "wof:lastmodified":1536602358,
+    "wof:name":"Bara Bara",
+    "wof:parent_id":1091683675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.78014,
+    6.45326,
+    -57.78014,
+    6.45326
+],
+  "geometry": {"coordinates":[-57.78014,6.45326],"type":"Point"}
+}

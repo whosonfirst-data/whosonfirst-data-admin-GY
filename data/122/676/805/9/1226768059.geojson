@@ -1,0 +1,72 @@
+{
+  "id": 1226768059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.26667,7.4,-59.26667,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-59.26667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Igupa Village",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378288,
+    "gn:latitude":7.4,
+    "gn:longitude":-59.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Igupa Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iguapa",
+        "Igupa Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378288
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"e1c43169ae3b40939653253176bf7fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681149,
+            "locality_id":1226768059,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1226768059,
+    "wof:lastmodified":1537625481,
+    "wof:name":"Igupa Village",
+    "wof:parent_id":1091681149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.26667,
+    7.4,
+    -59.26667,
+    7.4
+],
+  "geometry": {"coordinates":[-59.26667,7.4],"type":"Point"}
+}

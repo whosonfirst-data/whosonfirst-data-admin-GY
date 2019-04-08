@@ -1,0 +1,67 @@
+{
+  "id": 1310270367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.66667,1.35,-58.66667,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":-58.66667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Yepi Village",
+    "gn:country_code":"GY",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375001,
+    "gn:latitude":1.35,
+    "gn:longitude":-58.66667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Yepi Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671743,
+        1091685197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375001
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"b14006e55b080776788e8a663e1ca0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685197,
+            "locality_id":1310270367,
+            "region_id":85671743
+        }
+    ],
+    "wof:id":1310270367,
+    "wof:lastmodified":1536758842,
+    "wof:name":"Yepi Village",
+    "wof:parent_id":1091685197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.66667,
+    1.35,
+    -58.66667,
+    1.35
+],
+  "geometry": {"coordinates":[-58.66667,1.35],"type":"Point"}
+}

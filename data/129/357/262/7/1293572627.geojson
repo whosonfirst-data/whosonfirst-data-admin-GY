@@ -1,0 +1,70 @@
+{
+  "id": 1293572627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.42885,6.84628,-58.42885,6.84628",
+    "geom:latitude":6.84628,
+    "geom:longitude":-58.42885,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hyde Park",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3378306,
+    "gn:latitude":6.84628,
+    "gn:longitude":-58.42885,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Hyde Park",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hyde Park and Grove"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378306
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"adc38feb137f0ee87845c775de61b85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682611,
+            "locality_id":1293572627,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1293572627,
+    "wof:lastmodified":1537625481,
+    "wof:name":"Hyde Park",
+    "wof:parent_id":1091682611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.42885,
+    6.84628,
+    -58.42885,
+    6.84628
+],
+  "geometry": {"coordinates":[-58.42885,6.84628],"type":"Point"}
+}

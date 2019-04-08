@@ -1,0 +1,75 @@
+{
+  "id": 1343443169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.66667,7.3,-58.66667,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":-58.66667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sirikie",
+    "gn:country_code":"GY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375952,
+    "gn:latitude":7.3,
+    "gn:longitude":-58.66667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Sirikie",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091681197,
+        85671753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375952
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"f7662abc1bbfbaf8477841a312658b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681197,
+            "locality_id":1343443169,
+            "region_id":85671773
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681197,
+            "locality_id":1343443169,
+            "region_id":85671753
+        }
+    ],
+    "wof:id":1343443169,
+    "wof:lastmodified":1536771783,
+    "wof:name":"Sirikie",
+    "wof:parent_id":1091681197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.66667,
+    7.3,
+    -58.66667,
+    7.3
+],
+  "geometry": {"coordinates":[-58.66667,7.3],"type":"Point"}
+}

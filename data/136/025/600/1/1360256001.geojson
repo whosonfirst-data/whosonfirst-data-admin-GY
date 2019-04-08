@@ -1,0 +1,61 @@
+{
+  "id": 1360256001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.46849,6.88125,-58.46849,6.88125",
+    "geom:latitude":6.88125,
+    "geom:longitude":-58.46849,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Goodmans Freetown",
+    "gn:country_code":"GY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8315962,
+    "gn:latitude":6.88125,
+    "gn:longitude":-58.46849,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Goodmans Freetown",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8315962
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"dadf28c84a2303aed52f3e9e6f405af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360256001,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360256001,
+    "wof:lastmodified":1536699431,
+    "wof:name":"Goodmans Freetown",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.46849,
+    6.88125,
+    -58.46849,
+    6.88125
+],
+  "geometry": {"coordinates":[-58.46849,6.88125],"type":"Point"}
+}

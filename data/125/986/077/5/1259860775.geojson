@@ -1,0 +1,72 @@
+{
+  "id": 1259860775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05,5.8,-61.05,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":-61.05,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Paruima Mission",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661089,
+    "gn:latitude":5.8,
+    "gn:longitude":-61.05,
+    "gn:modification_date":"2017-08-27",
+    "gn:name":"Paruima Mission",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paruima",
+        "Paruima Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091684639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661089
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"1d6752670dbdda60be73932aa81f0bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684639,
+            "locality_id":1259860775,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1259860775,
+    "wof:lastmodified":1537625486,
+    "wof:name":"Paruima Mission",
+    "wof:parent_id":1091684639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05,
+    5.8,
+    -61.05,
+    5.8
+],
+  "geometry": {"coordinates":[-61.05,5.8],"type":"Point"}
+}

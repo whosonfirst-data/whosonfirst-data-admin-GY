@@ -1,0 +1,67 @@
+{
+  "id": 1260154655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.58413,6.47557,-58.58413,6.47557",
+    "geom:latitude":6.47557,
+    "geom:longitude":-58.58413,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Makouria",
+    "gn:country_code":"GY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377217,
+    "gn:latitude":6.47557,
+    "gn:longitude":-58.58413,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Makouria",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377217
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"da290af088eb456fa4d5809f77210b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682483,
+            "locality_id":1260154655,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1260154655,
+    "wof:lastmodified":1536887108,
+    "wof:name":"Makouria",
+    "wof:parent_id":1091682483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.58413,
+    6.47557,
+    -58.58413,
+    6.47557
+],
+  "geometry": {"coordinates":[-58.58413,6.47557],"type":"Point"}
+}

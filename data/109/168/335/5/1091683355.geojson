@@ -1,0 +1,90 @@
+{
+  "id": 1091683355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002305,
+    "geom:area_square_m":28319382.487047,
+    "geom:bbox":"-58.2541763579,6.51940614005,-58.1822054575,6.58181904557",
+    "geom:latitude":6.55252,
+    "geom:longitude":-58.21797,
+    "iso:country":"GY",
+    "lbl:latitude":6.557673,
+    "lbl:longitude":-58.218515,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Te Huist Coverden / Soesdyke",
+    "meso:gadm_hasc2":"GY.DE.TH",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"415",
+    "meso:mps_x":-58.218515,
+    "meso:mps_y":6.557673,
+    "meso:name_en":"Te Huist Coverden/Soesdyke",
+    "meso:source":"AOTM",
+    "mps:latitude":6.557673,
+    "mps:longitude":-58.218515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te Huist Coverden / Soesdyke"
+    ],
+    "name:eng_x_variant":[
+        "Te Huist Coverden / Soesdyke"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Te Huist Coverden / Soesdyke",
+    "statoids:population":"4983",
+    "statoids:statoid":"GY.DE.TH",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.TH"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879047,
+    "wof:geomhash":"3502cc09388aa1280da3074e509279b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683355,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091683355,
+    "wof:lastmodified":1536614922,
+    "wof:name":"Te Huist Coverden/Soesdyke",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":4983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"TH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.25417635786188,
+    6.51940614004508,
+    -58.18220545746506,
+    6.5818190455669
+],
+  "geometry": {"coordinates":[[[-58.2222186068507,6.5818190455669],[-58.2103252400044,6.57809920874806],[-58.2006023942501,6.57599745627232],[-58.19524887246263,6.57510650070118],[-58.1925721115689,6.57466102291562],[-58.18989535067517,6.57421554513005],[-58.18414241395659,6.57054510424694],[-58.18405107308006,6.56806319112709],[-58.18395973220352,6.56558127800725],[-58.18377705045046,6.56061745176757],[-58.18262751269533,6.55427209314264],[-58.18220545746506,6.5507622919297],[-58.18405041330834,6.54991002125575],[-58.18743854884691,6.54916179930409],[-58.1919040751628,6.54907323151466],[-58.19705045986879,6.5501899802863],[-58.20143717631032,6.55023535640187],[-58.20569510177684,6.54746811812745],[-58.20978562542192,6.54357276121886],[-58.21173018562845,6.54032880276642],[-58.21342774598484,6.53648195503077],[-58.21685549196992,6.53094092704011],[-58.2200673524745,6.52552548554592],[-58.22223145284886,6.52219460255752],[-58.22499250396903,6.52054369870785],[-58.22943847588074,6.51940614004508],[-58.23541152317654,6.52061658371928],[-58.24081057263418,6.5257887403777],[-58.24629749647846,6.53117001714017],[-58.25417635786188,6.53664728427564],[-58.24814992903333,6.54321080088127],[-58.2417505726557,6.54918255201841],[-58.23679462886948,6.55624717378258],[-58.23427749785973,6.56203043040804],[-58.23238377026432,6.56710571951639],[-58.2307690945454,6.57189844093142],[-58.22847694318179,6.57565302251105],[-58.22580218587939,6.57840174135928],[-58.22401039636505,6.58011039346309],[-58.22311450160787,6.58096471951499],[-58.2222186068507,6.5818190455669]]],"type":"Polygon"}
+}

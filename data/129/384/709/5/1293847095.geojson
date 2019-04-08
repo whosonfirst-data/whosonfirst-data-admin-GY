@@ -1,0 +1,68 @@
+{
+  "id": 1293847095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.65743,5.7583,-57.65743,5.7583",
+    "geom:latitude":5.7583,
+    "geom:longitude":-57.65743,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Fort Nassau",
+    "gn:country_code":"GY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376771,
+    "gn:latitude":5.7583,
+    "gn:longitude":-57.65743,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Fort Nassau",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091684555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376771,
+        "wk:page":"Fort_Nassau_%28Guyana%29"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"b6488c29356cd642c30dde0ba7f96e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684555,
+            "locality_id":1293847095,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":1293847095,
+    "wof:lastmodified":1537563241,
+    "wof:name":"Fort Nassau",
+    "wof:parent_id":1091684555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.65743000000001,
+    5.7583,
+    -57.65743000000001,
+    5.7583
+],
+  "geometry": {"coordinates":[-57.65743000000001,5.7583],"type":"Point"}
+}

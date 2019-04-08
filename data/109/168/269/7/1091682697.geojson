@@ -1,0 +1,90 @@
+{
+  "id": 1091682697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001671,
+    "geom:area_square_m":20518596.138133,
+    "geom:bbox":"-58.2510975505,6.80156375961,-58.1963491179,6.857888699",
+    "geom:latitude":6.82781,
+    "geom:longitude":-58.22926,
+    "iso:country":"GY",
+    "lbl:latitude":6.827416,
+    "lbl:longitude":-58.229263,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Nouvelle Flanders / La Jalousie",
+    "meso:gadm_hasc2":"GY.ES.NF",
+    "meso:gaul_adm2":"Lower West Demerara River",
+    "meso:local_id":"306",
+    "meso:mps_x":-58.229263,
+    "meso:mps_y":6.827416,
+    "meso:name_en":"Nouvelle Flanders/La Jalousie",
+    "meso:source":"AOTM",
+    "mps:latitude":6.827416,
+    "mps:longitude":-58.229263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nouvelle Flanders / La Jalousie"
+    ],
+    "name:eng_x_variant":[
+        "Nouvelle Flanders / La Jalousie"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Nouvelle Flanders / La Jalousie",
+    "statoids:population":"4056",
+    "statoids:statoid":"GY.ES.NF",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.NF"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879019,
+    "wof:geomhash":"5ab70ba7397b8e704a9691d0be1e4227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682697,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682697,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Nouvelle Flanders/La Jalousie",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":4056,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"NF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.25109755050646,
+    6.80156375960942,
+    -58.1963491179098,
+    6.85788869900017
+],
+  "geometry": {"coordinates":[[[-58.24076559103199,6.85788869900017],[-58.23919296299994,6.85788869900017],[-58.2375259399999,6.8562498090003],[-58.23586273199999,6.8562498090003],[-58.23333358799988,6.85372209500025],[-58.22919464099988,6.85208320600026],[-58.22336196899982,6.84708356900018],[-58.22249984699994,6.84708356900018],[-58.22083282499995,6.844555378],[-58.21955490099987,6.84416675599999],[-58.21916580199996,6.84291648900023],[-58.21627807599992,6.84163904200028],[-58.21627807599992,6.84077787400008],[-58.21333312999991,6.83786106100024],[-58.20999908399989,6.83627796200028],[-58.20960998499993,6.83494424800023],[-58.20291519199998,6.82916688900013],[-58.2025260929999,6.82791662199998],[-58.19997405999987,6.82625007600029],[-58.19669341999997,6.82458353000027],[-58.1963491179098,6.82490660047719],[-58.2000385517819,6.82040680658586],[-58.20713325853697,6.81636863217778],[-58.21547971592623,6.81361385080911],[-58.22072876357575,6.81135353200752],[-58.22340529157894,6.81012287543596],[-58.22474355558055,6.80950754715018],[-58.22608181958214,6.8088922188644],[-58.23559469446617,6.80522798923691],[-58.24035113190818,6.80339587442316],[-58.2451075693502,6.80156375960942],[-58.24586782469072,6.80315768441342],[-58.24662808003123,6.80475160921742],[-58.24814859071226,6.80793945882542],[-58.25030014449418,6.8134531236707],[-58.25109755050646,6.81794689841911],[-58.25004070023341,6.82107836209139],[-58.24856606640638,6.82546702565768],[-58.2471233020849,6.83168938653163],[-58.24596074030536,6.84082380680475],[-58.24327597228434,6.85164761360959],[-58.24076559103199,6.85788869900017]]],"type":"Polygon"}
+}

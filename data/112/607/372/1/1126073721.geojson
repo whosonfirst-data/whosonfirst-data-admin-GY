@@ -1,0 +1,102 @@
+{
+  "id": 1126073721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.16146,6.8094,-58.16146,6.8094",
+    "geom:latitude":6.8094,
+    "geom:longitude":-58.16146,
+    "gn:gn_country":"GY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":6.8094,
+    "gn:longitude":-58.16146,
+    "iso:country":"GY",
+    "lbl:latitude":6.8094,
+    "lbl:longitude":-58.16146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stabroek"
+    ],
+    "name:unk_x_variant":[
+        "Stabroek"
+    ],
+    "qs_pg:aaroncc":"GY",
+    "qs_pg:gn_country":"GY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3375892,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stabroek",
+    "qs_pg:name_adm0":"Guyana",
+    "qs_pg:name_adm1":"Demerara-Mahaica",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887611,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424836,
+    "qs_pg:woe_id":376698,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424836,
+    "woe:name_adm0":"Guyana",
+    "woe:name_adm1":"Demerara-Mahaica",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85671761,
+        102191577,
+        85632397,
+        1091683403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375892,
+        "gp:id":376698,
+        "qs:id":887611,
+        "qs_pg:id":887611,
+        "wd:id":"Q7595793",
+        "wk:page":"Stabroek, Guyana"
+    },
+    "wof:country":"GY",
+    "wof:created":1497310467,
+    "wof:geomhash":"c8f61f0c0fdd62beb4ec5da4828bce0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683403,
+            "locality_id":-1,
+            "neighbourhood_id":1126073721,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1126073721,
+    "wof:lastmodified":1534379333,
+    "wof:name":"Stabroek",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764863
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.16146,
+    6.8094,
+    -58.16146,
+    6.8094
+],
+  "geometry": {"coordinates":[-58.16146,6.8094],"type":"Point"}
+}

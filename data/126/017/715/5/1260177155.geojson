@@ -1,0 +1,75 @@
+{
+  "id": 1260177155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.87514,7.72987,-59.87514,7.72987",
+    "geom:latitude":7.72987,
+    "geom:longitude":-59.87514,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Port Kaituma",
+    "gn:country_code":"GY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376398,
+    "gn:latitude":7.72987,
+    "gn:longitude":-59.87514,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Port Kaituma",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Port Kaituma"
+    ],
+    "name:und_x_variant":[
+        "Kaituma",
+        "Port Kaituma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091684603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376398,
+        "wk:page":"Port_Kaituma"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"db91469e0d2d245397b75f1e71dd6561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684603,
+            "locality_id":1260177155,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1260177155,
+    "wof:lastmodified":1537625477,
+    "wof:name":"Port Kaituma",
+    "wof:parent_id":1091684603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.87514,
+    7.72987,
+    -59.87514,
+    7.72987
+],
+  "geometry": {"coordinates":[-59.87514,7.72987],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 421168567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.19798,6.80927,-58.19798,6.80927",
+    "geom:latitude":6.80927,
+    "geom:longitude":-58.19798,
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5f17\u91cc\u767b\u80e1\u666e"
+    ],
+    "name:deu_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:dut_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:eng_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:fre_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:ger_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30fc\u30c9\u30fb\u30a8\u30f3\u30fb\u30db\u30fc\u30d7"
+    ],
+    "name:lit_x_preferred":[
+        "Vred en Hopas"
+    ],
+    "name:nld_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:pol_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:por_x_preferred":[
+        "Vreed en Hoop"
+    ],
+    "name:swe_x_preferred":[
+        "Vreed-en-Hoop"
+    ],
+    "name:unk_x_variant":[
+        "Vreed-en-Hoop"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u91cc\u767b\u80e1\u666e"
+    ],
+    "qs:gn_country":"GY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3375409,
+    "qs:gn_pop":3073,
+    "qs:name":"Vreed en Hoop",
+    "qs:name_adm0":"Guyana",
+    "qs:name_adm1":"Essequibo Islands-West Demerara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044173,
+    "qs:woe_adm0":23424836,
+    "qs:woe_id":376725,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":6.799972,
+    "wd:longitude":-58.183306,
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375409,
+        "gp:id":376725,
+        "qs:id":1044173,
+        "wd:id":"Q1018877",
+        "wk:page":"Vreed en Hoop"
+    },
+    "wof:country":"GY",
+    "wof:created":1459008769,
+    "wof:geomhash":"db34845f95924196465f667092332ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682307,
+            "locality_id":421168567,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":421168567,
+    "wof:lastmodified":1527716090,
+    "wof:name":"Vreed en Hoop",
+    "wof:parent_id":1091682307,
+    "wof:placetype":"locality",
+    "wof:population":3073,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.19798,
+    6.80927,
+    -58.19798,
+    6.80927
+],
+  "geometry": {"coordinates":[-58.19798,6.80927],"type":"Point"}
+}

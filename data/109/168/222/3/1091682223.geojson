@@ -1,0 +1,90 @@
+{
+  "id": 1091682223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000621,
+    "geom:area_square_m":7623986.371321,
+    "geom:bbox":"-58.2267184489,6.74933898671,-58.1968385105,6.77904101739",
+    "geom:latitude":6.763702,
+    "geom:longitude":-58.211664,
+    "iso:country":"GY",
+    "lbl:latitude":6.763338,
+    "lbl:longitude":-58.211949,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Nismes / La Grange",
+    "meso:gadm_hasc2":"GY.ES.NL",
+    "meso:gaul_adm2":"Lower West Demerara River",
+    "meso:local_id":"303",
+    "meso:mps_x":-58.211949,
+    "meso:mps_y":6.763338,
+    "meso:name_en":"Nismes/La Grange",
+    "meso:source":"AOTM",
+    "mps:latitude":6.763338,
+    "mps:longitude":-58.211949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nismes / La Grange"
+    ],
+    "name:eng_x_variant":[
+        "Nismes / La Grange"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Nismes / La Grange",
+    "statoids:population":"6304",
+    "statoids:statoid":"GY.ES.NL",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.NL"
+    },
+    "wof:country":"GY",
+    "wof:created":1473878999,
+    "wof:geomhash":"de8dffc45ffad1d46db4dc15eb27ba03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682223,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682223,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Nismes/La Grange",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":6304,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"NL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.22671844889257,
+    6.74933898671385,
+    -58.1968385105389,
+    6.77904101739375
+],
+  "geometry": {"coordinates":[[[-58.22321968406317,6.762786540584],[-58.22269397422959,6.7641527208934],[-58.22216826439602,6.7655189012028],[-58.22111684472887,6.7682512618216],[-58.21923326630512,6.77357339569695],[-58.21533823891315,6.77815884921889],[-58.21089794555678,6.77904101739375],[-58.20673148077944,6.77857898827851],[-58.19993823995273,6.77812042987456],[-58.1968385105389,6.77802815203826],[-58.19797134399994,6.77583313000019],[-58.19874954199992,6.76997232400021],[-58.19961166399992,6.76916647000013],[-58.2004165649999,6.76416683200017],[-58.2012786869999,6.7633056640002],[-58.20124816899988,6.76083326300017],[-58.20291519199998,6.75750017200016],[-58.20291519199998,6.75497245800028],[-58.20377731299988,6.7541666030001],[-58.20377731299988,6.75163888900022],[-58.20461273199993,6.75083351100022],[-58.20461273199993,6.74989767930566],[-58.20877905799637,6.74959565020652],[-58.21774875344447,6.74946731846019],[-58.22223360116852,6.74940315258702],[-58.22671844889257,6.74933898671385],[-58.22496906647787,6.75606276364893],[-58.22321968406317,6.762786540584]]],"type":"Polygon"}
+}

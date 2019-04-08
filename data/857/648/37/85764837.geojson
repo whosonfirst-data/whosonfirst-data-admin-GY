@@ -1,0 +1,100 @@
+{
+  "id": 85764837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13399270.90996,
+    "geom:bbox":"-58.121863,6.816388,-58.121863,6.816388",
+    "geom:latitude":6.816388,
+    "geom:longitude":-58.121863,
+    "iso:country":"GY",
+    "lbl:latitude":6.816388,
+    "lbl:longitude":-58.121863,
+    "mps:latitude":6.82008,
+    "mps:longitude":-58.112716,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Blygezight"
+    ],
+    "name:unk_x_variant":[
+        "Blygezight"
+    ],
+    "qs:gn_adm0_cc":"GY",
+    "qs:gn_id":0,
+    "qs:gn_local":3378644,
+    "qs:id":0,
+    "qs:local_max":1085,
+    "qs:local_sum":2534,
+    "qs:localhoods":7,
+    "qs:name":"Blygezight",
+    "qs:name_adm0":"Guyana",
+    "qs:name_adm1":"Demerara-Mahaica",
+    "qs:name_local":"Georgetown",
+    "qs:photo_max":34,
+    "qs:photo_sum":82,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424836,
+    "qs:woe_adm1":2345605,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":376765,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        1091683403,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":376398
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"2f2e739e823850f7010e79ad5c15c5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683403,
+            "locality_id":-1,
+            "neighbourhood_id":85764837,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":85764837,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531858961,
+    "wof:name":"Blygezight",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.121863,
+    6.816388,
+    -58.121863,
+    6.816388
+],
+  "geometry": {"coordinates":[-58.121863,6.816388],"type":"Point"}
+}

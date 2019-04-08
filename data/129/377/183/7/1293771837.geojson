@@ -1,0 +1,72 @@
+{
+  "id": 1293771837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.66667,6.38333,-58.66667,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":-58.66667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"The Clip",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375681,
+    "gn:latitude":6.38333,
+    "gn:longitude":-58.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"The Clip",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klip",
+        "The Clip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091685331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375681
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"2a958b69e762ae14f1e7c83ae128cb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685331,
+            "locality_id":1293771837,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1293771837,
+    "wof:lastmodified":1537625475,
+    "wof:name":"The Clip",
+    "wof:parent_id":1091685331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.66667,
+    6.38333,
+    -58.66667,
+    6.38333
+],
+  "geometry": {"coordinates":[-58.66667,6.38333],"type":"Point"}
+}

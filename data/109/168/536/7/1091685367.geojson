@@ -1,0 +1,87 @@
+{
+  "id": 1091685367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":3235952.933657,
+    "geom:bbox":"-58.6389561128,6.39617809263,-58.618751526,6.420416832",
+    "geom:latitude":6.410384,
+    "geom:longitude":-58.628277,
+    "iso:country":"GY",
+    "lbl:latitude":6.410734,
+    "lbl:longitude":-58.628966,
+    "meso:adm1_alt":"7",
+    "meso:admin_1":"Cuyuni-Mazaruni",
+    "meso:gadm_admin":"NO DATA",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_adm2":"Mazaruni/left Bank Essequibo River",
+    "meso:local_id":"701",
+    "meso:mps_x":-58.628966,
+    "meso:mps_y":6.410734,
+    "meso:name_en":"Bartica",
+    "meso:source":"AOTM",
+    "mps:latitude":6.410734,
+    "mps:longitude":-58.628966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bartica"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.CU",
+    "statoids:name":"Bartica",
+    "statoids:population":"7458",
+    "statoids:statoid":"GY.CU.BA",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.CU.BA"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879130,
+    "wof:geomhash":"d997f64a8db248f0935cc4a53fc986ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685367,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1091685367,
+    "wof:lastmodified":1536614925,
+    "wof:name":"Bartica",
+    "wof:parent_id":85671773,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":7458,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"BA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.63895611277569,
+    6.39617809263224,
+    -58.61875152599993,
+    6.42041683200017
+],
+  "geometry": {"coordinates":[[[-58.62379980302491,6.39617809263224],[-58.62712116633671,6.40097561741595],[-58.63404289324895,6.40508539277009],[-58.63793636463708,6.40854625622621],[-58.63895611277569,6.41313512284997],[-58.63750076299993,6.41458320600009],[-58.63663864099993,6.41458320600009],[-58.63596461047478,6.41514446715229],[-58.63166809099988,6.4187221530002],[-58.62833404499986,6.41955566400014],[-58.62749862699997,6.42041683200017],[-58.62666702299987,6.41955566400014],[-58.62335967999991,6.41874980900013],[-58.61875152599993,6.41497230500022],[-58.61875152599993,6.4133057590002],[-58.62044525099986,6.41163873700009],[-58.62090620303643,6.40972993872978],[-58.62125015299989,6.40830564500021],[-58.6221122739999,6.4074997900002],[-58.62208175699982,6.40250015300018],[-58.62294387799983,6.40163898500015],[-58.62294387799983,6.39911127100027],[-58.62380599999989,6.39830541600014],[-58.62379980302491,6.39617809263224]]],"type":"Polygon"}
+}

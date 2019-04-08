@@ -1,0 +1,67 @@
+{
+  "id": 1242954169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.58513,6.28508,-58.58513,6.28508",
+    "geom:latitude":6.28508,
+    "geom:longitude":-58.58513,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Poterima",
+    "gn:country_code":"GY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376384,
+    "gn:latitude":6.28508,
+    "gn:longitude":-58.58513,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Poterima",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091684515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376384
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"94ef278f7a0265a7625d812b7c6c811d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684515,
+            "locality_id":1242954169,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":1242954169,
+    "wof:lastmodified":1537017622,
+    "wof:name":"Poterima",
+    "wof:parent_id":1091684515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.58513000000001,
+    6.28508,
+    -58.58513000000001,
+    6.28508
+],
+  "geometry": {"coordinates":[-58.58513000000001,6.28508],"type":"Point"}
+}

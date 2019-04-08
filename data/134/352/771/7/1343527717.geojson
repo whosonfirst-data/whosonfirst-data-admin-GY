@@ -1,0 +1,66 @@
+{
+  "id": 1343527717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.59389,6.43418,-58.59389,6.43418",
+    "geom:latitude":6.43418,
+    "geom:longitude":-58.59389,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Urisirima Point",
+    "gn:country_code":"GY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3375450,
+    "gn:latitude":6.43418,
+    "gn:longitude":-58.59389,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Urisirima Point",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urisirma Point",
+        "Urisirima Point",
+        "Urisirma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375450
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"51e8670b2158014b01d907797998d235",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343527717,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343527717,
+    "wof:lastmodified":1537625474,
+    "wof:name":"Urisirima Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.59389,
+    6.43418,
+    -58.59389,
+    6.43418
+],
+  "geometry": {"coordinates":[-58.59389,6.43418],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277065795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.7148,7.37823,-59.7148,7.37823",
+    "geom:latitude":7.37823,
+    "geom:longitude":-59.7148,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kariaku",
+    "gn:country_code":"GY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377942,
+    "gn:latitude":7.37823,
+    "gn:longitude":-59.7148,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kariaku",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kariakau",
+        "Kariaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377942
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"009efc5698e89cec89e90c1b8f653657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681149,
+            "locality_id":1277065795,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1277065795,
+    "wof:lastmodified":1537625481,
+    "wof:name":"Kariaku",
+    "wof:parent_id":1091681149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.7148,
+    7.37823,
+    -59.7148,
+    7.37823
+],
+  "geometry": {"coordinates":[-59.7148,7.37823],"type":"Point"}
+}

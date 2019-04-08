@@ -1,0 +1,70 @@
+{
+  "id": 1226205645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.74032,5.81196,-57.74032,5.81196",
+    "geom:latitude":5.81196,
+    "geom:longitude":-57.74032,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sandhills",
+    "gn:country_code":"GY",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376146,
+    "gn:latitude":5.81196,
+    "gn:longitude":-57.74032,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sandhills",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sand Hills"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091684375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376146
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"66cae7e062f814f5f11319d79e4629b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684375,
+            "locality_id":1226205645,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":1226205645,
+    "wof:lastmodified":1537625476,
+    "wof:name":"Sandhills",
+    "wof:parent_id":1091684375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.74032,
+    5.81196,
+    -57.74032,
+    5.81196
+],
+  "geometry": {"coordinates":[-57.74032,5.81196],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309889451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.48333,7.35,-60.48333,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":-60.48333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Baramita",
+    "gn:country_code":"GY",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661401,
+    "gn:latitude":7.35,
+    "gn:longitude":-60.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baramita",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661401,
+        "wk:page":"Baramita"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"5b13f86913297ebc9c901b3288a0fe54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681141,
+            "locality_id":1309889451,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1309889451,
+    "wof:lastmodified":1537563242,
+    "wof:name":"Baramita",
+    "wof:parent_id":1091681141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.48333,
+    7.35,
+    -60.48333,
+    7.35
+],
+  "geometry": {"coordinates":[-60.48333,7.35],"type":"Point"}
+}

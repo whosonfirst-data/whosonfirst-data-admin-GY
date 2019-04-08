@@ -1,0 +1,90 @@
+{
+  "id": 1091685791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000598,
+    "geom:area_square_m":7341917.346924,
+    "geom:bbox":"-58.0831475098,6.71885796106,-58.0508749037,6.82301211436",
+    "geom:latitude":6.773949,
+    "geom:longitude":-58.066614,
+    "iso:country":"GY",
+    "lbl:latitude":6.774546,
+    "lbl:longitude":-58.066374,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Triumph / Beterverwagting",
+    "meso:gadm_hasc2":"GY.DE.TB",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"407",
+    "meso:mps_x":-58.066374,
+    "meso:mps_y":6.774546,
+    "meso:name_en":"Triumph/Beterverwagting",
+    "meso:source":"AOTM",
+    "mps:latitude":6.774546,
+    "mps:longitude":-58.066374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Triumph / BV"
+    ],
+    "name:eng_x_variant":[
+        "Triumph / Beterverwagting"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Triumph / BV",
+    "statoids:population":"7133",
+    "statoids:statoid":"GY.DE.TB",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.TB"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879147,
+    "wof:geomhash":"c02b9c1d86c5069e92a3335514cdbd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685791,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091685791,
+    "wof:lastmodified":1536614926,
+    "wof:name":"Triumph/Beterverwagting",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":7133,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"TB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.08314750977154,
+    6.71885796105544,
+    -58.0508749036884,
+    6.823012114358
+],
+  "geometry": {"coordinates":[[[-58.05714820408382,6.823012114358],[-58.05666732799989,6.82291650800016],[-58.05419540399993,6.82124996200014],[-58.05247116099991,6.82124996200014],[-58.05154048165265,6.82068158284102],[-58.0508749036884,6.82027510487978],[-58.07879310620185,6.71885796105544],[-58.08115153174051,6.72020113634117],[-58.08314750977154,6.72036902211174],[-58.05714820408382,6.823012114358]]],"type":"Polygon"}
+}

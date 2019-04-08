@@ -1,0 +1,76 @@
+{
+  "id": 1242943375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.70148,6.50192,-57.70148,6.50192",
+    "geom:latitude":6.50192,
+    "geom:longitude":-57.70148,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Belladrum",
+    "gn:country_code":"GY",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379467,
+    "gn:latitude":6.50192,
+    "gn:longitude":-57.70148,
+    "gn:modification_date":"2011-09-02",
+    "gn:name":"Belladrum",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091681371,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379467,
+        "wk:page":"Belladrum"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"e698bd5e7c10ee5388c1ad97621a41a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681371,
+            "locality_id":1242943375,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681371,
+            "locality_id":1242943375,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":1242943375,
+    "wof:lastmodified":1537563242,
+    "wof:name":"Belladrum",
+    "wof:parent_id":1091681371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.70148,
+    6.50192,
+    -57.70148,
+    6.50192
+],
+  "geometry": {"coordinates":[-57.70148,6.50192],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293070651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.88083,7.25474,-58.88083,7.25474",
+    "geom:latitude":7.25474,
+    "geom:longitude":-58.88083,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Durung Bang",
+    "gn:country_code":"GY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378846,
+    "gn:latitude":7.25474,
+    "gn:longitude":-58.88083,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Durung Bang",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Issororo",
+        "Durung Bang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671753,
+        1091681961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378846
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"bdbff8b773ce92fd7a5925cee07228e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681961,
+            "locality_id":1293070651,
+            "region_id":85671753
+        }
+    ],
+    "wof:id":1293070651,
+    "wof:lastmodified":1537625483,
+    "wof:name":"Durung Bang",
+    "wof:parent_id":1091681961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.88083,
+    7.25474,
+    -58.88083,
+    7.25474
+],
+  "geometry": {"coordinates":[-58.88083,7.25474],"type":"Point"}
+}

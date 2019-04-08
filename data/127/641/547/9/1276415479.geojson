@@ -1,0 +1,80 @@
+{
+  "id": 1276415479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.53333,4.03333,-59.53333,4.03333",
+    "geom:latitude":4.03333,
+    "geom:longitude":-59.53333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Karasabai Village",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377960,
+    "gn:latitude":4.03333,
+    "gn:longitude":-59.53333,
+    "gn:modification_date":"2017-08-27",
+    "gn:name":"Karasabai Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karasabai",
+        "Karasabai Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671743,
+        1091684343,
+        85671745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377960
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"656c4e9d82dbcaa750da90752ee75148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684343,
+            "locality_id":1276415479,
+            "region_id":85671743
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684343,
+            "locality_id":1276415479,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":1276415479,
+    "wof:lastmodified":1537625481,
+    "wof:name":"Karasabai Village",
+    "wof:parent_id":1091684343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.53333000000001,
+    4.03333,
+    -59.53333000000001,
+    4.03333
+],
+  "geometry": {"coordinates":[-59.53333000000001,4.03333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259850485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.29224,6.41675,-58.29224,6.41675",
+    "geom:latitude":6.41675,
+    "geom:longitude":-58.29224,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Good Hope",
+    "gn:country_code":"GY",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3378599,
+    "gn:latitude":6.41675,
+    "gn:longitude":-58.29224,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Good Hope",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378599
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"6d5f89d7c9bfbea5e1a261ed62431656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682779,
+            "locality_id":1259850485,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1259850485,
+    "wof:lastmodified":1536825870,
+    "wof:name":"Good Hope",
+    "wof:parent_id":1091682779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.29224,
+    6.41675,
+    -58.29224,
+    6.41675
+],
+  "geometry": {"coordinates":[-58.29224,6.41675],"type":"Point"}
+}

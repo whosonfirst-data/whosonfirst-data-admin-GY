@@ -1,0 +1,90 @@
+{
+  "id": 1091685733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003215,
+    "geom:area_square_m":39471961.041962,
+    "geom:bbox":"-58.0787931062,6.7084359066,-58.0192083054,6.82027510488",
+    "geom:latitude":6.765627,
+    "geom:longitude":-58.049879,
+    "iso:country":"GY",
+    "lbl:latitude":6.773512,
+    "lbl:longitude":-58.046945,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"La Reconnaissance / Mon Repos",
+    "meso:gadm_hasc2":"GY.DE.LR",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"406",
+    "meso:mps_x":-58.046945,
+    "meso:mps_y":6.773512,
+    "meso:name_en":"La Reconnaissance/Mon Repos",
+    "meso:source":"AOTM",
+    "mps:latitude":6.773512,
+    "mps:longitude":-58.046945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "La Reconnaissance / Mon Repos"
+    ],
+    "name:eng_x_variant":[
+        "La Reconnaissance / Mon Repos"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"La Reconnaissance / Mon Repos",
+    "statoids:population":"17315",
+    "statoids:statoid":"GY.DE.LR",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.LR"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879144,
+    "wof:geomhash":"e1c715d6bec8dbba53d42fe0920ad6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685733,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091685733,
+    "wof:lastmodified":1536614926,
+    "wof:name":"La Reconnaissance/Mon Repos",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":17315,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"LR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.07879310620185,
+    6.70843590660091,
+    -58.01920830536214,
+    6.82027510487978
+],
+  "geometry": {"coordinates":[[[-58.0508749036884,6.82027510487978],[-58.04833221399991,6.81872224800026],[-58.04419326799984,6.81788873700009],[-58.03919601399991,6.81536102300021],[-58.03586196899982,6.81455564500021],[-58.03419494599996,6.81202793099993],[-58.03005599999989,6.81038904200017],[-58.02916717499988,6.80872201899996],[-58.02583312999985,6.8079166410003],[-58.02330398599997,6.80538892700025],[-58.02002716099992,6.80455541599991],[-58.01920830536214,6.80302549722804],[-58.0238061050848,6.78895498957426],[-58.02731971920896,6.77614416145374],[-58.03086525597833,6.76821938253984],[-58.03439014698696,6.763252747835],[-58.0368078757044,6.7599007694954],[-58.0383479507725,6.75741666559716],[-58.03917397538615,6.75380108565481],[-58.04074510204061,6.74843493181948],[-58.04375649755885,6.74377549264037],[-58.0462335581907,6.73764983022463],[-58.04751613817304,6.73106868346243],[-58.04780986339084,6.72527811008133],[-58.04793507015128,6.7190286494022],[-58.04929361153249,6.71426289571289],[-58.05080250666213,6.7113494011569],[-58.05155695422695,6.70989265387891],[-58.05231140179177,6.70843590660091],[-58.0568425358518,6.71018515663957],[-58.06137366991183,6.71193440667823],[-58.07043593803189,6.71543290675555],[-58.07543681290922,6.71694647810699],[-58.07879310620185,6.71885796105544],[-58.0508749036884,6.82027510487978]]],"type":"Polygon"}
+}

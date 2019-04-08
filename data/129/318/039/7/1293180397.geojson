@@ -1,0 +1,66 @@
+{
+  "id": 1293180397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.13679,5.90707,-57.13679,5.90707",
+    "geom:latitude":5.90707,
+    "geom:longitude":-57.13679,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dukestown",
+    "gn:country_code":"GY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378865,
+    "gn:latitude":5.90707,
+    "gn:longitude":-57.13679,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Dukestown",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091685409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378865
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"5ba33cf6881980fe66c3c3a25746bd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685409,
+            "locality_id":1293180397,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1293180397,
+    "wof:lastmodified":1536733140,
+    "wof:name":"Dukestown",
+    "wof:parent_id":1091685409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.13679000000001,
+    5.90707,
+    -57.13679000000001,
+    5.90707
+],
+  "geometry": {"coordinates":[-57.13679000000001,5.90707],"type":"Point"}
+}

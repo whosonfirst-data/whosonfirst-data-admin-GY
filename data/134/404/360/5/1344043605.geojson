@@ -1,0 +1,66 @@
+{
+  "id": 1344043605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.14949,5.89365,-57.14949,5.89365",
+    "geom:latitude":5.89365,
+    "geom:longitude":-57.14949,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Queenstown",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376314,
+    "gn:latitude":5.89365,
+    "gn:longitude":-57.14949,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Queenstown",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091685409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376314
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"2a1db51ff3cd25f6c5e2438ef1cfa3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685409,
+            "locality_id":1344043605,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1344043605,
+    "wof:lastmodified":1536899988,
+    "wof:name":"Queenstown",
+    "wof:parent_id":1091685409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.14949,
+    5.89365,
+    -57.14949,
+    5.89365
+],
+  "geometry": {"coordinates":[-57.14949,5.89365],"type":"Point"}
+}

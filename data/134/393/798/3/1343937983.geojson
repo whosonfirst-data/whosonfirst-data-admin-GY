@@ -1,0 +1,67 @@
+{
+  "id": 1343937983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.96481,6.75424,-57.96481,6.75424",
+    "geom:latitude":6.75424,
+    "geom:longitude":-57.96481,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Victoria",
+    "gn:country_code":"GY",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375425,
+    "gn:latitude":6.75424,
+    "gn:longitude":-57.96481,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091681243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375425
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"1dad5d8376faa3f1eebb778bc804c365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681243,
+            "locality_id":1343937983,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1343937983,
+    "wof:lastmodified":1537050393,
+    "wof:name":"Victoria",
+    "wof:parent_id":1091681243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.96481,
+    6.75424,
+    -57.96481,
+    6.75424
+],
+  "geometry": {"coordinates":[-57.96481,6.75424],"type":"Point"}
+}

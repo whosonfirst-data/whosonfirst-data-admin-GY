@@ -1,0 +1,67 @@
+{
+  "id": 1360265311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.97423,6.73963,-57.97423,6.73963",
+    "geom:latitude":6.73963,
+    "geom:longitude":-57.97423,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cove",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3379059,
+    "gn:latitude":6.73963,
+    "gn:longitude":-57.97423,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Cove",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091681243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379059
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"ce26d515011974f37822c1c23ae7663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681243,
+            "locality_id":1360265311,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1360265311,
+    "wof:lastmodified":1536685705,
+    "wof:name":"Cove",
+    "wof:parent_id":1091681243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.97423000000001,
+    6.73963,
+    -57.97423000000001,
+    6.73963
+],
+  "geometry": {"coordinates":[-57.97423000000001,6.73963],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276190663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.66667,3.05,-59.66667,3.05",
+    "geom:latitude":3.05,
+    "geom:longitude":-59.66667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Mariwa Village",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377051,
+    "gn:latitude":3.05,
+    "gn:longitude":-59.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mariwa Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muriwa Village",
+        "Mariwa Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091681781,
+        85671743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377051
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"6345dab9a7a7827a632dc73dc68919dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681781,
+            "locality_id":1276190663,
+            "region_id":85671745
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681781,
+            "locality_id":1276190663,
+            "region_id":85671743
+        }
+    ],
+    "wof:id":1276190663,
+    "wof:lastmodified":1537625480,
+    "wof:name":"Mariwa Village",
+    "wof:parent_id":1091681781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.66667,
+    3.05,
+    -59.66667,
+    3.05
+],
+  "geometry": {"coordinates":[-59.66667,3.05],"type":"Point"}
+}

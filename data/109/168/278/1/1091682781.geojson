@@ -1,0 +1,90 @@
+{
+  "id": 1091682781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00088,
+    "geom:area_square_m":10802106.754095,
+    "geom:bbox":"-58.2607623651,6.69754338123,-58.2297920147,6.73042992613",
+    "geom:latitude":6.714059,
+    "geom:longitude":-58.245368,
+    "iso:country":"GY",
+    "lbl:latitude":6.71451,
+    "lbl:longitude":-58.245575,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Canal No. 2 (part) + The Belle + Little Alliance",
+    "meso:gadm_hasc2":"GY.ES.CN",
+    "meso:gaul_adm2":"Lower West Demerara River",
+    "meso:local_id":"316",
+    "meso:mps_x":-58.245575,
+    "meso:mps_y":6.71451,
+    "meso:name_en":"Canal No.2 (part)+The Belle+Little Alliance",
+    "meso:source":"AOTM",
+    "mps:latitude":6.71451,
+    "mps:longitude":-58.245575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Canal No. 2 (part) + The Belle + Little Alliance"
+    ],
+    "name:eng_x_variant":[
+        "Canal No. 2 (part) + The Belle + Little Alliance"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Canal No. 2 (part) + The Belle + Little Alliance",
+    "statoids:population":"413",
+    "statoids:statoid":"GY.ES.CN",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.CN"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879023,
+    "wof:geomhash":"ca01bd38dda5caee884f73b6d939cf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682781,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682781,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Canal No.2 (part)+The Belle+Little Alliance",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":413,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"CN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.26076236506343,
+    6.69754338122886,
+    -58.22979201465862,
+    6.73042992612594
+],
+  "geometry": {"coordinates":[[[-58.22979201465862,6.72841554316623],[-58.22989600732919,6.72201915926936],[-58.22994800366447,6.71818701470004],[-58.23083481081001,6.71438272307452],[-58.23234889070044,6.7084389875036],[-58.2333157979854,6.70299118436623],[-58.23379925162787,6.70026728279755],[-58.23428270527035,6.69754338122886],[-58.24001085415875,6.69765821677639],[-58.24537492860295,6.69769574304312],[-58.25045091352942,6.69756507535539],[-58.25441200092166,6.69905695260242],[-58.25755219031872,6.70122418772511],[-58.25912228501725,6.70230780528646],[-58.26069237971578,6.70339142284781],[-58.26067817274807,6.71358583533166],[-58.26076236506343,6.71943094031409],[-58.25861873066488,6.72411938148205],[-58.25523826638845,6.72811396572094],[-58.25193176436051,6.73007847382275],[-58.24836185202618,6.73042992612594],[-58.24259467540725,6.72972643341],[-58.23619334503293,6.72907098828812],[-58.23299267984578,6.72874326572718],[-58.22979201465862,6.72841554316623]]],"type":"Polygon"}
+}

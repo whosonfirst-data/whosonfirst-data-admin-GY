@@ -1,0 +1,114 @@
+{
+  "id": 85764863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":3784707.368938,
+    "geom:bbox":"-58.16272,6.823898,-58.16272,6.823898",
+    "geom:latitude":6.823898,
+    "geom:longitude":-58.16272,
+    "gn:latitude":6.8094,
+    "gn:longitude":-58.16146,
+    "iso:country":"GY",
+    "lbl:latitude":6.823898,
+    "lbl:longitude":-58.16272,
+    "mps:latitude":6.82604,
+    "mps:longitude":-58.16515,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Stabroek"
+    ],
+    "name:unk_x_variant":[
+        "Stabroek"
+    ],
+    "qs:gn_adm0_cc":"GY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3378644,
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Stabroek",
+    "qs:local_max":1085,
+    "qs:local_sum":2534,
+    "qs:localhoods":7,
+    "qs:name":"Stabroek",
+    "qs:name_adm0":"Guyana",
+    "qs:name_adm1":"Demerara-Mahaica",
+    "qs:name_local":"Georgetown",
+    "qs:photo_max":10,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424836,
+    "qs:woe_adm1":2345605,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":376765,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":6.807042,
+    "wd:longitude":-58.159969,
+    "wd:wordcount":232,
+    "wof:belongsto":[
+        85671761,
+        102191577,
+        85632397,
+        1091683403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375892,
+        "gp:id":376698,
+        "qs:id":887611,
+        "wd:id":"Q7595793",
+        "wk:page":"Stabroek, Guyana"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"419533b2c1ece41872a5178e24518e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683403,
+            "locality_id":-1,
+            "neighbourhood_id":85764863,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":85764863,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379333,
+    "wof:name":"Stabroek",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[
+        1126073721
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.16272,
+    6.823898,
+    -58.16272,
+    6.823898
+],
+  "geometry": {"coordinates":[-58.16272,6.823898],"type":"Point"}
+}

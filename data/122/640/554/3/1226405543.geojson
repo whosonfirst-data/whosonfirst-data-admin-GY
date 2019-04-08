@@ -1,0 +1,67 @@
+{
+  "id": 1226405543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.91667,5.56667,-57.91667,5.56667",
+    "geom:latitude":5.56667,
+    "geom:longitude":-57.91667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Paradise",
+    "gn:country_code":"GY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376536,
+    "gn:latitude":5.56667,
+    "gn:longitude":-57.91667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Paradise",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091684555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376536
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"0bceb9c681b90e14c242ed227354e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684555,
+            "locality_id":1226405543,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":1226405543,
+    "wof:lastmodified":1536703833,
+    "wof:name":"Paradise",
+    "wof:parent_id":1091684555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.91667,
+    5.56667,
+    -57.91667,
+    5.56667
+],
+  "geometry": {"coordinates":[-57.91667,5.56667],"type":"Point"}
+}

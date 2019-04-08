@@ -1,0 +1,90 @@
+{
+  "id": 1091683091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001511,
+    "geom:area_square_m":18553746.892573,
+    "geom:bbox":"-57.9595552322,6.65924438208,-57.9122578886,6.72041528487",
+    "geom:latitude":6.686157,
+    "geom:longitude":-57.932693,
+    "iso:country":"GY",
+    "lbl:latitude":6.68375,
+    "lbl:longitude":-57.931081,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Vereeniging / Unity",
+    "meso:gadm_hasc2":"GY.DE.VU",
+    "meso:gaul_adm2":"Buxton/mahaica",
+    "meso:local_id":"402",
+    "meso:mps_x":-57.931081,
+    "meso:mps_y":6.68375,
+    "meso:name_en":"Vereeniging/Unity",
+    "meso:source":"AOTM",
+    "mps:latitude":6.68375,
+    "mps:longitude":-57.931081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Vereeniging / Unity"
+    ],
+    "name:eng_x_variant":[
+        "Vereeniging / Unity"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Vereeniging / Unity",
+    "statoids:population":"9033",
+    "statoids:statoid":"GY.DE.VU",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.VU"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879036,
+    "wof:geomhash":"52ab4d1a63a6d97083bde99f47580e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683091,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091683091,
+    "wof:lastmodified":1536614922,
+    "wof:name":"Vereeniging/Unity",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":9033,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"VU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.95955523224789,
+    6.65924438207645,
+    -57.91225788857572,
+    6.72041528486629
+],
+  "geometry": {"coordinates":[[[-57.92628734456475,6.72041528486629],[-57.92077636699997,6.71463871000009],[-57.9200286869999,6.7132220270002],[-57.9153900149999,6.71327781700023],[-57.91225788857572,6.71195370161014],[-57.91581419108782,6.70470108702092],[-57.9174806979635,6.69797150030822],[-57.91752074533144,6.69350455666873],[-57.91716523678935,6.69041408518536],[-57.91676448067791,6.6854863698909],[-57.91668775102085,6.68021941277981],[-57.91815529670312,6.67699186171588],[-57.92080460313579,6.67318595455435],[-57.92273208198249,6.6662151683154],[-57.92369582140584,6.66272977519592],[-57.92465956082919,6.65924438207645],[-57.93142102712058,6.6600470895525],[-57.93642863850278,6.66124838466505],[-57.94089068746077,6.66311026425004],[-57.94493225991702,6.66457510052167],[-57.95028097428045,6.66681822937432],[-57.95491810326417,6.66933302973031],[-57.95723666775604,6.6705904299083],[-57.95955523224789,6.6718478300863],[-57.9562773686738,6.67696027378912],[-57.95407409815573,6.68138803265859],[-57.95225236125693,6.68542646016358],[-57.94881683293774,6.68787174860739],[-57.94386396772671,6.69012578215213],[-57.94095141455638,6.69410612727404],[-57.93901844322964,6.69891457431186],[-57.93708626709304,6.70245757079784],[-57.93604313354642,6.70665267708784],[-57.93392910086202,6.71195449812285],[-57.931079525803,6.71609538068781],[-57.92628734456475,6.72041528486629]]],"type":"Polygon"}
+}

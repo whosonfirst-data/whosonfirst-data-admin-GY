@@ -1,0 +1,72 @@
+{
+  "id": 1343928697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.46743,6.81937,-58.46743,6.81937",
+    "geom:latitude":6.81937,
+    "geom:longitude":-58.46743,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hubu",
+    "gn:country_code":"GY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378347,
+    "gn:latitude":6.81937,
+    "gn:longitude":-58.46743,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Hubu",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hooboo",
+        "Hubu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682829,
+        1175612739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378347
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"de5aa9c7e6287f6136c14db5001d3bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682829,
+            "locality_id":1343928697,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1343928697,
+    "wof:lastmodified":1537625482,
+    "wof:name":"Hubu",
+    "wof:parent_id":1175612739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.46743000000001,
+    6.81937,
+    -58.46743000000001,
+    6.81937
+],
+  "geometry": {"coordinates":[-58.46743000000001,6.81937],"type":"Point"}
+}

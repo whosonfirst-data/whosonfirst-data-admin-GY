@@ -1,0 +1,73 @@
+{
+  "id": 1310681337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.17712,6.72274,-58.17712,6.72274",
+    "geom:latitude":6.72274,
+    "geom:longitude":-58.17712,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Diamond Place",
+    "gn:country_code":"GY",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3378919,
+    "gn:latitude":6.72274,
+    "gn:longitude":-58.17712,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Diamond Place",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Big Diamond",
+        "Diamond Place",
+        "Great Diamond",
+        "Diamond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378919
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"6bedceb4a11356312bf315f8fc8a9ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683225,
+            "locality_id":1310681337,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1310681337,
+    "wof:lastmodified":1537625483,
+    "wof:name":"Diamond Place",
+    "wof:parent_id":1091683225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.17712,
+    6.72274,
+    -58.17712,
+    6.72274
+],
+  "geometry": {"coordinates":[-58.17712,6.72274],"type":"Point"}
+}

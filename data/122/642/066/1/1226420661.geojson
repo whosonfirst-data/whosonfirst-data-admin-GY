@@ -1,0 +1,72 @@
+{
+  "id": 1226420661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.13333,7.16667,-60.13333,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":-60.13333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Muruakundi",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661124,
+    "gn:latitude":7.16667,
+    "gn:longitude":-60.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Muruakundi",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muriakundi",
+        "Muruakundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661124
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"e371bc532b117cf05287e47ed7891f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681141,
+            "locality_id":1226420661,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":1226420661,
+    "wof:lastmodified":1537625486,
+    "wof:name":"Muruakundi",
+    "wof:parent_id":1091681141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.13333000000001,
+    7.16667,
+    -60.13333000000001,
+    7.16667
+],
+  "geometry": {"coordinates":[-60.13333000000001,7.16667],"type":"Point"}
+}

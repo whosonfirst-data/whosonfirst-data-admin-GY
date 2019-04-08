@@ -1,0 +1,67 @@
+{
+  "id": 1226213977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.63333,4.8,-59.63333,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":-59.63333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Taruka",
+    "gn:country_code":"GY",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375739,
+    "gn:latitude":4.8,
+    "gn:longitude":-59.63333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Taruka",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671739,
+        1091684213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375739
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"960f61f23bfd6a71cf4b69fc142f00cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684213,
+            "locality_id":1226213977,
+            "region_id":85671739
+        }
+    ],
+    "wof:id":1226213977,
+    "wof:lastmodified":1536978899,
+    "wof:name":"Taruka",
+    "wof:parent_id":1091684213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.63333000000001,
+    4.8,
+    -59.63333000000001,
+    4.8
+],
+  "geometry": {"coordinates":[-59.63333000000001,4.8],"type":"Point"}
+}

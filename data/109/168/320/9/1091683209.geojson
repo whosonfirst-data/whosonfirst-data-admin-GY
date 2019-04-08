@@ -1,0 +1,90 @@
+{
+  "id": 1091683209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000933,
+    "geom:area_square_m":11460774.079214,
+    "geom:bbox":"-58.1656940715,6.71111208328,-58.1257456012,6.74519365506",
+    "geom:latitude":6.726614,
+    "geom:longitude":-58.145762,
+    "iso:country":"GY",
+    "lbl:latitude":6.726726,
+    "lbl:longitude":-58.145762,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Mocha / Arcadia",
+    "meso:gadm_hasc2":"GY.DE.MA",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"411",
+    "meso:mps_x":-58.145762,
+    "meso:mps_y":6.726726,
+    "meso:name_en":"Mocha/Arcadia",
+    "meso:source":"AOTM",
+    "mps:latitude":6.726726,
+    "mps:longitude":-58.145762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mocha / Arcadia"
+    ],
+    "name:eng_x_variant":[
+        "Mocha / Arcadia"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Mocha / Arcadia",
+    "statoids:population":"3128",
+    "statoids:statoid":"GY.DE.MA",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.MA"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879040,
+    "wof:geomhash":"0ee2f8b7587dbd8df42bd1ae2e3025ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683209,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091683209,
+    "wof:lastmodified":1536614922,
+    "wof:name":"Mocha/Arcadia",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":3128,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.16569407152253,
+    6.71111208328087,
+    -58.12574560122533,
+    6.74519365506263
+],
+  "geometry": {"coordinates":[[[-58.15868368457311,6.74519365506263],[-58.15026324921372,6.74255708243652],[-58.14542911513327,6.74026642987746],[-58.14025669120704,6.73864609776327],[-58.13495478474749,6.73737803035802],[-58.1323038315177,6.73674399665539],[-58.12965287828793,6.73610996295277],[-58.12769923975662,6.72756537794495],[-58.12574560122533,6.71902079293713],[-58.12933226023996,6.715066438109],[-58.13291891925461,6.71111208328087],[-58.13687960102247,6.71170293207229],[-58.14084028279034,6.71229378086371],[-58.14876164632607,6.71347547844654],[-58.15700921252169,6.71528700151037],[-58.16569407152253,6.71787932767307],[-58.16471159891007,6.72169985149633],[-58.16372912629761,6.72552037531958],[-58.1617641810727,6.73316142296609],[-58.15868368457311,6.74519365506263]]],"type":"Polygon"}
+}

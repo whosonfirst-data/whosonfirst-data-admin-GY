@@ -1,0 +1,111 @@
+{
+  "id": 85764841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10016837.869982,
+    "geom:bbox":"-58.138521,6.821772,-58.138521,6.821772",
+    "geom:latitude":6.821772,
+    "geom:longitude":-58.138521,
+    "iso:country":"GY",
+    "lbl:latitude":6.821772,
+    "lbl:longitude":-58.138521,
+    "mps:latitude":6.827728,
+    "mps:longitude":-58.142801,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Bourda Cricket Ground"
+    ],
+    "name:eng_x_preferred":[
+        "Bourda"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0930\u094d\u0921\u093e"
+    ],
+    "name:spa_x_preferred":[
+        "Bourda"
+    ],
+    "name:unk_x_variant":[
+        "Bourda"
+    ],
+    "qs:gn_adm0_cc":"GY",
+    "qs:gn_id":0,
+    "qs:gn_local":3378644,
+    "qs:id":0,
+    "qs:local_max":1085,
+    "qs:local_sum":2534,
+    "qs:localhoods":7,
+    "qs:name":"Bourda",
+    "qs:name_adm0":"Guyana",
+    "qs:name_adm1":"Demerara-Mahaica",
+    "qs:name_local":"Georgetown",
+    "qs:photo_max":73,
+    "qs:photo_sum":303,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424836,
+    "qs:woe_adm1":2345605,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":376765,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":586,
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        1091683403,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":376402,
+        "wd:id":"Q895200"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"be3aa9a979f85c1df54591cbd6841c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683403,
+            "locality_id":-1,
+            "neighbourhood_id":85764841,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":85764841,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531858961,
+    "wof:name":"Bourda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.138521,
+    6.821772,
+    -58.138521,
+    6.821772
+],
+  "geometry": {"coordinates":[-58.138521,6.821772],"type":"Point"}
+}

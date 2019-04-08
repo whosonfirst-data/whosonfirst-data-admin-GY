@@ -1,0 +1,61 @@
+{
+  "id": 1209581915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.91667,5.55,-57.91667,5.55",
+    "geom:latitude":5.55,
+    "geom:longitude":-57.91667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kalkuni",
+    "gn:country_code":"GY",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378068,
+    "gn:latitude":5.55,
+    "gn:longitude":-57.91667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Kalkuni",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378068
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"6cfbb60d2d85fd3853fd2a0acb4f8835",
+    "wof:hierarchy":[
+        {
+            "country_id":85632397,
+            "locality_id":1209581915
+        }
+    ],
+    "wof:id":1209581915,
+    "wof:lastmodified":1536282761,
+    "wof:name":"Kalkuni",
+    "wof:parent_id":85632397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.91667,
+    5.55,
+    -57.91667,
+    5.55
+],
+  "geometry": {"coordinates":[-57.91667,5.55],"type":"Point"}
+}

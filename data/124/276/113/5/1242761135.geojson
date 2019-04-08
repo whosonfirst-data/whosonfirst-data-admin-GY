@@ -1,0 +1,63 @@
+{
+  "id": 1242761135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20508,6.73299,-58.20508,6.73299",
+    "geom:latitude":6.73299,
+    "geom:longitude":-58.20508,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Stanleytown",
+    "gn:country_code":"GY",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375883,
+    "gn:latitude":6.73299,
+    "gn:longitude":-58.20508,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Stanleytown",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375883
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"c426f775dc29efc4ea7d52df700da665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1242761135,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242761135,
+    "wof:lastmodified":1536799417,
+    "wof:name":"Stanleytown",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20508,
+    6.73299,
+    -58.20508,
+    6.73299
+],
+  "geometry": {"coordinates":[-58.20508,6.73299],"type":"Point"}
+}

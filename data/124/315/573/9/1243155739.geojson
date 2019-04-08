@@ -1,0 +1,67 @@
+{
+  "id": 1243155739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.25679,6.72091,-58.25679,6.72091",
+    "geom:latitude":6.72091,
+    "geom:longitude":-58.25679,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mon Desir",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3376903,
+    "gn:latitude":6.72091,
+    "gn:longitude":-58.25679,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Mon Desir",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376903
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"7436630b4287bb7c5457d9cd0ad21e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682781,
+            "locality_id":1243155739,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1243155739,
+    "wof:lastmodified":1536728083,
+    "wof:name":"Mon Desir",
+    "wof:parent_id":1091682781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.25679,
+    6.72091,
+    -58.25679,
+    6.72091
+],
+  "geometry": {"coordinates":[-58.25679,6.72091],"type":"Point"}
+}

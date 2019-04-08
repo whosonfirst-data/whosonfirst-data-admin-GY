@@ -1,0 +1,67 @@
+{
+  "id": 1226827121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.15,6.46667,-61.15,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":-61.15,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Muruwawe Village",
+    "gn:country_code":"GY",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661119,
+    "gn:latitude":6.46667,
+    "gn:longitude":-61.15,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Muruwawe Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091681827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661119
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"e99553cfeb6640214bf1fe9f9e09396e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681827,
+            "locality_id":1226827121,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1226827121,
+    "wof:lastmodified":1537091967,
+    "wof:name":"Muruwawe Village",
+    "wof:parent_id":1091681827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.15,
+    6.46667,
+    -61.15,
+    6.46667
+],
+  "geometry": {"coordinates":[-61.15,6.46667],"type":"Point"}
+}

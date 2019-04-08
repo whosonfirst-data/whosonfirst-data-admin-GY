@@ -1,0 +1,67 @@
+{
+  "id": 1209896331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20002,6.60198,-58.20002,6.60198",
+    "geom:latitude":6.60198,
+    "geom:longitude":-58.20002,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Land of Canaan",
+    "gn:country_code":"GY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377480,
+    "gn:latitude":6.60198,
+    "gn:longitude":-58.20002,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Land of Canaan",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377480
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"c39a16149580f4de889b1e12bd3f7776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683311,
+            "locality_id":1209896331,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1209896331,
+    "wof:lastmodified":1536388446,
+    "wof:name":"Land of Canaan",
+    "wof:parent_id":1091683311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20002,
+    6.60198,
+    -58.20002,
+    6.60198
+],
+  "geometry": {"coordinates":[-58.20002,6.60198],"type":"Point"}
+}

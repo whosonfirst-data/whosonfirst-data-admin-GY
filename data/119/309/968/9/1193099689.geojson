@@ -1,0 +1,80 @@
+{
+  "id": 1193099689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.3,3.9,-59.3,3.9",
+    "geom:latitude":3.9,
+    "geom:longitude":-59.3,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Massara",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377013,
+    "gn:latitude":3.9,
+    "gn:longitude":-59.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Massara",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massara Village",
+        "Massara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091684723,
+        85671743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377013
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"9bea0d3970b2c4eb9fe93db3ab64714a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684723,
+            "locality_id":1193099689,
+            "region_id":85671745
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684723,
+            "locality_id":1193099689,
+            "region_id":85671743
+        }
+    ],
+    "wof:id":1193099689,
+    "wof:lastmodified":1537625479,
+    "wof:name":"Massara",
+    "wof:parent_id":1091684723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.3,
+    3.9,
+    -59.3,
+    3.9
+],
+  "geometry": {"coordinates":[-59.3,3.9],"type":"Point"}
+}

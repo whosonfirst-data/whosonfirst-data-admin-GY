@@ -1,0 +1,68 @@
+{
+  "id": 1293560101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20209,6.54276,-58.20209,6.54276",
+    "geom:latitude":6.54276,
+    "geom:longitude":-58.20209,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Soesdyke",
+    "gn:country_code":"GY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375927,
+    "gn:latitude":6.54276,
+    "gn:longitude":-58.20209,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Soesdyke",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375927,
+        "wk:page":"Soesdyke"
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"c24443ae2cce782269bcfd129505207c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683427,
+            "locality_id":1293560101,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1293560101,
+    "wof:lastmodified":1537563240,
+    "wof:name":"Soesdyke",
+    "wof:parent_id":1091683427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20209000000001,
+    6.54276,
+    -58.20209000000001,
+    6.54276
+],
+  "geometry": {"coordinates":[-58.20209000000001,6.54276],"type":"Point"}
+}

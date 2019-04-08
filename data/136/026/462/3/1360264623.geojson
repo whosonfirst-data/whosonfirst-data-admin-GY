@@ -1,0 +1,71 @@
+{
+  "id": 1360264623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.15821,5.93559,-57.15821,5.93559",
+    "geom:latitude":5.93559,
+    "geom:longitude":-57.15821,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Number Seventy-one Little Massiah",
+    "gn:country_code":"GY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377371,
+    "gn:latitude":5.93559,
+    "gn:longitude":-57.15821,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Number Seventy-one Little Massiah",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Number 71",
+        "Little Massiah",
+        "Number Seventy-one Little Massiah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091681393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377371
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"cdf464a8f49b13e292de2d2d06932893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091681393,
+            "locality_id":1360264623,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1360264623,
+    "wof:lastmodified":1537625480,
+    "wof:name":"Number Seventy-one Little Massiah",
+    "wof:parent_id":1091681393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.15821,
+    5.93559,
+    -57.15821,
+    5.93559
+],
+  "geometry": {"coordinates":[-57.15821,5.93559],"type":"Point"}
+}

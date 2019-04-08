@@ -1,0 +1,67 @@
+{
+  "id": 1327297431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.13333,4.53333,-60.13333,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":-60.13333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kanapang Village",
+    "gn:country_code":"GY",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661280,
+    "gn:latitude":4.53333,
+    "gn:longitude":-60.13333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Kanapang Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671739,
+        1091684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661280
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"8998324fcb4b6f559a793579f09dbebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684681,
+            "locality_id":1327297431,
+            "region_id":85671739
+        }
+    ],
+    "wof:id":1327297431,
+    "wof:lastmodified":1536874899,
+    "wof:name":"Kanapang Village",
+    "wof:parent_id":1091684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.13333000000001,
+    4.53333,
+    -60.13333000000001,
+    4.53333
+],
+  "geometry": {"coordinates":[-60.13333000000001,4.53333],"type":"Point"}
+}

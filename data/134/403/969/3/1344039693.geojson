@@ -1,0 +1,78 @@
+{
+  "id": 1344039693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.73958,7.59993,-58.73958,7.59993",
+    "geom:latitude":7.59993,
+    "geom:longitude":-58.73958,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tuschen",
+    "gn:country_code":"GY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313410,
+    "gn:latitude":7.59993,
+    "gn:longitude":-58.73958,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Tuschen",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuschen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091681197,
+        85671753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313410
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"f64d6ad0ea2a906c8d15409b877111cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681197,
+            "locality_id":1344039693,
+            "region_id":85671773
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681197,
+            "locality_id":1344039693,
+            "region_id":85671753
+        }
+    ],
+    "wof:id":1344039693,
+    "wof:lastmodified":1537625488,
+    "wof:name":"Tuschen",
+    "wof:parent_id":1091681197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.73958,
+    7.59993,
+    -58.73958,
+    7.59993
+],
+  "geometry": {"coordinates":[-58.73958,7.59993],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1091682353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001502,
+    "geom:area_square_m":18444095.134964,
+    "geom:bbox":"-58.2694462595,6.79123027006,-58.240765591,6.86822346415",
+    "geom:latitude":6.828386,
+    "geom:longitude":-58.257202,
+    "iso:country":"GY",
+    "lbl:latitude":6.831347,
+    "lbl:longitude":-58.258362,
+    "meso:adm1_alt":"3",
+    "meso:admin_1":"Essequibo Islands-West Demerara",
+    "meso:gadm_admin":"Blankenburg / Hague",
+    "meso:gadm_hasc2":"GY.ES.BH",
+    "meso:gaul_adm2":"Lower West Demerara River",
+    "meso:local_id":"307",
+    "meso:mps_x":-58.258362,
+    "meso:mps_y":6.831347,
+    "meso:name_en":"Blankenburg/Hague",
+    "meso:source":"AOTM",
+    "mps:latitude":6.831347,
+    "mps:longitude":-58.258362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Blankenburg / Hague"
+    ],
+    "name:eng_x_variant":[
+        "Blankenburg / Hague"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.ES",
+    "statoids:name":"Blankenburg / Hague",
+    "statoids:population":"3562",
+    "statoids:statoid":"GY.ES.BH",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.ES.BH"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879003,
+    "wof:geomhash":"31a67d22f8c0edcd63a55616e17a61b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682353,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091682353,
+    "wof:lastmodified":1536614921,
+    "wof:name":"Blankenburg/Hague",
+    "wof:parent_id":85671767,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":3562,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"BH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.26944625949356,
+    6.79123027006095,
+    -58.24076559103199,
+    6.86822346415267
+],
+  "geometry": {"coordinates":[[[-58.25851253300908,6.86822346415267],[-58.25836181599982,6.86791658400006],[-58.25749969499992,6.86791658400006],[-58.25583267199994,6.8662500380002],[-58.25422286999998,6.8662500380002],[-58.25083160399993,6.86458349200018],[-58.24752807599992,6.86288881300015],[-58.24499893199999,6.86041688900013],[-58.24252700799991,6.85955572100028],[-58.24085998499993,6.85788869900017],[-58.24076559103199,6.85788869900017],[-58.24327597228434,6.85164761360959],[-58.24596074030536,6.84082380680475],[-58.2471233020849,6.83168938653163],[-58.24856606640638,6.82546702565768],[-58.25004070023341,6.82107836209139],[-58.25109755050646,6.81794689841911],[-58.25030014449418,6.8134531236707],[-58.24814859071226,6.80793945882542],[-58.24662808003123,6.80475160921742],[-58.24586782469072,6.80315768441342],[-58.2451075693502,6.80156375960942],[-58.24621109274276,6.79610523122933],[-58.25670358217072,6.79313130330285],[-58.26304786268415,6.7921807866819],[-58.26622000294086,6.79170552837142],[-58.26939214319758,6.79123027006095],[-58.26926600850138,6.7945408289328],[-58.26913987380517,6.79785138780466],[-58.26888760441275,6.80447250554838],[-58.26907807039068,6.81087623510049],[-58.26944625949356,6.8156776754328],[-58.26929572310988,6.82091789435808],[-58.26918303546882,6.82751948601108],[-58.26926566606242,6.83503897202226],[-58.26782689262707,6.84232687194088],[-58.26452932130628,6.85190267177812],[-58.25905864261281,6.86678674567124],[-58.25851253300908,6.86822346415267]]],"type":"Polygon"}
+}

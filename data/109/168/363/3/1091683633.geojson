@@ -1,0 +1,97 @@
+{
+  "id": 1091683633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001019,
+    "geom:area_square_m":12524269.149741,
+    "geom:bbox":"-57.6102524208,6.34993861934,-57.568195343,6.38904664156",
+    "geom:latitude":6.366203,
+    "geom:longitude":-57.588536,
+    "iso:country":"GY",
+    "lbl:latitude":6.366138,
+    "lbl:longitude":-57.588936,
+    "meso:adm1_alt":"5",
+    "meso:admin_1":"Mahaica-Berbice",
+    "meso:gadm_admin":"Woodley Park / Bath",
+    "meso:gadm_hasc2":"GY.MA.WP",
+    "meso:gaul_adm2":"Mahaicony/berbice",
+    "meso:local_id":"504",
+    "meso:mps_x":-57.588936,
+    "meso:mps_y":6.366138,
+    "meso:name_en":"Woodley Park/Bath",
+    "meso:source":"AOTM",
+    "mps:latitude":6.366138,
+    "mps:longitude":-57.588936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Woodley Park / Bath"
+    ],
+    "name:eng_x_variant":[
+        "Woodley Park / Bath"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.MA",
+    "statoids:name":"Woodley Park / Bath",
+    "statoids:population":"5938",
+    "statoids:statoid":"GY.MA.WP",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671737,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.MA.WP"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879058,
+    "wof:geomhash":"b1d2a02418e0ab0efb66ff76677fbc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683633,
+            "region_id":85671737
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683633,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1091683633,
+    "wof:lastmodified":1536614922,
+    "wof:name":"Woodley Park/Bath",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":5938,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"WP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.61025242079159,
+    6.34993861933842,
+    -57.56819534299996,
+    6.38904664156277
+],
+  "geometry": {"coordinates":[[[-57.58331312977234,6.38904664156277],[-57.58322143599992,6.38883352300024],[-57.57808303799987,6.38116645800028],[-57.57666778599992,6.37977790800016],[-57.57485961899988,6.37408351900018],[-57.57497405999982,6.37225008000024],[-57.57330703699995,6.36955547300016],[-57.57313919099988,6.36794424100026],[-57.56911086999992,6.35599994700016],[-57.56819534299996,6.3535833360001],[-57.56824602152071,6.35301688569512],[-57.56980402992102,6.35271619160774],[-57.57913129295023,6.35135809580382],[-57.58550408361044,6.35059057862853],[-57.59081741535465,6.35019147487551],[-57.59541232662478,6.35006504710696],[-57.59770978225985,6.35000183322269],[-57.60000723789491,6.34993861933842],[-57.60512982934326,6.36008687468543],[-57.60769112506742,6.36516100235893],[-57.61025242079159,6.37023513003244],[-57.60857814049342,6.37139459731502],[-57.60690386019525,6.3725540645976],[-57.60355529959891,6.37487299916276],[-57.59775668007308,6.37885614203834],[-57.5887856514173,6.38443999280578],[-57.58331312977234,6.38904664156277]]],"type":"Polygon"}
+}

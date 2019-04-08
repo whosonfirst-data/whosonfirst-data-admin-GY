@@ -1,0 +1,66 @@
+{
+  "id": 1209092541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.15676,5.93106,-57.15676,5.93106",
+    "geom:latitude":5.93106,
+    "geom:longitude":-57.15676,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Number Seventy-two Hong Kong",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378385,
+    "gn:latitude":5.93106,
+    "gn:longitude":-57.15676,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Number Seventy-two Hong Kong",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Number 72",
+        "Hong Kong",
+        "Number Seventy-two Hong Kong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378385
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"dadf5cbea7b1e842404ae8ad78144768",
+    "wof:hierarchy":[
+        {
+            "country_id":85632397,
+            "locality_id":1209092541
+        }
+    ],
+    "wof:id":1209092541,
+    "wof:lastmodified":1537625482,
+    "wof:name":"Number Seventy-two Hong Kong",
+    "wof:parent_id":85632397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.15676,
+    5.93106,
+    -57.15676,
+    5.93106
+],
+  "geometry": {"coordinates":[-57.15676,5.93106],"type":"Point"}
+}

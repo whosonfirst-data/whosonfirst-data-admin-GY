@@ -1,0 +1,90 @@
+{
+  "id": 1091681877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4330.995325,
+    "geom:bbox":"-60.2934116773,7.0909365,-60.2915772533,7.09150043909",
+    "geom:latitude":7.091168,
+    "geom:longitude":-60.292508,
+    "iso:country":"GY",
+    "lbl:latitude":7.091147,
+    "lbl:longitude":-60.292523,
+    "meso:adm1_alt":"7",
+    "meso:admin_1":"Cuyuni-Mazaruni",
+    "meso:gadm_admin":"Rest of Region 7",
+    "meso:gadm_hasc2":"GY.CU.UN",
+    "meso:gaul_adm2":"NO DATA",
+    "meso:local_id":"700",
+    "meso:mps_x":-60.292523,
+    "meso:mps_y":7.091147,
+    "meso:name_en":"Unorganized",
+    "meso:source":"AOTM",
+    "mps:latitude":7.091147,
+    "mps:longitude":-60.292523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Unorganized"
+    ],
+    "name:eng_x_variant":[
+        "Rest of Region 7"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.CU",
+    "statoids:name":"Unorganized",
+    "statoids:population":"4498",
+    "statoids:statoid":"GY.CU.UN",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.CU.UN"
+    },
+    "wof:country":"GY",
+    "wof:created":1473878986,
+    "wof:geomhash":"68f75280de82d7c3e69dabde07a10347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681877,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1091681877,
+    "wof:lastmodified":1536614920,
+    "wof:name":"Unorganized",
+    "wof:parent_id":85671773,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":4498,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"UN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.29341167733881,
+    7.09093650000023,
+    -60.29157725330584,
+    7.09150043908968
+],
+  "geometry": {"coordinates":[[[-60.29157725330584,7.09106533218839],[-60.29213299999992,7.09093650000023],[-60.29276899999985,7.091048],[-60.29323799999997,7.09136000000024],[-60.29341167733881,7.09150043908968],[-60.29157725330584,7.09106533218839]]],"type":"Polygon"}
+}

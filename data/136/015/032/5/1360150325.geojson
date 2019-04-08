@@ -1,0 +1,75 @@
+{
+  "id": 1360150325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.71667,1.98333,-59.71667,1.98333",
+    "geom:latitude":1.98333,
+    "geom:longitude":-59.71667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Wakadanawa",
+    "gn:country_code":"GY",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3375343,
+    "gn:latitude":1.98333,
+    "gn:longitude":-59.71667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Wakadanawa",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671745,
+        1091684899,
+        85671743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375343
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"57d4df835e66b8443bd1055a5d4e937f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684899,
+            "locality_id":1360150325,
+            "region_id":85671745
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684899,
+            "locality_id":1360150325,
+            "region_id":85671743
+        }
+    ],
+    "wof:id":1360150325,
+    "wof:lastmodified":1536850572,
+    "wof:name":"Wakadanawa",
+    "wof:parent_id":1091684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.71666999999999,
+    1.98333,
+    -59.71666999999999,
+    1.98333
+],
+  "geometry": {"coordinates":[-59.71666999999999,1.98333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259771371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.61311,5.74136,-58.61311,5.74136",
+    "geom:latitude":5.74136,
+    "geom:longitude":-58.61311,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Butukari",
+    "gn:country_code":"GY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379224,
+    "gn:latitude":5.74136,
+    "gn:longitude":-58.61311,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Butukari",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butakari",
+        "Butukari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091681827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379224
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"4f4a53fa729f481dc56ccbafbfdbf783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681827,
+            "locality_id":1259771371,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1259771371,
+    "wof:lastmodified":1537625484,
+    "wof:name":"Butukari",
+    "wof:parent_id":1091681827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.61311,
+    5.74136,
+    -58.61311,
+    5.74136
+],
+  "geometry": {"coordinates":[-58.61311,5.74136],"type":"Point"}
+}

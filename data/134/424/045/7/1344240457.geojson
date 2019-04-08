@@ -1,0 +1,67 @@
+{
+  "id": 1344240457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.331,6.56411,-58.331,6.56411",
+    "geom:latitude":6.56411,
+    "geom:longitude":-58.331,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Santa Mission",
+    "gn:country_code":"GY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8314726,
+    "gn:latitude":6.56411,
+    "gn:longitude":-58.331,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Santa Mission",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8314726
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"d387a85feb0ef5660cb04194e882e414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682779,
+            "locality_id":1344240457,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1344240457,
+    "wof:lastmodified":1536613476,
+    "wof:name":"Santa Mission",
+    "wof:parent_id":1091682779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.331,
+    6.56411,
+    -58.331,
+    6.56411
+],
+  "geometry": {"coordinates":[-58.331,6.56411],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242851549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.28333,6.51667,-58.28333,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":-58.28333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Glasgow Village",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3378634,
+    "gn:latitude":6.51667,
+    "gn:longitude":-58.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glasgow Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glasgow",
+        "Glasgow Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378634
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"ab2c253eb39f9bbd14ca44346237896b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682779,
+            "locality_id":1242851549,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1242851549,
+    "wof:lastmodified":1537625482,
+    "wof:name":"Glasgow Village",
+    "wof:parent_id":1091682779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.28333000000001,
+    6.51667,
+    -58.28333000000001,
+    6.51667
+],
+  "geometry": {"coordinates":[-58.28333000000001,6.51667],"type":"Point"}
+}

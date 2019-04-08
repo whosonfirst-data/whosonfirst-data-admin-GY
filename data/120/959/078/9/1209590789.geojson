@@ -1,0 +1,65 @@
+{
+  "id": 1209590789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.57597,3.41466,-59.57597,3.41466",
+    "geom:latitude":3.41466,
+    "geom:longitude":-59.57597,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Nappi Village",
+    "gn:country_code":"GY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376772,
+    "gn:latitude":3.41466,
+    "gn:longitude":-59.57597,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Nappi Village",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Nappita",
+        "Nappi Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376772
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"de402035c7e26ba04e08e903fe734853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632397,
+            "locality_id":1209590789
+        }
+    ],
+    "wof:id":1209590789,
+    "wof:lastmodified":1537625478,
+    "wof:name":"Nappi Village",
+    "wof:parent_id":85632397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.57597,
+    3.41466,
+    -59.57597,
+    3.41466
+],
+  "geometry": {"coordinates":[-59.57597,3.41466],"type":"Point"}
+}

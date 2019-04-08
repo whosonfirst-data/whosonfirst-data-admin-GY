@@ -1,0 +1,98 @@
+{
+  "id": 890435769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.80486,6.57633,-57.80486,6.57633",
+    "geom:latitude":6.57633,
+    "geom:longitude":-57.80486,
+    "gn:country":"GY",
+    "gn:fcode":"PPL",
+    "gn:pop":2130,
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mahaicony"
+    ],
+    "name:eng_x_preferred":[
+        "Mahaicony"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud558\uc774\ucf54\ub2c8"
+    ],
+    "name:lit_x_preferred":[
+        "Mahaikonis"
+    ],
+    "name:pol_x_preferred":[
+        "Mahaicony"
+    ],
+    "name:swe_x_preferred":[
+        "Mahaicony Village"
+    ],
+    "name:unk_x_variant":[
+        "Mahaicony"
+    ],
+    "qs:name":"Mahaicony Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091681309,
+        85671737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377265,
+        "gp:id":376827,
+        "qs:id":1044178,
+        "wd:id":"Q866074",
+        "wk:page":"Mahaicony River"
+    },
+    "wof:country":"GY",
+    "wof:created":1469052080,
+    "wof:geomhash":"6bb7731b87f385468a1425098244046b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681309,
+            "locality_id":890435769,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681309,
+            "locality_id":890435769,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":890435769,
+    "wof:lastmodified":1527793049,
+    "wof:name":"Mahaicony Village",
+    "wof:parent_id":1091681309,
+    "wof:placetype":"locality",
+    "wof:population":2130,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.80486,
+    6.57633,
+    -57.80486,
+    6.57633
+],
+  "geometry": {"coordinates":[-57.80486,6.57633],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226722555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.48532,7.10634,-58.48532,7.10634",
+    "geom:latitude":7.10634,
+    "geom:longitude":-58.48532,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Onderneeming",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376625,
+    "gn:latitude":7.10634,
+    "gn:longitude":-58.48532,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Onderneeming",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671753,
+        1091682041,
+        85671773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376625
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"b570aebd1d99e517ce722c069232a301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682041,
+            "locality_id":1226722555,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682041,
+            "locality_id":1226722555,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1226722555,
+    "wof:lastmodified":1536748866,
+    "wof:name":"Onderneeming",
+    "wof:parent_id":1091682041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.48532,
+    7.10634,
+    -58.48532,
+    7.10634
+],
+  "geometry": {"coordinates":[-58.48532,7.10634],"type":"Point"}
+}

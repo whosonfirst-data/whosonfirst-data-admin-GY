@@ -1,0 +1,78 @@
+{
+  "id": 1243234029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.58314,6.35658,-57.58314,6.35658",
+    "geom:latitude":6.35658,
+    "geom:longitude":-57.58314,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Number Twelve",
+    "gn:country_code":"GY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3376673,
+    "gn:latitude":6.35658,
+    "gn:longitude":-57.58314,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Number Twelve",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Number 12"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671737,
+        1091683633,
+        85671767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376673
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"abba2a1c8e733033d9ed182dcd0947a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683633,
+            "locality_id":1243234029,
+            "region_id":85671737
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683633,
+            "locality_id":1243234029,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1243234029,
+    "wof:lastmodified":1537625478,
+    "wof:name":"Number Twelve",
+    "wof:parent_id":1091683633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.58314,
+    6.35658,
+    -57.58314,
+    6.35658
+],
+  "geometry": {"coordinates":[-57.58314,6.35658],"type":"Point"}
+}

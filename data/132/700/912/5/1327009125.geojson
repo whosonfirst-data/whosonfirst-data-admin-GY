@@ -1,0 +1,70 @@
+{
+  "id": 1327009125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.26483,6.20719,-57.26483,6.20719",
+    "geom:latitude":6.20719,
+    "geom:longitude":-57.26483,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bush Lot",
+    "gn:country_code":"GY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379233,
+    "gn:latitude":6.20719,
+    "gn:longitude":-57.26483,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Bush Lot",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bush Lot Village",
+        "Bush Lot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091683843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379233
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"db7165884c219671dd338d1e433e4c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091683843,
+            "locality_id":1327009125,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1327009125,
+    "wof:lastmodified":1537625484,
+    "wof:name":"Bush Lot",
+    "wof:parent_id":1091683843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.26483,
+    6.20719,
+    -57.26483,
+    6.20719
+],
+  "geometry": {"coordinates":[-57.26483,6.20719],"type":"Point"}
+}

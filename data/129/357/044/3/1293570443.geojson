@@ -1,0 +1,72 @@
+{
+  "id": 1293570443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.03376,6.15299,-60.03376,6.15299",
+    "geom:latitude":6.15299,
+    "geom:longitude":-60.03376,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Enachu Landing",
+    "gn:country_code":"GY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661362,
+    "gn:latitude":6.15299,
+    "gn:longitude":-60.03376,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Enachu Landing",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enachu",
+        "Enachu Station",
+        "Enachu Landing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091681827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661362
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"935da0a7298b0f01835d14fb28d56eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681827,
+            "locality_id":1293570443,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":1293570443,
+    "wof:lastmodified":1537625487,
+    "wof:name":"Enachu Landing",
+    "wof:parent_id":1091681827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.03376,
+    6.15299,
+    -60.03376,
+    6.15299
+],
+  "geometry": {"coordinates":[-60.03376,6.15299],"type":"Point"}
+}

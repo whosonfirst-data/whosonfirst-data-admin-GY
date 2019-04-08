@@ -1,0 +1,67 @@
+{
+  "id": 1344140401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.31408,6.4786,-58.31408,6.4786",
+    "geom:latitude":6.4786,
+    "geom:longitude":-58.31408,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sand Hills",
+    "gn:country_code":"GY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3376145,
+    "gn:latitude":6.4786,
+    "gn:longitude":-58.31408,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sand Hills",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376145
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"205d4de030d8342c7b40898e63d4a83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682779,
+            "locality_id":1344140401,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1344140401,
+    "wof:lastmodified":1536760486,
+    "wof:name":"Sand Hills",
+    "wof:parent_id":1091682779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.31408,
+    6.4786,
+    -58.31408,
+    6.4786
+],
+  "geometry": {"coordinates":[-58.31408,6.4786],"type":"Point"}
+}

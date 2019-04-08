@@ -1,0 +1,90 @@
+{
+  "id": 1091685765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003283,
+    "geom:area_square_m":40308112.890141,
+    "geom:bbox":"-58.1138829462,6.72036902211,-58.0571482041,6.83206388953",
+    "geom:latitude":6.774641,
+    "geom:longitude":-58.085117,
+    "iso:country":"GY",
+    "lbl:latitude":6.773541,
+    "lbl:longitude":-58.084687,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"La Bonne Intention / Better Hope",
+    "meso:gadm_hasc2":"GY.DE.LB",
+    "meso:gaul_adm2":"Moblissa/la Reconnaissance",
+    "meso:local_id":"408",
+    "meso:mps_x":-58.084687,
+    "meso:mps_y":6.773541,
+    "meso:name_en":"La Bonne Intention/Better Hope",
+    "meso:source":"AOTM",
+    "mps:latitude":6.773541,
+    "mps:longitude":-58.084687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "La Bonne Intention / Better Hope"
+    ],
+    "name:eng_x_variant":[
+        "La Bonne Intention / Better Hope"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"La Bonne Intention / Better Hope",
+    "statoids:population":"17226",
+    "statoids:statoid":"GY.DE.LB",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.LB"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879146,
+    "wof:geomhash":"74ecf3d2b6b732db9d08cfaf62c5eab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685765,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091685765,
+    "wof:lastmodified":1536614926,
+    "wof:name":"La Bonne Intention/Better Hope",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":17226,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:shortcode":"LB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.1138829462418,
+    6.72036902211174,
+    -58.05714820408382,
+    6.83206388952525
+],
+  "geometry": {"coordinates":[[[-58.08501024510528,6.83206388952525],[-58.08416747999996,6.83122205700016],[-58.08002853399989,6.83125019100021],[-58.07916641199989,6.83038902300018],[-58.0774993899999,6.83038902300018],[-58.07249832199989,6.8278613090003],[-58.06588745099992,6.82627773300021],[-58.06193481913119,6.82429054565364],[-58.06085967999996,6.82375001899993],[-58.05714820408382,6.823012114358],[-58.08314750977154,6.72036902211174],[-58.08936090615096,6.7208916435148],[-58.0957062317784,6.72120745286167],[-58.10279753961412,6.72307244554511],[-58.10834024292796,6.72594962173933],[-58.11111159458488,6.72738820983644],[-58.1138829462418,6.72882679793355],[-58.11346851420532,6.73124565774567],[-58.11305408216885,6.73366451755779],[-58.1122252180959,6.73850223718204],[-58.11095710924066,6.74317863157893],[-58.10882347010718,6.74752260842754],[-58.10632067174836,6.75269775378767],[-58.10339573897025,6.75801202481548],[-58.10187983462949,6.76392593110292],[-58.10174628341739,6.76836533899484],[-58.10047670653741,6.77198811233992],[-58.09905172434028,6.77552674923925],[-58.09824275344295,6.77936175654247],[-58.09791276615996,6.78606620599566],[-58.09757692386378,6.79248394404144],[-58.09619142448986,6.79763824816167],[-58.09243718120445,6.80615022005404],[-58.08796487103539,6.8192099314819],[-58.08501024510528,6.83206388952525]]],"type":"Polygon"}
+}

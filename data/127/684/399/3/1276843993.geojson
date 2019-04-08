@@ -1,0 +1,67 @@
+{
+  "id": 1276843993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.22095,6.83611,-58.22095,6.83611",
+    "geom:latitude":6.83611,
+    "geom:longitude":-58.22095,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Harlem",
+    "gn:country_code":"GY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311831,
+    "gn:latitude":6.83611,
+    "gn:longitude":-58.22095,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Harlem",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671767,
+        1091682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311831
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"989e486e83f5e12af80a075c81822bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682697,
+            "locality_id":1276843993,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":1276843993,
+    "wof:lastmodified":1537086033,
+    "wof:name":"Harlem",
+    "wof:parent_id":1091682697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.22095,
+    6.83611,
+    -58.22095,
+    6.83611
+],
+  "geometry": {"coordinates":[-58.22095,6.83611],"type":"Point"}
+}

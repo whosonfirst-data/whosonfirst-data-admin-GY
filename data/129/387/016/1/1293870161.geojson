@@ -1,0 +1,66 @@
+{
+  "id": 1293870161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.58333,6.08333,-57.58333,6.08333",
+    "geom:latitude":6.08333,
+    "geom:longitude":-57.58333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Macaw",
+    "gn:country_code":"GY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377295,
+    "gn:latitude":6.08333,
+    "gn:longitude":-57.58333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Macaw",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85671757,
+        1091685829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377295
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"1d5a2af70235a20c923c765b480f73e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685829,
+            "locality_id":1293870161,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":1293870161,
+    "wof:lastmodified":1536732843,
+    "wof:name":"Macaw",
+    "wof:parent_id":1091685829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.58333,
+    6.08333,
+    -57.58333,
+    6.08333
+],
+  "geometry": {"coordinates":[-57.58333,6.08333],"type":"Point"}
+}

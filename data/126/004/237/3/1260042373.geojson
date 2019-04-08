@@ -1,0 +1,67 @@
+{
+  "id": 1260042373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.15,2.3,-59.15,2.3",
+    "geom:latitude":2.3,
+    "geom:longitude":-59.15,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Kotoewau",
+    "gn:country_code":"GY",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3377771,
+    "gn:latitude":2.3,
+    "gn:longitude":-59.15,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Kotoewau",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671743,
+        1091685197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377771
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"2200576e20b92c8d5998509b7edef707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685197,
+            "locality_id":1260042373,
+            "region_id":85671743
+        }
+    ],
+    "wof:id":1260042373,
+    "wof:lastmodified":1537045502,
+    "wof:name":"Kotoewau",
+    "wof:parent_id":1091685197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.15,
+    2.3,
+    -59.15,
+    2.3
+],
+  "geometry": {"coordinates":[-59.15,2.3],"type":"Point"}
+}

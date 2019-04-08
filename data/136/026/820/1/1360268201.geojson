@@ -1,0 +1,76 @@
+{
+  "id": 1360268201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.88333,6.55,-57.88333,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":-57.88333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Big Baiabu",
+    "gn:cc2":"GY",
+    "gn:country_code":"GY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3379408,
+    "gn:latitude":6.55,
+    "gn:longitude":-57.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Big Baiabu",
+    "gn:population":0,
+    "gn:timezone":"America/Guyana",
+    "iso:country":"GY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Big Biabu",
+        "Big Biaboo",
+        "Baiabu",
+        "Biabu",
+        "Big Baiabo",
+        "Big Baiabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379408
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"1ec6bf36339492956f77431777e35079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683471,
+            "locality_id":1360268201,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1360268201,
+    "wof:lastmodified":1537625484,
+    "wof:name":"Big Baiabu",
+    "wof:parent_id":1091683471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.88333000000001,
+    6.55,
+    -57.88333000000001,
+    6.55
+],
+  "geometry": {"coordinates":[-57.88333000000001,6.55],"type":"Point"}
+}

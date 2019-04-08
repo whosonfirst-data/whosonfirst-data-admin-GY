@@ -1,0 +1,93 @@
+{
+  "id": 1091685689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000729,
+    "geom:area_square_m":8951600.264091,
+    "geom:bbox":"-58.018891234,6.67246909725,-57.9774107138,6.77984695497",
+    "geom:latitude":6.732622,
+    "geom:longitude":-57.998412,
+    "iso:country":"GY",
+    "lbl:latitude":6.760994,
+    "lbl:longitude":-57.989542,
+    "meso:adm1_alt":"4",
+    "meso:admin_1":"Demerara-Mahaica",
+    "meso:gadm_admin":"Enmore / Hope",
+    "meso:gadm_hasc2":"GY.DE.EH",
+    "meso:gaul_adm2":"Buxton/mahaica",
+    "meso:local_id":"405",
+    "meso:mps_x":-57.989542,
+    "meso:mps_y":6.760994,
+    "meso:name_en":"Foulis/Buxton",
+    "meso:source":"AOTM",
+    "mps:latitude":6.760994,
+    "mps:longitude":-57.989542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Enmore / Hope"
+    ],
+    "name:eng_x_variant":[
+        "Enmore / Hope"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-09-15",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-09-15",
+    "statoids:capital":"",
+    "statoids:country":"GY",
+    "statoids:hasc":"GY.DE",
+    "statoids:name":"Enmore / Hope",
+    "statoids:population":"5813",
+    "statoids:statoid":"GY.DE.EH",
+    "statoids:timezone":"-4",
+    "statoids:type":"council",
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GY.DE.EH"
+    },
+    "wof:country":"GY",
+    "wof:created":1473879142,
+    "wof:geomhash":"3c545e2aa70b5955f4dab49468dcaa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091685689,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":1091685689,
+    "wof:lastmodified":1536614926,
+    "wof:name":"Foulis/Buxton",
+    "wof:parent_id":85671761,
+    "wof:placetype":"county",
+    "wof:placetype_local":"council",
+    "wof:population":5813,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[
+        1175612735
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.01889123396808,
+    6.67246909725486,
+    -57.97741071375174,
+    6.77984695497257
+],
+  "geometry": {"coordinates":[[[-57.9887309561034,6.77984695497257],[-57.98760986299988,6.77827787400014],[-57.98588943499993,6.77811098100028],[-57.98508453399995,6.77638912200018],[-57.98144531199995,6.77363872500024],[-57.97761154199986,6.77236127900028],[-57.97741071375174,6.7722041600164],[-57.97773035791868,6.77173904819012],[-57.98530235400774,6.75922745888488],[-57.98925378337302,6.74961372944239],[-57.99169167926802,6.74213518837693],[-57.99338824803284,6.73796774835791],[-57.9946672023581,6.73553771749534],[-57.99535158837622,6.73423288435307],[-57.99569378138528,6.73358046778194],[-57.99603597439434,6.73292805121081],[-58.00010869707243,6.72082941920458],[-58.00214505841149,6.71478010320147],[-58.00418141975054,6.70873078719836],[-58.00535109342465,6.70327169462581],[-58.00688636400611,6.69723497982404],[-58.00847239596965,6.69105906197858],[-58.01000313981383,6.68521429048843],[-58.01139853108836,6.67981673950169],[-58.01261686469356,6.67614291837828],[-58.01322603149616,6.67430600781657],[-58.01383519829876,6.67246909725486],[-58.01826048217248,6.67405932194143],[-58.01889123396808,6.67428598244618],[-57.9887309561034,6.77984695497257]]],"type":"Polygon"}
+}
