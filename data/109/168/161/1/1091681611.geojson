@@ -10,6 +10,12 @@
     "geom:latitude":6.444463,
     "geom:longitude":-57.670341,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Tempe/Seafield Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.445438,
     "lbl:longitude":-57.671168,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091681611,
-    "wof:lastmodified":1536614920,
+    "wof:lastmodified":1553717892,
     "wof:name":"Tempe/Seafield",
     "wof:parent_id":-1,
     "wof:placetype":"county",

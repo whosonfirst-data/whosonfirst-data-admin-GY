@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005262,
-    "geom:area_square_m":55666434.065053,
+    "geom:area_square_m":64618034.329151,
     "geom:bbox":"-58.0538328409,6.67246909725,-57.9774107138,6.80302549723",
     "geom:latitude":6.736206,
     "geom:longitude":-58.018616,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Foulis/Buxton Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.735,
     "lbl:longitude":-58.024088,
     "meso:adm1_alt":"4",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1175612735,
-    "wof:lastmodified":1534985949,
+    "wof:lastmodified":1553718953,
     "wof:name":"Foulis/Buxton",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

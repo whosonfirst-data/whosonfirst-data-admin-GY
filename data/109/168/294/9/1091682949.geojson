@@ -10,6 +10,12 @@
     "geom:latitude":6.909798,
     "geom:longitude":-58.538186,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Sparta/Bonasika and Rest of Essequibo Islands Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.910282,
     "lbl:longitude":-58.5403,
     "meso:adm1_alt":"3",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091682949,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717892,
     "wof:name":"Sparta/Bonasika and Rest of Essequibo Islands",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

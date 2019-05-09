@@ -10,6 +10,12 @@
     "geom:latitude":3.258614,
     "geom:longitude":-59.70735,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Ireng/Sawariwau (Incl. St Ignatius) Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":3.255221,
     "lbl:longitude":-59.711193,
     "meso:adm1_alt":"9",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091681781,
-    "wof:lastmodified":1536614920,
+    "wof:lastmodified":1553717893,
     "wof:name":"Ireng/Sawariwau (Incl. St Ignatius)",
     "wof:parent_id":-1,
     "wof:placetype":"county",

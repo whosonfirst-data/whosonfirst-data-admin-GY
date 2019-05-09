@@ -10,6 +10,12 @@
     "geom:latitude":7.354041,
     "geom:longitude":-58.801086,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Charity/Urasara Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":7.41296,
     "lbl:longitude":-58.756068,
     "meso:adm1_alt":"2",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091681197,
-    "wof:lastmodified":1536614919,
+    "wof:lastmodified":1553717893,
     "wof:name":"Charity/Urasara",
     "wof:parent_id":-1,
     "wof:placetype":"county",

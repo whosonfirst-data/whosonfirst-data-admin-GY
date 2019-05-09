@@ -10,6 +10,12 @@
     "geom:latitude":6.787509,
     "geom:longitude":-58.221313,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Meer Zorgen/Malgre Tout Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.789936,
     "lbl:longitude":-58.225792,
     "meso:adm1_alt":"3",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091682273,
-    "wof:lastmodified":1536614921,
+    "wof:lastmodified":1553717891,
     "wof:name":"Meer Zorgen/Malgre Tout",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

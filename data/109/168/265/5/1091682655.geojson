@@ -10,6 +10,12 @@
     "geom:latitude":6.934591,
     "geom:longitude":-58.410872,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Leguan (Essequibo Islands) Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.947404,
     "lbl:longitude":-58.398967,
     "meso:adm1_alt":"3",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091682655,
-    "wof:lastmodified":1536614921,
+    "wof:lastmodified":1553717893,
     "wof:name":"Leguan (Essequibo Islands)",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

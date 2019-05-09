@@ -10,6 +10,12 @@
     "geom:latitude":7.367205,
     "geom:longitude":-58.533993,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Paradise/Evergreen (including Somerset and Berks) Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":7.368116,
     "lbl:longitude":-58.53762,
     "meso:adm1_alt":"2",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091681151,
-    "wof:lastmodified":1536614919,
+    "wof:lastmodified":1553717893,
     "wof:name":"Paradise/Evergreen (including Somerset and Berks)",
     "wof:parent_id":-1,
     "wof:placetype":"county",

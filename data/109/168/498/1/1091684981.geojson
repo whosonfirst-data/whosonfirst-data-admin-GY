@@ -10,6 +10,12 @@
     "geom:latitude":3.964867,
     "geom:longitude":-59.154957,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Yakarinta - Wowetta, Surama Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":3.982942,
     "lbl:longitude":-59.105043,
     "meso:adm1_alt":"9",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091684981,
-    "wof:lastmodified":1536614925,
+    "wof:lastmodified":1553717895,
     "wof:name":"Yakarinta - Wowetta, Surama",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.773949,
     "geom:longitude":-58.066614,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Triumph/Beterverwagting Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.774546,
     "lbl:longitude":-58.066374,
     "meso:adm1_alt":"4",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091685791,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1553717895,
     "wof:name":"Triumph/Beterverwagting",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.334583,
     "geom:longitude":-57.58774,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Bel Air/Woodlands Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.335773,
     "lbl:longitude":-57.58774,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091683609,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717893,
     "wof:name":"Bel Air/Woodlands",
     "wof:parent_id":-1,
     "wof:placetype":"county",

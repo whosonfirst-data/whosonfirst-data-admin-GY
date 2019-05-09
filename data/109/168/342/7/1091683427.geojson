@@ -10,6 +10,12 @@
     "geom:latitude":6.344681,
     "geom:longitude":-58.230796,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Soesdyke-Linden highway (including Timehri) Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.357228,
     "lbl:longitude":-58.253547,
     "meso:adm1_alt":"4",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091683427,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717893,
     "wof:name":"Soesdyke-Linden highway (including Timehri)",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.433985,
     "geom:longitude":-58.336709,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Amsterdam (Demerara River)/Vriesland Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.597469,
     "lbl:longitude":-58.307977,
     "meso:adm1_alt":"3",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091682779,
-    "wof:lastmodified":1536614921,
+    "wof:lastmodified":1553717893,
     "wof:name":"Amsterdam (Demerara River)/Vriesland",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

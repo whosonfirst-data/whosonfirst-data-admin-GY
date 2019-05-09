@@ -10,6 +10,12 @@
     "geom:latitude":5.86461,
     "geom:longitude":-58.32332,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Coomaka Lands Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.845549,
     "lbl:longitude":-58.33716,
     "meso:adm1_alt":"10",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684395,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717894,
     "wof:name":"Coomaka Lands",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

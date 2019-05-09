@@ -10,6 +10,12 @@
     "geom:latitude":5.184275,
     "geom:longitude":-58.521536,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Mabura Hill Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.206246,
     "lbl:longitude":-58.588108,
     "meso:adm1_alt":"10",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684481,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717894,
     "wof:name":"Mabura Hill",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

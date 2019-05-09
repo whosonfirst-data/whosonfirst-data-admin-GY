@@ -10,6 +10,12 @@
     "geom:latitude":6.471909,
     "geom:longitude":-57.765146,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Abary/Mahaicony Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.471152,
     "lbl:longitude":-57.761793,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091683675,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717893,
     "wof:name":"Abary/Mahaicony",
     "wof:parent_id":-1,
     "wof:placetype":"county",

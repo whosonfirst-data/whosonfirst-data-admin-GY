@@ -10,6 +10,12 @@
     "geom:latitude":3.7258,
     "geom:longitude":-59.52783,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Toka - Jakaretinga Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":3.696053,
     "lbl:longitude":-59.557393,
     "meso:adm1_alt":"9",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091684723,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717896,
     "wof:name":"Toka - Jakaretinga",
     "wof:parent_id":-1,
     "wof:placetype":"county",

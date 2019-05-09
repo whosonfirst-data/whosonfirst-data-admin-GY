@@ -10,6 +10,12 @@
     "geom:latitude":5.507102,
     "geom:longitude":-58.047666,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Ituni Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.533478,
     "lbl:longitude":-58.131446,
     "meso:adm1_alt":"10",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684441,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717894,
     "wof:name":"Ituni",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

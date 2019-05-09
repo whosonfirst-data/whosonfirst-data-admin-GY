@@ -10,6 +10,12 @@
     "geom:latitude":7.598923,
     "geom:longitude":-60.030117,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Matthews Ridge/Arakaka (Matakai)/Port Kaituma Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":7.592718,
     "lbl:longitude":-60.049985,
     "meso:adm1_alt":"1",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684603,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717894,
     "wof:name":"Matthews Ridge/Arakaka (Matakai)/Port Kaituma",
     "wof:parent_id":85671751,
     "wof:placetype":"county",

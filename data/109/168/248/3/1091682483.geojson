@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075309,
-    "geom:area_square_m":925033159.402676,
+    "geom:area_square_m":925033159.402743,
     "geom:bbox":"-58.589611053,6.29797411993,-58.2968942099,6.84902674132",
     "geom:latitude":6.601319,
     "geom:longitude":-58.461068,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Unorganized Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.623637,
     "lbl:longitude":-58.499916,
     "meso:adm1_alt":"3",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091682483,
-    "wof:lastmodified":1505431230,
+    "wof:lastmodified":1553717892,
     "wof:name":"Unorganized",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

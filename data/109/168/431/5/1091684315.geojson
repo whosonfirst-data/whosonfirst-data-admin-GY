@@ -10,6 +10,12 @@
     "geom:latitude":5.007002,
     "geom:longitude":-59.946021,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Kaibarupai Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.003414,
     "lbl:longitude":-59.950054,
     "meso:adm1_alt":"8",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684315,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717895,
     "wof:name":"Kaibarupai",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

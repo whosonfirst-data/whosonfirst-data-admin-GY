@@ -10,6 +10,12 @@
     "geom:latitude":5.346568,
     "geom:longitude":-58.056027,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Kwakwani Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.350333,
     "lbl:longitude":-58.045653,
     "meso:adm1_alt":"10",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684945,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717895,
     "wof:name":"Kwakwani",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

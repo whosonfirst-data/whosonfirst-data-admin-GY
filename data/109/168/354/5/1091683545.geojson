@@ -10,6 +10,12 @@
     "geom:latitude":6.290719,
     "geom:longitude":-57.621951,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Unorganized Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.296154,
     "lbl:longitude":-57.643233,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091683545,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717893,
     "wof:name":"Unorganized",
     "wof:parent_id":-1,
     "wof:placetype":"county",

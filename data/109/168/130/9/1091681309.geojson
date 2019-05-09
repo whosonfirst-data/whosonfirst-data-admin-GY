@@ -10,6 +10,12 @@
     "geom:latitude":6.633887,
     "geom:longitude":-57.860064,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Farm/Woodlands Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.632076,
     "lbl:longitude":-57.864887,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091681309,
-    "wof:lastmodified":1536614919,
+    "wof:lastmodified":1553717894,
     "wof:name":"Farm/Woodlands",
     "wof:parent_id":-1,
     "wof:placetype":"county",

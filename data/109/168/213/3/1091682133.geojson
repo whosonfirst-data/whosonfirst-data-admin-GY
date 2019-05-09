@@ -10,6 +10,12 @@
     "geom:latitude":6.719904,
     "geom:longitude":-58.216601,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Patentia/Toevlugt Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.718615,
     "lbl:longitude":-58.216955,
     "meso:adm1_alt":"3",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091682133,
-    "wof:lastmodified":1536614921,
+    "wof:lastmodified":1553717891,
     "wof:name":"Patentia/Toevlugt",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.127056,
     "geom:longitude":-58.000042,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Berbice River settlements Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":4.878621,
     "lbl:longitude":-58.18105,
     "meso:adm1_alt":"10",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684555,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717895,
     "wof:name":"Berbice River settlements",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

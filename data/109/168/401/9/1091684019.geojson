@@ -10,6 +10,12 @@
     "geom:latitude":5.857184,
     "geom:longitude":-60.795391,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Waramadan Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.859361,
     "lbl:longitude":-60.807613,
     "meso:adm1_alt":"7",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684019,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717894,
     "wof:name":"Waramadan",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

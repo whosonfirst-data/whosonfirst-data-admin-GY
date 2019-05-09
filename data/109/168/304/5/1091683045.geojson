@@ -10,6 +10,12 @@
     "geom:latitude":6.636279,
     "geom:longitude":-57.928193,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Cane Grove Land Development Scheme Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.637224,
     "lbl:longitude":-57.9256,
     "meso:adm1_alt":"4",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091683045,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717892,
     "wof:name":"Cane Grove Land Development Scheme",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.736993,
     "geom:longitude":-58.178234,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Herstelling/Little Diamond Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.737368,
     "lbl:longitude":-58.177868,
     "meso:adm1_alt":"4",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091683225,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717892,
     "wof:name":"Herstelling/Little Diamond",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

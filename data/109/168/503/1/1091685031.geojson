@@ -10,6 +10,12 @@
     "geom:latitude":6.101072,
     "geom:longitude":-57.937607,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "St. Francis Mission Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.086425,
     "lbl:longitude":-57.963026,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091685031,
-    "wof:lastmodified":1536614925,
+    "wof:lastmodified":1553717895,
     "wof:name":"St. Francis Mission",
     "wof:parent_id":-1,
     "wof:placetype":"county",

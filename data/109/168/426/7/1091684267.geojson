@@ -10,6 +10,12 @@
     "geom:latitude":4.959217,
     "geom:longitude":-59.881096,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Kopanang, Waipa, Kenepai Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":4.956768,
     "lbl:longitude":-59.872922,
     "meso:adm1_alt":"8",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684267,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717894,
     "wof:name":"Kopanang, Waipa, Kenepai",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

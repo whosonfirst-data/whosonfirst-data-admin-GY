@@ -10,6 +10,12 @@
     "geom:latitude":6.840788,
     "geom:longitude":-58.427922,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Parika/Mora Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.840753,
     "lbl:longitude":-58.42825,
     "meso:adm1_alt":"3",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091682611,
-    "wof:lastmodified":1536614921,
+    "wof:lastmodified":1553717892,
     "wof:name":"Parika/Mora",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

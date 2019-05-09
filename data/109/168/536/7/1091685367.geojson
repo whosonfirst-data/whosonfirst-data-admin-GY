@@ -10,6 +10,12 @@
     "geom:latitude":6.410384,
     "geom:longitude":-58.628277,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Bartica Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.410734,
     "lbl:longitude":-58.628966,
     "meso:adm1_alt":"7",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091685367,
-    "wof:lastmodified":1536614925,
+    "wof:lastmodified":1553717895,
     "wof:name":"Bartica",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

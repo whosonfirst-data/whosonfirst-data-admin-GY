@@ -10,6 +10,12 @@
     "geom:latitude":4.702868,
     "geom:longitude":-59.692816,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Paramakatoi Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":4.704362,
     "lbl:longitude":-59.694275,
     "meso:adm1_alt":"8",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091685109,
-    "wof:lastmodified":1536614925,
+    "wof:lastmodified":1553717895,
     "wof:name":"Paramakatoi",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

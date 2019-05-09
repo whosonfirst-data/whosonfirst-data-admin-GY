@@ -10,6 +10,12 @@
     "geom:latitude":6.38081,
     "geom:longitude":-57.650502,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Naarstigheid/Union Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.380695,
     "lbl:longitude":-57.649556,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091683643,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717893,
     "wof:name":"Naarstigheid/Union",
     "wof:parent_id":-1,
     "wof:placetype":"county",

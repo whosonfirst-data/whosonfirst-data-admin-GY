@@ -10,6 +10,12 @@
     "geom:latitude":6.375185,
     "geom:longitude":-61.08283,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Arau Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.373758,
     "lbl:longitude":-61.09109,
     "meso:adm1_alt":"7",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684985,
-    "wof:lastmodified":1536614925,
+    "wof:lastmodified":1553717895,
     "wof:name":"Arau",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

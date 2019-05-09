@@ -10,6 +10,12 @@
     "geom:latitude":5.425232,
     "geom:longitude":-60.298851,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Karambaru to Tukui River, Phillipi Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.415172,
     "lbl:longitude":-60.298816,
     "meso:adm1_alt":"7",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091683927,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717894,
     "wof:name":"Karambaru to Tukui River, Phillipi",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

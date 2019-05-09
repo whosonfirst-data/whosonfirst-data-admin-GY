@@ -10,6 +10,12 @@
     "geom:latitude":6.30074,
     "geom:longitude":-57.569747,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Rosignol/Zeelust Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.302224,
     "lbl:longitude":-57.57416,
     "meso:adm1_alt":"5",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091683585,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717893,
     "wof:name":"Rosignol/Zeelust",
     "wof:parent_id":-1,
     "wof:placetype":"county",

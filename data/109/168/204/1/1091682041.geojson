@@ -10,6 +10,12 @@
     "geom:latitude":7.166796,
     "geom:longitude":-58.582236,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Riverstown/Annandale Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":7.222672,
     "lbl:longitude":-58.602473,
     "meso:adm1_alt":"2",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091682041,
-    "wof:lastmodified":1536614920,
+    "wof:lastmodified":1553717891,
     "wof:name":"Riverstown/Annandale",
     "wof:parent_id":-1,
     "wof:placetype":"county",

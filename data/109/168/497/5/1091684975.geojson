@@ -10,6 +10,12 @@
     "geom:latitude":2.001983,
     "geom:longitude":-59.456377,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Marudi Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":1.965935,
     "lbl:longitude":-59.508047,
     "meso:adm1_alt":"9",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091684975,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717894,
     "wof:name":"Marudi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

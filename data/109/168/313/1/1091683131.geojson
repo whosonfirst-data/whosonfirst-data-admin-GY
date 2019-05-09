@@ -10,6 +10,12 @@
     "geom:latitude":6.782077,
     "geom:longitude":-58.108417,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Plaisance/Industry Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.78132,
     "lbl:longitude":-58.108419,
     "meso:adm1_alt":"4",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091683131,
-    "wof:lastmodified":1536614922,
+    "wof:lastmodified":1553717892,
     "wof:name":"Plaisance/Industry",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

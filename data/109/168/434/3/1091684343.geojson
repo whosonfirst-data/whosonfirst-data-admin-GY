@@ -10,6 +10,12 @@
     "geom:latitude":4.220122,
     "geom:longitude":-59.534351,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Yarong Paru - Good Hope Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":4.261665,
     "lbl:longitude":-59.592627,
     "meso:adm1_alt":"9",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1091684343,
-    "wof:lastmodified":1536614923,
+    "wof:lastmodified":1553717893,
     "wof:name":"Yarong Paru - Good Hope",
     "wof:parent_id":-1,
     "wof:placetype":"county",

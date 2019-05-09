@@ -10,6 +10,12 @@
     "geom:latitude":5.452899,
     "geom:longitude":-59.238287,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Madhia+Kurubrong River+Mona Falls Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.457202,
     "lbl:longitude":-59.204327,
     "meso:adm1_alt":"8",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091684787,
-    "wof:lastmodified":1536614924,
+    "wof:lastmodified":1553717896,
     "wof:name":"Madhia+Kurubrong River+Mona Falls",
     "wof:parent_id":85671739,
     "wof:placetype":"county",
