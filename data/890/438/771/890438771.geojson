@@ -18,16 +18,10 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0438\u0433\u043d\u043e\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u897f\u683c\u8afe\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Rosignol"
-    ],
     "name:eng_x_preferred":[
         "Rosignol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rosignol"
     ],
     "name:kor_x_preferred":[
@@ -35,6 +29,9 @@
     ],
     "name:lit_x_preferred":[
         "Rosignolas"
+    ],
+    "name:nld_x_preferred":[
+        "Rosignol"
     ],
     "name:pol_x_preferred":[
         "Rosignol"
@@ -53,6 +50,9 @@
     ],
     "name:vol_x_preferred":[
         "Rosignol"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u897f\u683c\u8afe\u723e"
     ],
     "qs:name":"Rosignol",
     "qs:photos_9r":0,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":890438771,
-    "wof:lastmodified":1527735422,
+    "wof:lastmodified":1561845086,
     "wof:name":"Rosignol",
     "wof:parent_id":1091683545,
     "wof:placetype":"locality",
