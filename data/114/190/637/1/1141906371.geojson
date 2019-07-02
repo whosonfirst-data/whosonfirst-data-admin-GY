@@ -17,19 +17,10 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0445\u0435\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u745f\u59c6"
-    ],
-    "name:dut_x_preferred":[
-        "Lethem"
-    ],
     "name:eng_x_preferred":[
         "Lethem"
     ],
     "name:fra_x_preferred":[
-        "Lethem"
-    ],
-    "name:fre_x_preferred":[
         "Lethem"
     ],
     "name:heb_x_preferred":[
@@ -203,7 +194,7 @@
         }
     ],
     "wof:id":1141906371,
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1561845087,
     "wof:name":"Lethem",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",

@@ -23,20 +23,14 @@
     "name:ces_x_preferred":[
         "Linden"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u767b"
-    ],
-    "name:cze_x_preferred":[
-        "Linden"
-    ],
     "name:dan_x_preferred":[
         "Linden"
     ],
     "name:deu_x_preferred":[
         "Linden"
     ],
-    "name:dut_x_preferred":[
-        "Linden"
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bd\u03c4\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Linden"
@@ -47,17 +41,8 @@
     "name:fra_x_preferred":[
         "Linden"
     ],
-    "name:fre_x_preferred":[
-        "Linden"
-    ],
     "name:fry_x_preferred":[
         "Linden"
-    ],
-    "name:ger_x_preferred":[
-        "Linden"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bd\u03c4\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aa8\u0acd\u0aa1\u0ac7\u0aa8"
@@ -89,7 +74,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u0928\u094d\u0921\u0947\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Linden"
     ],
     "name:nld_x_preferred":[
@@ -288,7 +273,7 @@
         }
     ],
     "wof:id":421176611,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561845086,
     "wof:name":"Linden",
     "wof:parent_id":1091685061,
     "wof:placetype":"locality",
