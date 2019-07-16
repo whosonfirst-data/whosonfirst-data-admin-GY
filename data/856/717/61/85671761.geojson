@@ -25,11 +25,35 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ben_x_preferred":[
+        "\u098f\u09b8\u09c7\u0995\u09c1\u0987\u09ac\u09cb \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
     "name:eng_x_preferred":[
         "Essequibo Islands-West Demerara"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30bb\u30ad\u30dc\u8af8\u5cf6\uff1d\u897f\u30c7\u30e1\u30e9\u30e9\u5dde"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc138\ud0a4\ubcf4\uc544\uc77c\ub79c\uc988\uc6e8\uc2a4\ud2b8\ub370\uba54\ub77c\ub77c\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Esekibo salas-Rietumdemerara"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0441\u0435\u043a\u0438\u0431\u043e-\u0410\u0439\u043b\u0435\u043d\u0434\u0441-\u0423\u044d\u0441\u0442-\u0414\u0435\u043c\u0435\u0440\u0430\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dc3\u0dda\u0d9a\u0dd4\u0dba\u0dd2\u0db6\u0ddd \u0daf\u0dd6\u0db4\u0dad\u0dca"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e40\u0e2d\u0e2a\u0e2a\u0e34\u0e04\u0e34\u0e27\u0e42\u0e1a\u0e40\u0e14\u0e40\u0e21\u0e23\u0e32\u0e23\u0e48\u0e32\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01"
+    ],
     "name:unk_x_variant":[
         "Region 3"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u585e\u594e\u535a\u7fa4\u5cf6-\u897f\u5fb7\u6885\u62c9\u62c9\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GUY",
@@ -152,7 +176,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550340,
+    "wof:lastmodified":1563300147,
     "wof:name":"Demerara-Mahaica",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

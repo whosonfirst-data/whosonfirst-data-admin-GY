@@ -25,11 +25,128 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0648\u0646\u064a \u0645\u0627\u0632\u0627\u0631\u0648\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09af\u09bc\u09c1\u09a8\u09bf-\u09ae\u09be\u099c\u09be\u09b0\u09c1\u09a8\u09bf"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u044e\u043d\u0438-\u041c\u0430\u0437\u0430\u0440\u0443\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Cuyuni-Mazaruni Region"
+    ],
+    "name:dan_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:deu_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03b3\u03b9\u03bf\u03cd\u03bd\u03b9-\u039c\u03b1\u03b6\u03b1\u03c1\u03bf\u03cd\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Cuyuni-Mazaruni"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u0648\u0646\u06cc-\u0645\u0627\u0632\u0627\u0631\u0648\u0646\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:fra_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:frr_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac1\u0aaf\u0ac2\u0aa8\u0ac0-\u0aae\u0a9d\u0abe\u0ab0\u0ac2\u0aa8\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u092f\u0942\u0928\u0940-\u092e\u091c\u093c\u093e\u0930\u0942\u0928\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:ita_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e6\u30cb\uff1d\u30de\u30b6\u30eb\u30cb\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc1\u0caf\u0cc1\u0ca8\u0cbf-\u0cae\u0c9d\u0cb0\u0cc1\u0ca8\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc720\ub2c8\ub9c8\uc790\ub8e8\ub2c8\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Kujuni-Mazaruni"
+    ],
+    "name:lit_x_preferred":[
+        "Kujunis-Mazarunis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u092f\u0941\u0928\u0940-\u092e\u091d\u093e\u0930\u0941\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:nld_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:nob_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:pol_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:por_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u044e\u043d\u0438-\u041c\u0430\u0437\u0430\u0440\u0443\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0dba\u0dd2\u0db1\u0dd2 \u0db8\u0dcf\u0dc3\u0dbb\u0dd6\u0db1\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:sqi_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:swe_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0baf\u0bc2\u0ba9\u0bbf -\u0bae\u0bbe\u0b9a\u0bbe\u0bb0\u0bc1\u0ba8\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c2f\u0c42\u0c28\u0c3f-\u0c2e\u0c1c\u0c30\u0c41\u0c28\u0c48"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e39\u0e22\u0e39\u0e19\u0e35-\u0e21\u0e32\u0e0b\u0e32\u0e23\u0e39\u0e19\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Cuyuni-Maarauni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u044e\u043d\u0456-\u041c\u0430\u0437\u0430\u0440\u0443\u043d\u0456"
+    ],
     "name:unk_x_variant":[
         "Region 7"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06cc\u0648\u0646\u06cc \u0645\u0627\u0632\u0627\u0631\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5c24\u5c3c-\u99ac\u624e\u9b6f\u5c3c\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GUY",
@@ -152,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550339,
+    "wof:lastmodified":1563300153,
     "wof:name":"Pomeroon-Supenaam",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

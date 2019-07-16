@@ -43,6 +43,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u045e\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u045e\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09b0\u09cd\u099c\u099f\u09be\u0989\u09a8"
     ],
@@ -91,6 +94,9 @@
     "name:epo_x_preferred":[
         "Georgurbo"
     ],
+    "name:epo_x_variant":[
+        "\u011cor\u011dta\u016dno"
+    ],
     "name:est_x_preferred":[
         "Georgetown"
     ],
@@ -133,6 +139,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e8\u05d2\u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d5\u05e8\u05d2'\u05d8\u05d0\u05d5\u05df"
     ],
     "name:hif_x_preferred":[
         "Georgetown"
@@ -311,8 +320,14 @@
     "name:swe_x_preferred":[
         "Georgetown"
     ],
+    "name:szl_x_preferred":[
+        "Georgetown"
+    ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd\u0b9f\u0bb5\u0bc1\u0ba3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u043e\u0440\u0497\u0442\u0430\u0443\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c4d \u0c1f\u0c4c\u0c28\u0c4d"
@@ -332,6 +347,9 @@
     "name:tur_x_preferred":[
         "Georgetown"
     ],
+    "name:udm_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d"
     ],
@@ -340,6 +358,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646\u060c \u06af\u06cc\u0627\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0627\u0631\u062c \u0679\u0627\u0624\u0646"
     ],
     "name:uzb_x_preferred":[
         "Jorjtaun"
@@ -497,7 +518,7 @@
         }
     ],
     "wof:id":890444585,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1563300237,
     "wof:name":"Georgetown",
     "wof:parent_id":1091683403,
     "wof:placetype":"locality",

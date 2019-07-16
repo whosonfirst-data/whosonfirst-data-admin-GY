@@ -15,6 +15,9 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mahaicony Village"
+    ],
     "name:eng_x_preferred":[
         "Mahaicony"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890435769,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1563300238,
     "wof:name":"Mahaicony Village",
     "wof:parent_id":1091681309,
     "wof:placetype":"locality",

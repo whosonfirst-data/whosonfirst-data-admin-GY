@@ -28,11 +28,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0627\u0631\u0648-\u0633\u064a\u0628\u0627\u0631\u0648\u0646\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u062a\u0627\u0631\u0648 \u0633\u064a\u0628\u0627\u0631\u0648\u0646\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09a4\u09be\u09b0\u09cb \u09b8\u09bf\u09aa\u09be\u09b0\u09c1\u09a8\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0442\u0430\u0440\u043e-\u0421\u0438\u043f\u0430\u0440\u0443\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Potaro-Siparuni Region"
     ],
     "name:dan_x_preferred":[
         "Potaro-Siparuni"
@@ -55,6 +61,9 @@
     "name:fra_x_preferred":[
         "Potaro-Siparuni"
     ],
+    "name:frr_x_preferred":[
+        "Potaro-Siparuni"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a9f\u0abe\u0ab0\u0acb-\u0ab8\u0abf\u0aaa\u0ab0\u0ac1\u0aa8\u0abf"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ud0c0\ub85c\uc2dc\ud30c\ub8e8\ub2c8 \uc9c0\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\ud0c0\ub85c\uc2dc\ud30c\ub8e8\ub2c8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Potaro-Siparuni"
@@ -102,6 +114,9 @@
     ],
     "name:por_x_preferred":[
         "Potaro\u2013Siparuni"
+    ],
+    "name:por_x_variant":[
+        "Potaro-Siparuni"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0442\u0430\u0440\u043e-\u0421\u0438\u043f\u0430\u0440\u0443\u043d\u0438"
@@ -269,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561845084,
+    "wof:lastmodified":1563300154,
     "wof:name":"Potaro-Siparuni",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0438\u0433\u043d\u043e\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Rosignol"
+    ],
     "name:eng_x_preferred":[
         "Rosignol"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890438771,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1563300235,
     "wof:name":"Rosignol",
     "wof:parent_id":1091683545,
     "wof:placetype":"locality",

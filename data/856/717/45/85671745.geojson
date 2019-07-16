@@ -25,11 +25,122 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09aa\u09be\u09b0 \u099f\u09be\u0995\u09c1\u099f\u09c1-\u0986\u09aa\u09be\u09b0 \u098f\u09b8\u09c7\u0995\u09c1\u0987\u09ac\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Upper Takutu-Upper Essequibo Region"
+    ],
+    "name:dan_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:deu_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c0\u03b5\u03c1 \u03a4\u03b1\u03ba\u03bf\u03cd\u03c4\u03bf\u03c5-\u0386\u03c0\u03b5\u03c1 \u0395\u03c3\u03b5\u03ba\u03bf\u03c5\u03af\u03bc\u03c0\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Upper Takutu-Upper Essequibo"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06a9\u0648\u062a\u0648 \u0628\u0627\u0644\u0627- \u0627\u0633\u06cc\u06a9\u0648\u06cc\u06cc\u0628\u0648 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:fra_x_preferred":[
+        "Haut-Takutu-Haut-Essequibo"
+    ],
+    "name:frr_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aaa\u0ab0 \u0a9f\u0a95\u0ac1\u0a9f\u0ac1-\u0a85\u0aaa\u0ab0 \u0a8f\u0ab8\u0ac7\u0a95\u0ac1\u0aac\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u090a\u092a\u0930\u0940 \u091f\u0915\u0942\u091f\u0942-\u090a\u092a\u0930\u0940 \u090f\u0938\u0947\u0915\u093f\u092c\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Takutu Hulu-Essequibo Hulu"
+    ],
+    "name:ita_x_preferred":[
+        "Alto Takutu-Alto Essequibo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30d1\u30fc\u30fb\u30bf\u30af\u30c8\u30a5\uff1d\u30a2\u30c3\u30d1\u30fc\u30fb\u30a8\u30bb\u30ad\u30dc\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0caa\u0ccd\u0caa\u0cb0\u0ccd \u0c9f\u0c95\u0cc1\u0ca4\u0cc1-\u0c85\u0caa\u0ccd\u0caa\u0cb0\u0ccd \u0c8e\u0cb8\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd\u0c9f\u0cbf\u0cac\u0cca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5b4\ud37c\ud0c0\ucfe0\ud22c\uc5b4\ud37c\uc5d0\uc138\ud0a4\ubcf4\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Aug\u0161takutu-Aug\u0161esekibo"
+    ],
+    "name:lit_x_preferred":[
+        "Auk\u0161tutinis Takutu-Auk\u0161tutinis Esekibas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u092a\u094d\u092a\u0930 \u091f\u094b\u0915\u0941\u0924\u0942-\u0905\u092a\u094d\u092a\u0930 \u0907\u0938\u094d\u0915\u094b\u0935\u092c\u094b"
+    ],
+    "name:msa_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:nld_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:nob_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:pol_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:por_x_preferred":[
+        "Alto Takutu-Alto Essequibo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u043f\u0435\u0440-\u0422\u0430\u043a\u0443\u0442\u0443-\u0410\u043f\u043f\u0435\u0440-\u042d\u0441\u0441\u0435\u043a\u0438\u0431\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d89\u0dc4\u0dbd \u0da7\u0d9a\u0dd4\u0da7\u0dd4 -\u0d89\u0dc4\u0dbd \u0d91\u0dc3\u0dda\u0d9a\u0dd4\u0dba\u0dd2\u0db6\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Alto Tacutu-Alto Esequibo"
+    ],
+    "name:sqi_x_preferred":[
+        "Upper Takutu-Upper Essequibo"
+    ],
+    "name:swe_x_preferred":[
+        "Upper Takatu-Upper Esseqiubo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b9f\u0bbe\u0b95\u0bc1\u0ba4\u0bc1-\u0b85\u0baa\u0bcd\u0baa\u0bb0\u0bcd  \u0b8e\u0bb8\u0bcd\u0bb8\u0bc7\u0b95\u0bc1\u0b87\u0baa\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c2a\u0c4d\u0c2a\u0c30\u0c4d \u0c1f\u0c15\u0c42\u0c1f\u0c42-\u0c05\u0c2a\u0c4d\u0c2a\u0c30\u0c4d \u0c0e\u0c38\u0c46\u0c15\u0c4d\u0c35\u0c3f\u0c2c\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e32\u0e04\u0e39\u0e15\u0e39\u0e15\u0e2d\u0e19\u0e1a\u0e19-\u0e2a\u0e04\u0e34\u0e27\u0e42\u0e1a\u0e15\u0e2d\u0e19\u0e1a\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Upper Takutu- Upper Essequibo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0454 \u0422\u0430\u043a\u0443\u0442\u0443-\u0412\u0435\u0440\u0445\u043d\u044f \u0415\u0441\u0435\u043a\u0456\u0431\u043e"
+    ],
     "name:unk_x_variant":[
         "Region 9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0626\u06cc \u062a\u0627\u06a9\u0648\u062a\u0648 \u0628\u0627\u0644\u0627\u0626\u06cc \u0627\u06cc\u0633\u06cc\u06a9\u0648\u06cc\u0628\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u01b0\u1ee3ng Takutu-Th\u01b0\u1ee3ng Essequibo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5854\u5e93\u56fe-\u4e0a\u57c3\u585e\u594e\u535a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GUY",
@@ -152,7 +263,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550338,
+    "wof:lastmodified":1563300150,
     "wof:name":"Upper Demerara-Berbice",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
