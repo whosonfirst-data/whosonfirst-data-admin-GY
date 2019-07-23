@@ -25,11 +25,128 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0645\u064a\u0631\u0648\u0646-\u0633\u0648\u0628\u0646\u0627\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09ae\u09c7\u09b0\u09c1\u09a8-\u09b8\u09c1\u09aa\u09c7\u09a8\u09be\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043c\u0435\u0440\u0443\u043d-\u0421\u0443\u043f\u0435\u043d\u0430\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Pomeroon-Supenaam Region"
+    ],
+    "name:dan_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:deu_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bc\u03b5\u03c1\u03bf\u03cd\u03bd-\u03a3\u03bf\u03c5\u03c0\u03b5\u03bd\u03b1\u03ac\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Pomeroon-Supenaam"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0645\u0631\u0648\u0646-\u0633\u0648\u067e\u0646\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:fra_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:frr_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0aae\u0ac7\u0ab0\u0ac2\u0aa8-\u0ab8\u0ac1\u0aaa\u0ac7\u0aa8\u0abe\u0aae"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u092e\u0947\u0930\u0942\u0928-\u0938\u0941\u092a\u0928\u093e\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:ita_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30e1\u30ed\u30fc\u30f3\uff1d\u30b9\u30da\u30ca\u30fc\u30e0\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cae\u0cb0\u0cc2\u0ca8\u0ccd-\u0cb8\u0cc1\u0caa\u0cc0\u0ca8\u0cbe\u0cae\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\uba54\ub8ec\uc218\ud398\ub0a8\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Pomer\u016bna-Supen\u0101ma"
+    ],
+    "name:lit_x_preferred":[
+        "Pomeronas-Supenamas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u092e\u0947\u0930\u0942\u0928-\u0938\u0941\u092a\u0947\u0902\u0928\u093e\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:nld_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:nob_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:pol_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:por_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043c\u0435\u0440\u0443\u043d-\u0421\u0443\u043f\u0435\u043d\u0430\u0430\u043c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0db8\u0dd9\u0dbb\u0dd6\u0db1\u0dca-\u0dc3\u0dd4\u0db4\u0dd9\u0db1\u0dcf\u0db8\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:sqi_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:swe_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bae\u0bc6\u0bb0\u0bc2\u0ba9\u0bcd -\u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bbe\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c2e\u0c46\u0c30\u0c42\u0c28\u0c4d-\u0c38\u0c42\u0c2a\u0c46\u0c28\u0c3e\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e14\u0e34\u0e07\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043c\u0435\u0440\u0443\u043d-\u0421\u0443\u043f\u0435\u043d\u0430\u0430\u043c"
+    ],
     "name:unk_x_variant":[
         "Region 2"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0645\u06cc\u0631\u0648\u0646 \u0633\u0648\u067e\u06cc\u0646\u0627\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Pomeroon-Supenaam"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u9ed8\u502b-\u8607\u4f69\u7d0d\u59c6\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GUY",
@@ -152,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550351,
+    "wof:lastmodified":1563300151,
     "wof:name":"Cuyuni-Mazaruni",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

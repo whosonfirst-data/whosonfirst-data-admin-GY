@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09a8\u09cd\u09a1\u09c7\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Linden"
+    ],
     "name:ces_x_preferred":[
         "Linden"
     ],
@@ -98,6 +101,9 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dd9\u0db1\u0dca"
     ],
+    "name:sin_x_variant":[
+        "\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dd9\u0db1\u0dca "
+    ],
     "name:spa_x_preferred":[
         "Linden"
     ],
@@ -121,6 +127,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0646\u062f\u06cc\u0646\u060c \u06af\u06cc\u0627\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0646\u062f\u06cc\u0646"
     ],
     "name:vie_x_preferred":[
         "Linden"
@@ -273,7 +282,7 @@
         }
     ],
     "wof:id":421176611,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1563300233,
     "wof:name":"Linden",
     "wof:parent_id":1091685061,
     "wof:placetype":"locality",

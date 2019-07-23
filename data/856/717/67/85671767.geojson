@@ -25,11 +25,77 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0439\u043a\u0430-\u0411\u044a\u0440\u0431\u0430\u0439\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Mahaica-Berbice Region"
+    ],
+    "name:deu_x_preferred":[
+        "Mahaica-Berbice"
+    ],
     "name:eng_x_preferred":[
         "Mahaica-Berbice"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0647\u0627\u06cc\u06a9\u0627-\u0628\u0631\u0628\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:frr_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:ind_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:ita_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cf\u30a4\u30ab\uff1d\u30d9\u30eb\u30d3\u30bb\u5dde"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud558\uc774\uce74\ubc84\ube44\uc2a4\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Mahaika-Berbisas"
+    ],
+    "name:nld_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:nob_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:pol_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:por_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0439\u043a\u0430-\u0411\u0435\u0440\u0431\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:sqi_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:swe_x_preferred":[
+        "Mahaica-Berbice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0439\u043a\u0430-\u0411\u0435\u0440\u0431\u0456\u0441"
+    ],
     "name:unk_x_variant":[
         "Region 5"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06c1\u0627\u06cc\u06a9\u0627 \u0628\u0631\u0628\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6d77\u5361-\u4f2f\u6bd4\u65af\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GUY",
@@ -152,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550341,
+    "wof:lastmodified":1563300150,
     "wof:name":"Essequibo Islands-West Demerara",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

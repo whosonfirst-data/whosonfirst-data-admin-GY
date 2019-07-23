@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043a\u0435\u043b\u0434\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Skeldon"
+    ],
     "name:eng_x_preferred":[
         "Skeldon"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890438767,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1563300235,
     "wof:name":"Skeldon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

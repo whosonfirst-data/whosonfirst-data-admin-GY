@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0445\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Lethem"
+    ],
     "name:eng_x_preferred":[
         "Lethem"
     ],
@@ -47,11 +50,17 @@
     "name:por_x_preferred":[
         "Lethem"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0442\u0435\u043c"
+    ],
     "name:spa_x_preferred":[
         "Lethem"
     ],
     "name:swe_x_preferred":[
         "Lethem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0442\u0435\u043c"
     ],
     "name:unk_x_variant":[
         "Bon Success"
@@ -194,7 +203,7 @@
         }
     ],
     "wof:id":1141906371,
-    "wof:lastmodified":1561845087,
+    "wof:lastmodified":1563300271,
     "wof:name":"Lethem",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",

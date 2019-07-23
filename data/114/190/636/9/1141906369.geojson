@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0442\u0443\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ituni"
+    ],
     "name:deu_x_preferred":[
         "Ituni"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1141906369,
-    "wof:lastmodified":1561845087,
+    "wof:lastmodified":1563300271,
     "wof:name":"Ituni",
     "wof:parent_id":1091684481,
     "wof:placetype":"locality",
