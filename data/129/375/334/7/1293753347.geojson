@@ -25,6 +25,18 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Suddie"
+    ],
+    "name:deu_x_preferred":[
+        "Suddie"
+    ],
+    "name:spa_x_preferred":[
+        "Suddie"
+    ],
+    "name:swe_x_preferred":[
+        "Suddie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1293753347,
-    "wof:lastmodified":1537563240,
+    "wof:lastmodified":1564104995,
     "wof:name":"Suddie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

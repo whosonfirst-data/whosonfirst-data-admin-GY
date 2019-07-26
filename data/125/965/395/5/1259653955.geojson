@@ -25,6 +25,9 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Governor Light"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259653955,
-    "wof:lastmodified":1537563241,
+    "wof:lastmodified":1564105083,
     "wof:name":"Governor Light",
     "wof:parent_id":1091683675,
     "wof:placetype":"locality",

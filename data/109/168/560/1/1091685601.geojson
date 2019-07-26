@@ -26,8 +26,17 @@
     "mps:longitude":-57.483208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Canje River"
+    ],
+    "name:ces_x_preferred":[
+        "\u0158eka Canje"
+    ],
     "name:eng_x_variant":[
         "Corentyne River"
+    ],
+    "name:swe_x_preferred":[
+        "Canje River"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1091685601,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1564105042,
     "wof:name":"Canje River",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

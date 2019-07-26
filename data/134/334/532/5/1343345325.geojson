@@ -25,6 +25,18 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koriabo"
+    ],
+    "name:deu_x_preferred":[
+        "Koriabo"
+    ],
+    "name:spa_x_preferred":[
+        "Koriabo"
+    ],
+    "name:swe_x_preferred":[
+        "Koriabo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343345325,
-    "wof:lastmodified":1537563241,
+    "wof:lastmodified":1564104974,
     "wof:name":"Koriabo",
     "wof:parent_id":1091681147,
     "wof:placetype":"locality",

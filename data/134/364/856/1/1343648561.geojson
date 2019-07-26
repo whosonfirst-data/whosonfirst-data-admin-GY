@@ -25,6 +25,15 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cane Grove"
+    ],
+    "name:spa_x_preferred":[
+        "Cane Grove"
+    ],
+    "name:swe_x_preferred":[
+        "Cane Grove"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343648561,
-    "wof:lastmodified":1537563242,
+    "wof:lastmodified":1564104969,
     "wof:name":"Cane Grove",
     "wof:parent_id":1091683045,
     "wof:placetype":"locality",

@@ -32,11 +32,17 @@
     "mps:longitude":-60.585724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kamarang"
+    ],
     "name:eng_x_preferred":[
         "Kamarang"
     ],
     "name:eng_x_variant":[
         "Kamarang"
+    ],
+    "name:spa_x_preferred":[
+        "Camar\u00e1n"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1091684047,
-    "wof:lastmodified":1553717894,
+    "wof:lastmodified":1564105059,
     "wof:name":"Kamarang",
     "wof:parent_id":85671773,
     "wof:placetype":"county",
