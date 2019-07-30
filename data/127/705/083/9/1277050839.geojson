@@ -26,6 +26,18 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Surama Village"
+    ],
+    "name:ces_x_preferred":[
+        "Surama"
+    ],
+    "name:fra_x_preferred":[
+        "Surama"
+    ],
+    "name:swe_x_preferred":[
+        "Surama Village"
+    ],
     "name:und_x_variant":[
         "Surama",
         "Surama Village"
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1277050839,
-    "wof:lastmodified":1537625475,
+    "wof:lastmodified":1564105003,
     "wof:name":"Surama Village",
     "wof:parent_id":1091684981,
     "wof:placetype":"locality",

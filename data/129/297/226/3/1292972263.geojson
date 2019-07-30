@@ -25,8 +25,32 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Canefield"
+    ],
+    "name:fra_x_preferred":[
+        "Canefield"
+    ],
+    "name:pol_x_preferred":[
+        "Canefield"
+    ],
+    "name:por_x_preferred":[
+        "Canefield"
+    ],
+    "name:ron_x_preferred":[
+        "Canefield"
+    ],
+    "name:spa_x_preferred":[
+        "Canefield"
+    ],
+    "name:swe_x_preferred":[
+        "Canefield"
+    ],
     "name:und_x_variant":[
         "Cane Field"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u83f2\u723e\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1292972263,
-    "wof:lastmodified":1537625484,
+    "wof:lastmodified":1564104990,
     "wof:name":"Canefield",
     "wof:parent_id":1091685601,
     "wof:placetype":"locality",

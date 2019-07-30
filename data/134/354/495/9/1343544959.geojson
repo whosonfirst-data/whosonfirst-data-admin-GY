@@ -25,6 +25,12 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kumaka"
+    ],
+    "name:spa_x_preferred":[
+        "Kumaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343544959,
-    "wof:lastmodified":1537563241,
+    "wof:lastmodified":1564104968,
     "wof:name":"Kumaka",
     "wof:parent_id":1091681149,
     "wof:placetype":"locality",

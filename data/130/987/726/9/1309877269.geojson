@@ -25,7 +25,16 @@
     "iso:country":"GY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makari"
+    ],
+    "name:deu_x_preferred":[
+        "Makari"
+    ],
     "name:eng_x_preferred":[
+        "Makari"
+    ],
+    "name:swe_x_preferred":[
         "Makari"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309877269,
-    "wof:lastmodified":1537625480,
+    "wof:lastmodified":1564105067,
     "wof:name":"Makari",
     "wof:parent_id":1091684213,
     "wof:placetype":"locality",
