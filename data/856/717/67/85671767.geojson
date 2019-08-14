@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":6.608566,
     "lbl:longitude":-58.414412,
     "mps:latitude":6.210778,
@@ -209,16 +212,13 @@
         }
     ],
     "wof:id":85671767,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300150,
+    "wof:lastmodified":1565713716,
     "wof:name":"Essequibo Islands-West Demerara",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

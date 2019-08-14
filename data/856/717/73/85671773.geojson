@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":6.24217,
     "lbl:longitude":-59.981439,
     "mps:latitude":7.202462,
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85671773,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300151,
+    "wof:lastmodified":1565713717,
     "wof:name":"Cuyuni-Mazaruni",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DE"
+    ],
     "lbl:latitude":2.435862,
     "lbl:longitude":-57.558898,
     "mps:latitude":6.496443,
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85671757,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300148,
+    "wof:lastmodified":1565713712,
     "wof:name":"East Berbice-Corentyne",
     "wof:parent_id":-1,
     "wof:placetype":"region",

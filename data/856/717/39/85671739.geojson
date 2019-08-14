@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PT"
+    ],
     "lbl:latitude":4.980685,
     "lbl:longitude":-59.315627,
     "mps:latitude":4.962172,
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85671739,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300154,
+    "wof:lastmodified":1565713718,
     "wof:name":"Potaro-Siparuni",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UT"
+    ],
     "lbl:latitude":5.334526,
     "lbl:longitude":-58.228491,
     "mps:latitude":2.803576,
@@ -254,16 +257,13 @@
         }
     ],
     "wof:id":85671745,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300150,
+    "wof:lastmodified":1565713716,
     "wof:name":"Upper Demerara-Berbice",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

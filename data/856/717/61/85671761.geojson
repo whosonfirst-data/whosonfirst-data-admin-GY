@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ES"
+    ],
     "lbl:latitude":6.564672,
     "lbl:longitude":-58.088184,
     "mps:latitude":6.59671,
@@ -167,16 +170,13 @@
         }
     ],
     "wof:id":85671761,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300147,
+    "wof:lastmodified":1565713712,
     "wof:name":"Demerara-Mahaica",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

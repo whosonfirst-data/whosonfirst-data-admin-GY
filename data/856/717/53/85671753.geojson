@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":7.173551,
     "lbl:longitude":-58.833957,
     "mps:latitude":6.270858,
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85671753,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300153,
+    "wof:lastmodified":1565713718,
     "wof:name":"Pomeroon-Supenaam",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

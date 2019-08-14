@@ -15,6 +15,9 @@
     "itu:country_code":[
         "592"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GY"
+    ],
     "lbl:latitude":5.121996,
     "lbl:longitude":-58.912352,
     "mps:latitude":5.121996,
@@ -962,16 +965,13 @@
         }
     ],
     "wof:id":85632397,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563300145,
+    "wof:lastmodified":1565713709,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
