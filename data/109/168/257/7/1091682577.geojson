@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.859312,
     "lbl:longitude":-58.398942,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"3",
     "meso:admin_1":"Essequibo Islands-West Demerara",
     "meso:gadm_admin":"Good Hope / Hydronie",
@@ -32,6 +34,7 @@
     "mps:longitude":-58.398942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Good Hope / Hydronie"
     ],
@@ -39,9 +42,9 @@
         "Good Hope / Hydronie"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-09-15",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091682577,
-    "wof:lastmodified":1553717892,
+    "wof:lastmodified":1566644369,
     "wof:name":"Good Hope/Hydronie",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

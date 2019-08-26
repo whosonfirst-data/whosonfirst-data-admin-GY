@@ -12,6 +12,8 @@
     "iso:country":"GY",
     "lbl:latitude":5.450683,
     "lbl:longitude":-57.50147,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"6",
     "meso:admin_1":"East Berbice-Corentyne",
     "meso:gadm_admin":"Corentyne River",
@@ -26,11 +28,12 @@
     "mps:longitude":-57.50147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Corentyne River"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85671757
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1091685829,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1566644384,
     "wof:name":"East Bank Berbice",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

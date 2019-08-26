@@ -10,10 +10,14 @@
     "geom:latitude":3.38996,
     "geom:longitude":-59.80003,
     "iso:country":"GY",
+    "lbl:bbox":"-59.8200297461,3.36995973603,-59.7800297461,3.40995973603",
     "lbl:latitude":3.38996,
     "lbl:longitude":-59.80003,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0445\u0435\u043c"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bon Success"
     ],
     "name:vol_x_preferred":[
@@ -179,7 +183,7 @@
     "wof:concordances":{
         "gn:id":3377425,
         "gp:id":376787,
-        "qs:id":899651,
+        "qs_pg:id":899651,
         "wd:id":"Q1203781",
         "wk:page":"Lethem, Guyana"
     },
@@ -203,7 +207,7 @@
         }
     ],
     "wof:id":1141906371,
-    "wof:lastmodified":1563300271,
+    "wof:lastmodified":1566644412,
     "wof:name":"Lethem",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",

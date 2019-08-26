@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-58.62151,6.6936,-58.58151,6.7336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632397
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209185015,
-    "wof:lastmodified":1536295129,
+    "wof:lastmodified":1566644353,
     "wof:name":"Manaka",
     "wof:parent_id":85632397,
     "wof:placetype":"locality",

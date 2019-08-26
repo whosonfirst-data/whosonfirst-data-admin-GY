@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7078469.071293,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-58.144841,6.79898,-58.144841,6.79898",
     "geom:latitude":6.79898,
     "geom:longitude":-58.144841,
     "iso:country":"GY",
+    "lbl:bbox":"-58.149841,6.79398,-58.139841,6.80398",
     "lbl:latitude":6.79898,
     "lbl:longitude":-58.144841,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.79089,
     "mps:longitude":-58.142919,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "La Penitence"
-    ],
-    "name:unk_x_variant":[
         "La Penitence"
     ],
     "qs:gn_adm0_cc":"GY",
@@ -54,12 +53,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671761,
         102191577,
         85632397,
-        1091683403,
-        85671761
+        1091683403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531858963,
+    "wof:lastmodified":1566644331,
     "wof:name":"La Penitence",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

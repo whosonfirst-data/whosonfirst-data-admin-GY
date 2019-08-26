@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-57.68147,6.44761,-57.64147,6.48761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Liccidfeld"
     ],
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":1293183713,
-    "wof:lastmodified":1564104992,
+    "wof:lastmodified":1566644341,
     "wof:name":"Lichfield",
     "wof:parent_id":1091681611,
     "wof:placetype":"locality",

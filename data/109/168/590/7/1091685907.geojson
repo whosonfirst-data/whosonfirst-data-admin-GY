@@ -12,6 +12,8 @@
     "iso:country":"GY",
     "lbl:latitude":6.21867,
     "lbl:longitude":-57.365325,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"6",
     "meso:admin_1":"East Berbice-Corentyne",
     "meso:gadm_admin":"Rose Hall",
@@ -26,6 +28,7 @@
     "mps:longitude":-57.365325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Rose Hall"
     ],
@@ -33,7 +36,7 @@
         "Rose Hall"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85671757
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1091685907,
-    "wof:lastmodified":1564105053,
+    "wof:lastmodified":1566644377,
     "wof:name":"Rose Hall",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

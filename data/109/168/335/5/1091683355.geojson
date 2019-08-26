@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.557673,
     "lbl:longitude":-58.218515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"4",
     "meso:admin_1":"Demerara-Mahaica",
     "meso:gadm_admin":"Te Huist Coverden / Soesdyke",
@@ -32,6 +34,7 @@
     "mps:longitude":-58.218515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Te Huist Coverden / Soesdyke"
     ],
@@ -39,9 +42,9 @@
         "Te Huist Coverden / Soesdyke"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-09-15",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091683355,
-    "wof:lastmodified":1553717892,
+    "wof:lastmodified":1566644377,
     "wof:name":"Te Huist Coverden/Soesdyke",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

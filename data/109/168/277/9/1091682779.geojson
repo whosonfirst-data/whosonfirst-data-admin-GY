@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.597469,
     "lbl:longitude":-58.307977,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"3",
     "meso:admin_1":"Essequibo Islands-West Demerara",
     "meso:gadm_admin":"Amsterdam (Demerara River) / Vriesland",
@@ -32,6 +34,7 @@
     "mps:longitude":-58.307977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Amsterdam (Dem River) / Vriesland"
     ],
@@ -39,9 +42,9 @@
         "Amsterdam (Demerara River) / Vriesland"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-09-15",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091682779,
-    "wof:lastmodified":1553717893,
+    "wof:lastmodified":1566644379,
     "wof:name":"Amsterdam (Demerara River)/Vriesland",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-58.63091,6.55782,-58.59091,6.59782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saxacalli"
     ],
     "name:und_x_variant":[
         "Primrose Hill",
-        "Saxacalli",
         "Saxsacali",
         "Saxakalli"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259662611,
-    "wof:lastmodified":1564105089,
+    "wof:lastmodified":1566644402,
     "wof:name":"Saxakalli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

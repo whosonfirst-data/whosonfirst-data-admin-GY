@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-57.81268,6.51739,-57.77268,6.55739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Number 12"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310574319,
-    "wof:lastmodified":1537625478,
+    "wof:lastmodified":1566644362,
     "wof:name":"Number Twelve",
     "wof:parent_id":1091683729,
     "wof:placetype":"locality",

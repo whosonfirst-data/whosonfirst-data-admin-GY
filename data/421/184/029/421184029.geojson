@@ -10,8 +10,11 @@
     "geom:latitude":6.82218,
     "geom:longitude":-58.14198,
     "iso:country":"GY",
+    "lbl:bbox":"-58.14698,6.81718,-58.13698,6.82718",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kitty"
@@ -40,7 +43,7 @@
     "name:tur_x_preferred":[
         "Kitty"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kitty Village"
     ],
     "qs:gn_country":"GY",
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3377843,
         "gp:id":376515,
-        "qs:id":988322
+        "qs_pg:id":988322
     },
     "wof:country":"GY",
     "wof:created":1459009398,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421184029,
-    "wof:lastmodified":1564105072,
+    "wof:lastmodified":1566644393,
     "wof:name":"Kitty",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-57.81004,6.46181,-57.77004,6.50181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esau and Jacob"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309682595,
-    "wof:lastmodified":1537625483,
+    "wof:lastmodified":1566644390,
     "wof:name":"Essau and Jacob",
     "wof:parent_id":1091683675,
     "wof:placetype":"locality",

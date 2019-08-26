@@ -10,10 +10,14 @@
     "geom:latitude":5.430016,
     "geom:longitude":-58.249995,
     "iso:country":"GY",
+    "lbl:bbox":"-58.2699951595,5.41001609184,-58.2299951595,5.45001609184",
     "lbl:latitude":5.430016,
     "lbl:longitude":-58.249995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u0442\u0443\u043d\u0438"
     ],
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":1141906369,
-    "wof:lastmodified":1563300271,
+    "wof:lastmodified":1566644413,
     "wof:name":"Ituni",
     "wof:parent_id":1091684481,
     "wof:placetype":"locality",

@@ -9,21 +9,21 @@
     "geom:bbox":"-58.16146,6.8094,-58.16146,6.8094",
     "geom:latitude":6.8094,
     "geom:longitude":-58.16146,
-    "gn:gn_country":"GY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GY",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.8094,
     "gn:longitude":-58.16146,
+    "gn:population":0,
     "iso:country":"GY",
+    "lbl:bbox":"-58.16646,6.8044,-58.15646,6.8144",
     "lbl:latitude":6.8094,
     "lbl:longitude":-58.16146,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Stabroek"
-    ],
-    "name:unk_x_variant":[
         "Stabroek"
     ],
     "qs_pg:aaroncc":"GY",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424836,
     "qs_pg:woe_id":376698,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424836,
     "woe:name_adm0":"Guyana",
     "woe:name_adm1":"Demerara-Mahaica",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":3375892,
         "gp:id":376698,
-        "qs:id":887611,
         "qs_pg:id":887611,
         "wd:id":"Q7595793",
         "wk:page":"Stabroek, Guyana"
@@ -81,7 +80,7 @@
         }
     ],
     "wof:id":1126073721,
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1566644395,
     "wof:name":"Stabroek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

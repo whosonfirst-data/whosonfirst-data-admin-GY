@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-59.78667,3.41333,-59.74667,3.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manari"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259745731,
-    "wof:lastmodified":1564105092,
+    "wof:lastmodified":1566644403,
     "wof:name":"Manari",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",

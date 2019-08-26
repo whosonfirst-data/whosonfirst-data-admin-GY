@@ -10,8 +10,11 @@
     "geom:latitude":6.81284,
     "geom:longitude":-58.16411,
     "iso:country":"GY",
+    "lbl:bbox":"-58.16911,6.80784,-58.15911,6.81784",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"GY",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":376541,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671761,
         102191577,
         85632397,
-        1091683403,
-        85671761
+        1091683403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3377517,
         "gp:id":376541,
-        "qs:id":40673
+        "qs_pg:id":40673
     },
     "wof:country":"GY",
     "wof:created":1459009170,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421178097,
-    "wof:lastmodified":1531858445,
+    "wof:lastmodified":1566644393,
     "wof:name":"Lacytown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.415172,
     "lbl:longitude":-60.298816,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"7",
     "meso:admin_1":"Cuyuni-Mazaruni",
     "meso:gadm_admin":"Karambaru to Kukui River + Phillipi",
@@ -32,6 +34,7 @@
     "mps:longitude":-60.298816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Karambaru to Kukui River/Phillipi"
     ],
@@ -39,9 +42,9 @@
         "Karambaru to Kukui River + Phillipi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-09-15",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091683927,
-    "wof:lastmodified":1553717894,
+    "wof:lastmodified":1566644376,
     "wof:name":"Karambaru to Tukui River, Phillipi",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

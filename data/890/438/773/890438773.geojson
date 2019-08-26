@@ -11,10 +11,14 @@
     "geom:longitude":-58.42941,
     "gn:country":"GY",
     "gn:fcode":"PPL",
-    "gn:pop":4081,
+    "gn:population":4081,
     "iso:country":"GY",
+    "lbl:bbox":"-58.44941,6.81712,-58.40941,6.85712",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Parika"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3376520,
         "gp:id":376772,
-        "qs:id":1044177,
+        "qs_pg:id":1044177,
         "wd:id":"Q268247",
         "wk:page":"Parika"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890438773,
-    "wof:lastmodified":1563300235,
+    "wof:lastmodified":1566644394,
     "wof:name":"Parika",
     "wof:parent_id":1091682611,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"GY",
     "lbl:latitude":6.205843,
     "lbl:longitude":-57.348973,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"6",
     "meso:admin_1":"East Berbice-Corentyne",
     "meso:gadm_admin":"John / Port Mourant",
@@ -26,11 +28,12 @@
     "mps:longitude":-57.348973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "John / Port Mourant"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85671757
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1091685955,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1566644366,
     "wof:name":"John/Port Mourant",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-57.18707,5.9781,-57.14707,6.0181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Number 60"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343338099,
-    "wof:lastmodified":1537625478,
+    "wof:lastmodified":1566644329,
     "wof:name":"Number Sixty",
     "wof:parent_id":1091681393,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6406420.537456,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-58.165781,6.788925,-58.165781,6.788925",
     "geom:latitude":6.788925,
     "geom:longitude":-58.165781,
     "iso:country":"GY",
+    "lbl:bbox":"-58.170781,6.783925,-58.160781,6.793925",
     "lbl:latitude":6.788925,
     "lbl:longitude":-58.165781,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.794272,
     "mps:longitude":-58.170291,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Albouystown"
-    ],
-    "name:unk_x_variant":[
         "Albouystown"
     ],
     "qs:gn_adm0_cc":"GY",
@@ -54,12 +53,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671761,
         102191577,
         85632397,
-        1091683403,
-        85671761
+        1091683403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531858960,
+    "wof:lastmodified":1566644331,
     "wof:name":"Albouystown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":6.80927,
     "geom:longitude":-58.19798,
     "iso:country":"GY",
+    "lbl:bbox":"-58.21798,6.78927,-58.17798,6.82927",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Vreed-en-Hoop"
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0435\u0434-\u0435\u043d-\u0425\u043e\u043f"
     ],
-    "name:unk_x_variant":[
-        "Vreed-en-Hoop"
-    ],
     "name:zho_x_preferred":[
         "\u5f17\u91cc\u767b\u80e1\u666e"
     ],
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3375409,
         "gp:id":376725,
-        "qs:id":1044173,
+        "qs_pg:id":1044173,
         "wd:id":"Q1018877",
         "wk:page":"Vreed en Hoop"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421168567,
-    "wof:lastmodified":1563300229,
+    "wof:lastmodified":1566644392,
     "wof:name":"Vreed en Hoop",
     "wof:parent_id":1091682307,
     "wof:placetype":"locality",

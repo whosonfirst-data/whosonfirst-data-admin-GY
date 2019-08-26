@@ -12,6 +12,8 @@
     "iso:country":"GY",
     "lbl:latitude":6.221901,
     "lbl:longitude":-57.517294,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"6",
     "meso:admin_1":"East Berbice-Corentyne",
     "meso:gadm_admin":"New Amsterdam",
@@ -26,6 +28,7 @@
     "mps:longitude":-57.517294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Nieuw Amsterdam"
     ],
@@ -138,7 +141,7 @@
         "\u65b0\u963f\u59c6\u65af\u7279\u4e39"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85671757
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1091685479,
-    "wof:lastmodified":1564105061,
+    "wof:lastmodified":1566644384,
     "wof:name":"New Amsterdam",
     "wof:parent_id":85671757,
     "wof:placetype":"county",
