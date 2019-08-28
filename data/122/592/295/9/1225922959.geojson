@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-58.46463,6.99146,-58.42463,7.03146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zeelandia"
     ],
@@ -38,8 +42,7 @@
         "Zeelandia"
     ],
     "name:und_x_variant":[
-        "Zealandia",
-        "Zeelandia"
+        "Zealandia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1225922959,
-    "wof:lastmodified":1564105094,
+    "wof:lastmodified":1566644405,
     "wof:name":"Zeelandia",
     "wof:parent_id":1091682739,
     "wof:placetype":"locality",

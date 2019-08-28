@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-57.95317,6.66219,-57.91317,6.70219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Helena Number 2",
         "Helena Number Two"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259660797,
-    "wof:lastmodified":1537625482,
+    "wof:lastmodified":1566644402,
     "wof:name":"Helena Number Two",
     "wof:parent_id":1091683091,
     "wof:placetype":"locality",

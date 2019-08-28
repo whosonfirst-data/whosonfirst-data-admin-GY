@@ -9,21 +9,21 @@
     "geom:bbox":"-58.16686,6.81317,-58.16686,6.81317",
     "geom:latitude":6.81317,
     "geom:longitude":-58.16686,
-    "gn:gn_country":"GY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GY",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.81317,
     "gn:longitude":-58.16686,
+    "gn:population":0,
     "iso:country":"GY",
+    "lbl:bbox":"-58.17186,6.80817,-58.16186,6.81817",
     "lbl:latitude":6.81317,
     "lbl:longitude":-58.16686,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Robbstown"
-    ],
-    "name:unk_x_variant":[
         "Robbstown"
     ],
     "qs_pg:aaroncc":"GY",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424836,
     "qs_pg:woe_id":376664,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424836,
     "woe:name_adm0":"Guyana",
     "woe:name_adm1":"Demerara-Mahaica",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":3376248,
         "gp:id":376664,
-        "qs:id":1117086,
         "qs_pg:id":1117086
     },
     "wof:country":"GY",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126105189,
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1566644395,
     "wof:name":"Robbstown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

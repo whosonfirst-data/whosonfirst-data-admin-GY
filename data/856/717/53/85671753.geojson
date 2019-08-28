@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.173551,
     "lbl:longitude":-58.833957,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.270858,
     "mps:longitude":-59.976409,
     "mz:hierarchy_label":1,
@@ -139,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u044e\u043d\u0456-\u041c\u0430\u0437\u0430\u0440\u0443\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Region 7"
     ],
     "name:urd_x_preferred":[
@@ -223,9 +224,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"47,213",
     "statoids:area_mi":"18,229",
     "statoids:as_of_date":"2002-09-15",
@@ -249,7 +250,7 @@
         "gp:id":2345604,
         "hasc:id":"GY.CU",
         "iso:id":"GY-CU",
-        "qs:id":1285238,
+        "qs_pg:id":1285238,
         "wd:id":"Q1146777",
         "wk:page":"Cuyuni-Mazaruni"
     },
@@ -269,11 +270,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565713718,
+    "wof:lastmodified":1566644336,
     "wof:name":"Pomeroon-Supenaam",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative region",
     "wof:population":17597,
     "wof:population_rank":6,

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":5.121996,
     "lbl:longitude":-58.912352,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":5.121996,
     "mps:longitude":-58.912352,
     "mz:hierarchy_label":1,
@@ -740,13 +742,8 @@
         "\u0413\u0430\u0439\u0430\u043d\u0430",
         "\u0490\u0430\u0439\u0430\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Gvajana"
-    ],
     "name:und_x_variant":[
-        "Republika Gvajana"
-    ],
-    "name:unk_x_variant":[
+        "Republika Gvajana",
         "British Guiana"
     ],
     "name:urd_x_preferred":[
@@ -904,7 +901,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"592",
     "statoids:ds":"GUY",
@@ -949,7 +946,7 @@
         "mzb:id":"guyana",
         "ne:adm0_a3":"GUY",
         "nyt:id":"66209907307262812161",
-        "qs:id":95418,
+        "qs_pg:id":95418,
         "uncrt:id":"GUY",
         "wd:id":"Q734",
         "wk:page":"Guyana",
@@ -971,7 +968,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565713709,
+    "wof:lastmodified":1566644331,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

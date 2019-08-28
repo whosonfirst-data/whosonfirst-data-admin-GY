@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.608566,
     "lbl:longitude":-58.414412,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.210778,
     "mps:longitude":-57.86609,
     "mz:hierarchy_label":1,
@@ -91,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0439\u043a\u0430-\u0411\u0435\u0440\u0431\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Region 5"
     ],
     "name:urd_x_preferred":[
@@ -172,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"4,170",
     "statoids:area_mi":"1,610",
     "statoids:as_of_date":"2002-09-15",
@@ -198,7 +199,7 @@
         "gp:id":2345608,
         "hasc:id":"GY.MA",
         "iso:id":"GY-MA",
-        "qs:id":268609,
+        "qs_pg:id":268609,
         "wd:id":"Q1466671",
         "wk:page":"Mahaica-Berbice"
     },
@@ -218,11 +219,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565713716,
+    "wof:lastmodified":1566644334,
     "wof:name":"Essequibo Islands-West Demerara",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative region",
     "wof:population":52428,
     "wof:population_rank":8,

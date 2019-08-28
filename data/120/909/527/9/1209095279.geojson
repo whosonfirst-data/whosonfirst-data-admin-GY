@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-59.88031,7.73892,-59.84031,7.77892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mission Landing"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209095279,
-    "wof:lastmodified":1537625479,
+    "wof:lastmodified":1566644350,
     "wof:name":"Mission Landing",
     "wof:parent_id":85632397,
     "wof:placetype":"locality",

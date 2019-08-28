@@ -10,8 +10,11 @@
     "geom:latitude":6.81817,
     "geom:longitude":-58.13148,
     "iso:country":"GY",
+    "lbl:bbox":"-58.13648,6.81317,-58.12648,6.82317",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"GY",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":376651,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671761,
         102191577,
         85632397,
-        1091683403,
-        85671761
+        1091683403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3376364,
         "gp:id":376651,
-        "qs:id":53769
+        "qs_pg:id":53769
     },
     "wof:country":"GY",
     "wof:created":1459010137,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421202995,
-    "wof:lastmodified":1531858810,
+    "wof:lastmodified":1566644393,
     "wof:name":"Prashad Nagar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

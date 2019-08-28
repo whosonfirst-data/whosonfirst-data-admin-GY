@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guyana",
     "iso:country":"GY",
+    "lbl:bbox":"-57.30862,6.20451,-57.26862,6.24451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Alness"
     ],
@@ -68,8 +72,7 @@
         "Alness"
     ],
     "name:und_x_variant":[
-        "Alnes",
-        "Alness"
+        "Alnes"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u5185\u65af"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1226322215,
-    "wof:lastmodified":1564105100,
+    "wof:lastmodified":1566644408,
     "wof:name":"Alness",
     "wof:parent_id":1091681575,
     "wof:placetype":"locality",

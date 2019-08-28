@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.564672,
     "lbl:longitude":-58.088184,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.59671,
     "mps:longitude":-58.408717,
     "mz:hierarchy_label":1,
@@ -52,7 +53,7 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e40\u0e2d\u0e2a\u0e2a\u0e34\u0e04\u0e34\u0e27\u0e42\u0e1a\u0e40\u0e14\u0e40\u0e21\u0e23\u0e32\u0e23\u0e48\u0e32\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Region 3"
     ],
     "name:zho_x_preferred":[
@@ -130,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-09-15",
+    "src:population_date":"2002-09-15",
     "statoids:area_km":"3,755",
     "statoids:area_mi":"1,450",
     "statoids:as_of_date":"2002-09-15",
@@ -156,7 +157,7 @@
         "gp:id":2345607,
         "hasc:id":"GY.ES",
         "iso:id":"GY-ES",
-        "qs:id":894889,
+        "qs_pg:id":894889,
         "wd:id":"Q1368802",
         "wk:page":"Essequibo Islands-West Demerara"
     },
@@ -176,11 +177,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565713712,
+    "wof:lastmodified":1566644333,
     "wof:name":"Demerara-Mahaica",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"administrative region",
     "wof:population":103061,
     "wof:population_rank":9,

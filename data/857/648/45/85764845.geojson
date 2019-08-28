@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1178590.344074,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-58.156506,6.808276,-58.156506,6.808276",
     "geom:latitude":6.808276,
     "geom:longitude":-58.156506,
-    "gn:gn_country":"GY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GY",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.81757,
     "gn:longitude":-58.16121,
+    "gn:population":0,
     "iso:country":"GY",
+    "lbl:bbox":"-58.161506,6.803276,-58.151506,6.813276",
     "lbl:latitude":6.808276,
     "lbl:longitude":-58.156506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.808358,
     "mps:longitude":-58.1534,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Cummingsburg"
-    ],
-    "name:unk_x_variant":[
         "Cummingsburg"
     ],
     "qs:gn_adm0_cc":"GY",
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85671761,
         102191577,
@@ -91,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3379032,
         "gp:id":376425,
-        "qs:id":1117085,
         "qs_pg:id":1117085
     },
     "wof:country":"GY",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1566644331,
     "wof:name":"Cummingsburg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

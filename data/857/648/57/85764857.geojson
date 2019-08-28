@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16587273.0356,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-57.520823,6.246626,-57.520823,6.246626",
     "geom:latitude":6.246626,
     "geom:longitude":-57.520823,
-    "gn:gn_country":"GY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GY",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.24988,
     "gn:longitude":-57.50847,
+    "gn:population":0,
     "iso:country":"GY",
+    "lbl:bbox":"-57.525823,6.241626,-57.515823,6.251626",
     "lbl:latitude":6.246626,
     "lbl:longitude":-57.520823,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.245139,
     "mps:longitude":-57.517792,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Smythfield"
-    ],
-    "name:unk_x_variant":[
         "Smythfield"
     ],
     "qs:gn_adm0_cc":"GY",
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85671757,
         102191577,
@@ -90,7 +89,6 @@
     "wof:concordances":{
         "gn:id":3375930,
         "gp:id":376694,
-        "qs:id":501436,
         "qs_pg:id":501436
     },
     "wof:country":"GY",
@@ -109,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1566644330,
     "wof:name":"Smythfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

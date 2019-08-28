@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13399270.90996,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-58.121863,6.816388,-58.121863,6.816388",
     "geom:latitude":6.816388,
     "geom:longitude":-58.121863,
     "iso:country":"GY",
+    "lbl:bbox":"-58.126863,6.811388,-58.116863,6.821388",
     "lbl:latitude":6.816388,
     "lbl:longitude":-58.121863,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.82008,
     "mps:longitude":-58.112716,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Blygezight"
-    ],
-    "name:unk_x_variant":[
         "Blygezight"
     ],
     "qs:gn_adm0_cc":"GY",
@@ -54,12 +53,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671761,
         102191577,
         85632397,
-        1091683403,
-        85671761
+        1091683403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531858961,
+    "wof:lastmodified":1566644331,
     "wof:name":"Blygezight",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

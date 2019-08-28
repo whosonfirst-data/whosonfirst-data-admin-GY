@@ -10,8 +10,10 @@
     "geom:latitude":6.821772,
     "geom:longitude":-58.138521,
     "iso:country":"GY",
+    "lbl:bbox":"-58.143521,6.816772,-58.133521,6.826772",
     "lbl:latitude":6.821772,
     "lbl:longitude":-58.138521,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.827728,
     "mps:longitude":-58.142801,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "\u30d6\u30eb\u30c0"
     ],
     "name:spa_x_preferred":[
-        "Bourda"
-    ],
-    "name:unk_x_variant":[
         "Bourda"
     ],
     "name:urd_x_preferred":[
@@ -69,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":586,
     "wof:belongsto":[
         85671761,
@@ -98,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563300141,
+    "wof:lastmodified":1566644331,
     "wof:name":"Bourda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
