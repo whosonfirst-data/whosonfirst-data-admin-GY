@@ -92,6 +92,9 @@
         "qs_pg:id":501436
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25e983c1f34d0b9fc5576f6716ab226b",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566644330,
+    "wof:lastmodified":1582313373,
     "wof:name":"Smythfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

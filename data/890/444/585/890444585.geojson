@@ -509,6 +509,9 @@
     },
     "wof:country":"GY",
     "wof:created":1469052474,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"aea4e9814d5a5896364a0d5e51fcf08a",
     "wof:hierarchy":[
         {
@@ -520,7 +523,7 @@
         }
     ],
     "wof:id":890444585,
-    "wof:lastmodified":1566644395,
+    "wof:lastmodified":1582313378,
     "wof:name":"Georgetown",
     "wof:parent_id":1091683403,
     "wof:placetype":"locality",

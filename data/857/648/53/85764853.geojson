@@ -73,6 +73,9 @@
         "qs:id":1117086
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"911bec7a93bfab209b0f35fcca4b3ae9",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1582313373,
     "wof:name":"Robbstown",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

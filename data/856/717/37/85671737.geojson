@@ -248,6 +248,9 @@
         "wof:parent_id"
     ],
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5d53c2e437781d0f801e157389f1858",
     "wof:hierarchy":[
         {
@@ -263,7 +266,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644336,
+    "wof:lastmodified":1582313376,
     "wof:name":"Mahaica-Berbice",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

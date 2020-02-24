@@ -255,6 +255,9 @@
         "wk:page":"Cuyuni-Mazaruni"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c879da06731fe0dd05d3d122ed9b0b5d",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644336,
+    "wof:lastmodified":1582313376,
     "wof:name":"Pomeroon-Supenaam",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

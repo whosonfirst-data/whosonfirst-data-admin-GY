@@ -162,6 +162,9 @@
         "wk:page":"Essequibo Islands-West Demerara"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f89dacbe729e8eb7a5d852686c8ce383",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644333,
+    "wof:lastmodified":1582313374,
     "wof:name":"Demerara-Mahaica",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

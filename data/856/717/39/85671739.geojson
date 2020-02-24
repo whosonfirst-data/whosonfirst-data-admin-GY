@@ -270,6 +270,9 @@
         "wk:page":"Potaro-Siparuni"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2871ddde302c5bf0bc06d8383a9beffe",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644336,
+    "wof:lastmodified":1582313376,
     "wof:name":"Potaro-Siparuni",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

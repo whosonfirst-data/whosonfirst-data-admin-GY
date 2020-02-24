@@ -65,6 +65,9 @@
         "gp:id":376540
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a7aca11e9395703c53867082b1c8b4b",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566644331,
+    "wof:lastmodified":1582313373,
     "wof:name":"La Penitence",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
