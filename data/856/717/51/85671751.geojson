@@ -273,6 +273,9 @@
         "wk:page":"Barima-Waini"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e20ef2800b44b18f32771587ea46a5fb",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644334,
+    "wof:lastmodified":1582313375,
     "wof:name":"Barima-Waini",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

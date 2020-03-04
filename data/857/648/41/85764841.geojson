@@ -82,6 +82,9 @@
         "wd:id":"Q895200"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be3aa9a979f85c1df54591cbd6841c2a",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566644331,
+    "wof:lastmodified":1582313373,
     "wof:name":"Bourda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

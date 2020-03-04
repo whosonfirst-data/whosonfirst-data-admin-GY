@@ -93,6 +93,9 @@
         "qs_pg:id":1117085
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3447d4a8dc4d2e5b745912e52f9d32d",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566644331,
+    "wof:lastmodified":1582313373,
     "wof:name":"Cummingsburg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

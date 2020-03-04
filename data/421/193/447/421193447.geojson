@@ -199,6 +199,9 @@
     },
     "wof:country":"GY",
     "wof:created":1459009771,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"fd872fc1b2a55e0e615df221f15a17b8",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421193447,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1582313377,
     "wof:name":"Lethem",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",

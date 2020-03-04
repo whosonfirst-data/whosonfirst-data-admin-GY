@@ -954,6 +954,11 @@
     },
     "wof:country":"GY",
     "wof:country_alpha3":"GUY",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"8a4a241c132a91ad3b15e26f155c05a8",
     "wof:hierarchy":[
         {
@@ -968,7 +973,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644331,
+    "wof:lastmodified":1582313374,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

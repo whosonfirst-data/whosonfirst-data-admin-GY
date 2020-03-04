@@ -258,6 +258,9 @@
         "wk:page":"Demerara-Mahaica"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48f5f54e2ffc3f37dcb91cb7346b2250",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644333,
+    "wof:lastmodified":1582313375,
     "wof:name":"East Berbice-Corentyne",
     "wof:parent_id":-1,
     "wof:placetype":"region",

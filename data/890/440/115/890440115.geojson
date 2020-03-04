@@ -176,6 +176,9 @@
     },
     "wof:country":"GY",
     "wof:created":1469052263,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"50732f1ff5f802d38cc7c1d833bd6617",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":890440115,
-    "wof:lastmodified":1561845086,
+    "wof:lastmodified":1582313378,
     "wof:name":"Mabaruma",
     "wof:parent_id":1091681147,
     "wof:placetype":"locality",

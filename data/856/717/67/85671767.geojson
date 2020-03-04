@@ -204,6 +204,9 @@
         "wk:page":"Mahaica-Berbice"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a19b1d0e991f975f617140be1acf487b",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644334,
+    "wof:lastmodified":1582313375,
     "wof:name":"Essequibo Islands-West Demerara",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

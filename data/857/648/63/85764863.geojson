@@ -78,6 +78,9 @@
         "wk:page":"Stabroek, Guyana"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"419533b2c1ece41872a5178e24518e29",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1582313373,
     "wof:name":"Stabroek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

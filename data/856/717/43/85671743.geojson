@@ -252,6 +252,9 @@
         "wk:page":"Upper Demerara-Berbice"
     },
     "wof:country":"GY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4af0526d94a4d41a73a0b25b6ceb0710",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566644335,
+    "wof:lastmodified":1582313376,
     "wof:name":"Upper Takutu-Upper Essequibo",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
