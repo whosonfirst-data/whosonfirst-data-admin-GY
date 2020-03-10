@@ -930,9 +930,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Guyana",
-        "digitalenvoy:country_code":[
-            328
-        ],
+        "digitalenvoy:country_code":328,
         "fb:id":"en.guyana",
         "fifa:id":"GUY",
         "fips:code":"GY",
@@ -976,7 +974,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529141,
+    "wof:lastmodified":1583797347,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
