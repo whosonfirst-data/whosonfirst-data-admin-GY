@@ -533,7 +533,9 @@
         85671761
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632397,
+    "wof:capital_of":[
+        85632397
+    ],
     "wof:concordances":{
         "gn:id":3378644,
         "qs_pg:id":1044182,
@@ -556,7 +558,7 @@
         }
     ],
     "wof:id":890444585,
-    "wof:lastmodified":1587427384,
+    "wof:lastmodified":1607390897,
     "wof:name":"Georgetown",
     "wof:parent_id":1091683403,
     "wof:placetype":"locality",
