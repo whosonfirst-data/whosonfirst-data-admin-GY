@@ -1021,7 +1021,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1082,7 +1083,8 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"c6fe36fbe376335b84c0d74ad20f8d8f",
     "wof:hierarchy":[
@@ -1098,7 +1100,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827728,
+    "wof:lastmodified":1618362109,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
