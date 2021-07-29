@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4330.995325,
-    "geom:bbox":"-60.2934116773,7.0909365,-60.2915772533,7.09150043909",
+    "geom:bbox":"-60.293412,7.090937,-60.291577,7.0915",
     "geom:latitude":7.091168,
     "geom:longitude":-60.292508,
     "iso:country":"GY",
@@ -41,6 +41,9 @@
     "name:eng_x_variant":[
         "Rest of Region 7"
     ],
+    "name:fra_x_preferred":[
+        "Territoire non organis\u00e9"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -66,7 +69,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473878986,
-    "wof:geomhash":"68f75280de82d7c3e69dabde07a10347",
+    "wof:geomhash":"161760c711809d2965b955cc2305a6d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1091681877,
-    "wof:lastmodified":1566644373,
+    "wof:lastmodified":1627522168,
     "wof:name":"Unorganized",
     "wof:parent_id":85671773,
     "wof:placetype":"county",
@@ -90,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.29341167733881,
-    7.09093650000023,
-    -60.29157725330584,
-    7.09150043908968
+    -60.293412,
+    7.090937,
+    -60.291577,
+    7.0915
 ],
-  "geometry": {"coordinates":[[[-60.29157725330584,7.09106533218839],[-60.29213299999992,7.09093650000023],[-60.29276899999985,7.091048],[-60.29323799999997,7.09136000000024],[-60.29341167733881,7.09150043908968],[-60.29157725330584,7.09106533218839]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-60.291577,7.091065],[-60.292133,7.090937],[-60.292769,7.091048],[-60.293238,7.09136],[-60.293412,7.0915],[-60.291577,7.091065]]],"type":"Polygon"}
 }
