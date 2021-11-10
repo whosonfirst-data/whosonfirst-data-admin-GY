@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Demerara-Mahaica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05e8\u05e8\u05d4-\u05de\u05d4\u05d0\u05d9\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Demerara-Mahaica"
+    ],
     "name:jpn_x_preferred":[
         "\u30a8\u30bb\u30ad\u30dc\u8af8\u5cf6\uff1d\u897f\u30c7\u30e1\u30e9\u30e9\u5dde"
     ],
@@ -183,7 +189,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1636494753,
     "wof:name":"Demerara-Mahaica",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

@@ -282,6 +282,9 @@
         "Margarita"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Pearl"
+    ],
+    "name:vie_x_variant":[
         "Ng\u1ecdc trai"
     ],
     "name:yid_x_preferred":[
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":1259563357,
-    "wof:lastmodified":1566644403,
+    "wof:lastmodified":1636494760,
     "wof:name":"Pearl",
     "wof:parent_id":1091683311,
     "wof:placetype":"locality",

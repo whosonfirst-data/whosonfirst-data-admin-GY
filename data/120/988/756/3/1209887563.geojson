@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Mahdia"
     ],
+    "name:hun_x_preferred":[
+        "Mahdia"
+    ],
     "name:lit_x_preferred":[
         "Mahdija"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1209887563,
-    "wof:lastmodified":1566644353,
+    "wof:lastmodified":1636494756,
     "wof:name":"Mahdia",
     "wof:parent_id":1091684787,
     "wof:placetype":"locality",

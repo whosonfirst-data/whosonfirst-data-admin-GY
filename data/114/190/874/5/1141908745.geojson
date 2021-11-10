@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-59.7799792904,8.19997621554,-59.7799792904,8.19997621554",
+    "geom:bbox":"-59.779979,8.199976,-59.779979,8.199976",
     "geom:latitude":8.199976,
     "geom:longitude":-59.779979,
     "gn:country":"GY",
@@ -24,13 +24,37 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0628\u0627\u0631\u0648\u0645\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09ac\u09be\u09b0\u09c1\u09ae\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Mabaruma"
+    ],
+    "name:deu_x_preferred":[
+        "Mabaruma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bc\u03c0\u03b1\u03c1\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mabaruma"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0628\u0627\u0631\u0648\u0645\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Mabaruma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05e8\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u092c\u093e\u0930\u0942\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mabaruma"
+    ],
+    "name:ind_x_preferred":[
         "Mabaruma"
     ],
     "name:ita_x_preferred":[
@@ -60,11 +84,17 @@
     "name:swe_x_preferred":[
         "Mabaruma"
     ],
+    "name:tur_x_preferred":[
+        "Mabaruma"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0431\u0430\u0440\u0443\u043c\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0628\u0627\u0631\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mabaruma"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u5df4\u9c81\u9a6c"
@@ -182,7 +212,7 @@
     },
     "wof:country":"GY",
     "wof:created":1499130970,
-    "wof:geomhash":"5608510e684b3bf87e309ba3e268a2ed",
+    "wof:geomhash":"0ff4b55125ea78d5caf646a98e0ec0b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +223,7 @@
         }
     ],
     "wof:id":1141908745,
-    "wof:lastmodified":1566644412,
+    "wof:lastmodified":1636494761,
     "wof:name":"Mabaruma",
     "wof:parent_id":1091681147,
     "wof:placetype":"locality",
@@ -207,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -59.77997929039077,
-    8.19997621554398,
-    -59.77997929039077,
-    8.19997621554398
+    -59.779979,
+    8.199976,
+    -59.779979,
+    8.199976
 ],
-  "geometry": {"coordinates":[-59.77997929039077,8.19997621554398],"type":"Point"}
+  "geometry": {"coordinates":[-59.779979,8.199976],"type":"Point"}
 }

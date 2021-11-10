@@ -475,6 +475,9 @@
         "De Jonge Rachael"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u06c1\u06cc\u0644\u0632"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u06cc\u0644\u0632"
     ],
     "name:uzb_x_preferred":[
@@ -542,7 +545,7 @@
         }
     ],
     "wof:id":1344036513,
-    "wof:lastmodified":1566644329,
+    "wof:lastmodified":1636494752,
     "wof:name":"Wales",
     "wof:parent_id":1091682133,
     "wof:placetype":"locality",

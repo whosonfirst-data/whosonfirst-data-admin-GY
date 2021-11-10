@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-58.5000574154,7.27042055148,-58.5000574154,7.27042055148",
+    "geom:bbox":"-58.500057,7.270421,-58.500057,7.270421",
     "geom:latitude":7.270421,
     "geom:longitude":-58.500057,
     "gn:country":"GY",
@@ -24,11 +24,17 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u0627 \u0631\u064a\u062c\u064a\u0646\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a8\u09be \u09b0\u09c7\u099c\u09bf\u09a8\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Anna Regina"
     ],
     "name:deu_x_preferred":[
         "Anna Regina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03bd\u03b1 \u03a1\u03b5\u03c4\u03b6\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Anna Regina"
@@ -37,6 +43,21 @@
         "\u0622\u0646\u0627 \u0631\u06af\u06cc\u0646\u0627"
     ],
     "name:fra_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d4 \u05e8\u05d2\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0928\u093e \u0930\u0947\u091c\u0940\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:ind_x_preferred":[
+        "Anna Regina"
+    ],
+    "name:ita_x_preferred":[
         "Anna Regina"
     ],
     "name:jpn_x_preferred":[
@@ -69,8 +90,17 @@
     "name:swe_x_preferred":[
         "Anna Regina"
     ],
+    "name:tur_x_preferred":[
+        "Anna Regina"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u043d\u0430-\u0420\u0435\u0434\u0436\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0627 \u0631\u06cc\u062c\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Anna Regina"
     ],
     "name:vol_x_preferred":[
         "Anna Regina"
@@ -201,7 +231,7 @@
     },
     "wof:country":"GY",
     "wof:created":1499130661,
-    "wof:geomhash":"5f2b1386580b129c7cd2a217f573ac8c",
+    "wof:geomhash":"b22142d9c65e1b75c85440ec7d228409",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -219,7 +249,7 @@
         }
     ],
     "wof:id":1141906957,
-    "wof:lastmodified":1566644412,
+    "wof:lastmodified":1636494761,
     "wof:name":"Anna Regina",
     "wof:parent_id":1091681277,
     "wof:placetype":"locality",
@@ -233,10 +263,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -58.50005741538558,
-    7.27042055147774,
-    -58.50005741538558,
-    7.27042055147774
+    -58.500057,
+    7.270421,
+    -58.500057,
+    7.270421
 ],
-  "geometry": {"coordinates":[-58.50005741538558,7.27042055147774],"type":"Point"}
+  "geometry": {"coordinates":[-58.500057,7.270421],"type":"Point"}
 }

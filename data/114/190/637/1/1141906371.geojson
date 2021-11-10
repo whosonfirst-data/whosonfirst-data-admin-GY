@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-59.8000297461,3.38995973603,-59.8000297461,3.38995973603",
+    "geom:bbox":"-59.80003,3.38996,-59.80003,3.38996",
     "geom:latitude":3.38996,
     "geom:longitude":-59.80003,
     "iso:country":"GY",
@@ -18,20 +18,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062b\u064a\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a4\u09b9\u09c7\u09ae"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0445\u0435\u043c"
     ],
     "name:ceb_x_preferred":[
         "Lethem"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c4\u03ad\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Lethem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u0645"
     ],
     "name:fra_x_preferred":[
         "Lethem"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05ea'\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0925\u0947\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Lethem"
+    ],
+    "name:ind_x_preferred":[
+        "Lethem"
     ],
     "name:ita_x_preferred":[
         "Lethem"
@@ -63,11 +84,20 @@
     "name:swe_x_preferred":[
         "Lethem"
     ],
+    "name:tur_x_preferred":[
+        "Lethem"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0442\u0435\u043c"
     ],
     "name:und_x_variant":[
         "Bon Success"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u062a\u06be\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Lethem"
     ],
     "name:vol_x_preferred":[
         "Lethem"
@@ -189,7 +219,7 @@
     },
     "wof:country":"GY",
     "wof:created":1499130578,
-    "wof:geomhash":"e14e9de63dc77820e184defbd7bcdfb3",
+    "wof:geomhash":"bf92b56acf0cb4dfdb7bbb18b844be9a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -207,7 +237,7 @@
         }
     ],
     "wof:id":1141906371,
-    "wof:lastmodified":1566644412,
+    "wof:lastmodified":1636494761,
     "wof:name":"Lethem",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",
@@ -221,10 +251,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -59.80002974612,
-    3.38995973603255,
-    -59.80002974612,
-    3.38995973603255
+    -59.80003,
+    3.38996,
+    -59.80003,
+    3.38996
 ],
-  "geometry": {"coordinates":[-59.80002974612,3.38995973603255],"type":"Point"}
+  "geometry": {"coordinates":[-59.80003,3.38996],"type":"Point"}
 }

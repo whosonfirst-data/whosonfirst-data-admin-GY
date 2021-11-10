@@ -59,6 +59,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d5\u05d5\u05d9\u05dc"
     ],
+    "name:hun_x_preferred":[
+        "Melville"
+    ],
     "name:ita_x_preferred":[
         "Melville"
     ],
@@ -113,7 +116,7 @@
         "gn:id":3376970
     },
     "wof:country":"GY",
-    "wof:geomhash":"d37f02073740a312403557b51e282d40",
+    "wof:geomhash":"786c7d85a04a9c97e2e8749569d892b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1310288603,
-    "wof:lastmodified":1566644361,
+    "wof:lastmodified":1636494757,
     "wof:name":"Melville",
     "wof:parent_id":1091682739,
     "wof:placetype":"locality",
@@ -134,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -58.46666999999999,
+    -58.46667,
     6.96667,
-    -58.46666999999999,
+    -58.46667,
     6.96667
 ],
-  "geometry": {"coordinates":[-58.46666999999999,6.96667],"type":"Point"}
+  "geometry": {"coordinates":[-58.46667,6.96667],"type":"Point"}
 }

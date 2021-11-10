@@ -45,7 +45,13 @@
         "Blenheim"
     ],
     "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d9\u05e0\u05d4\u05d9\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
         "\u05d1\u05dc\u05e0\u05d4\u05d9\u05d9\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Blenheim"
     ],
     "name:ita_x_preferred":[
         "Blenheim"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1360255453,
-    "wof:lastmodified":1566644363,
+    "wof:lastmodified":1636494757,
     "wof:name":"Blenheim",
     "wof:parent_id":1091681309,
     "wof:placetype":"locality",
