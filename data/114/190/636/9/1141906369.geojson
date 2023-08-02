@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u064a\u0648\u0646\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Ituni"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a4\u09c1\u09a8\u09bf"
     ],
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1141906369,
-    "wof:lastmodified":1636494761,
+    "wof:lastmodified":1690930168,
     "wof:name":"Ituni",
     "wof:parent_id":1091684481,
     "wof:placetype":"locality",

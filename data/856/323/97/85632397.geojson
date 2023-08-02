@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0413\u0430\u0438\u0430\u043d\u0430"
+    ],
     "name:ace_x_preferred":[
         "Guyana"
     ],
@@ -40,6 +43,9 @@
     "name:aka_x_preferred":[
         "Gayana"
     ],
+    "name:aka_x_variant":[
+        "Guyana"
+    ],
     "name:als_x_preferred":[
         "Guyana"
     ],
@@ -49,8 +55,14 @@
     "name:amh_x_variant":[
         "\u1309\u12eb\u1293"
     ],
+    "name:ami_x_preferred":[
+        "Guyana"
+    ],
     "name:ang_x_preferred":[
         "Guyana"
+    ],
+    "name:anp_x_preferred":[
+        "\u0917\u0941\u092f\u093e\u0928\u093e"
     ],
     "name:ara_x_preferred":[
         "\u063a\u064a\u0627\u0646\u0627"
@@ -72,6 +84,9 @@
     ],
     "name:ast_x_preferred":[
         "Guyana"
+    ],
+    "name:awa_x_preferred":[
+        "\u0917\u092f\u093e\u0928\u093e"
     ],
     "name:aym_x_preferred":[
         "Wayana"
@@ -155,6 +170,9 @@
     "name:chv_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
     ],
+    "name:chy_x_preferred":[
+        "Guyana"
+    ],
     "name:ckb_x_preferred":[
         "\u06af\u0648\u06cc\u0627\u0646\u0627"
     ],
@@ -164,6 +182,9 @@
     "name:cor_x_preferred":[
         "Gwayana"
     ],
+    "name:cos_x_preferred":[
+        "Guyana"
+    ],
     "name:crh_x_preferred":[
         "Gayana"
     ],
@@ -171,6 +192,9 @@
         "Gaiana"
     ],
     "name:cym_x_variant":[
+        "Guyana"
+    ],
+    "name:dag_x_preferred":[
         "Guyana"
     ],
     "name:dan_x_preferred":[
@@ -265,6 +289,9 @@
     "name:ful_x_preferred":[
         "Giyaan"
     ],
+    "name:ful_x_variant":[
+        "Guyaana"
+    ],
     "name:gag_x_preferred":[
         "Gayana"
     ],
@@ -294,6 +321,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf35\ud800\udf30\ud800\udf3e\ud800\udf30\ud800\udf3d\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Guyana"
     ],
     "name:grn_x_preferred":[
         "Guj\u00e1na"
@@ -467,6 +497,9 @@
     "name:lit_x_preferred":[
         "Gajana"
     ],
+    "name:lld_x_preferred":[
+        "Guyana"
+    ],
     "name:lmo_x_preferred":[
         "Gujana"
     ],
@@ -485,6 +518,9 @@
     "name:lzh_x_preferred":[
         "\u572d\u4e9e\u90a3"
     ],
+    "name:mad_x_preferred":[
+        "Guyana"
+    ],
     "name:mal_x_preferred":[
         "\u0d17\u0d2f\u0d3e\u0d28"
     ],
@@ -500,14 +536,26 @@
     "name:mhr_x_variant":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
     ],
+    "name:min_x_preferred":[
+        "Guyana"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u0432\u0430\u0458\u0430\u043d\u0430"
     ],
     "name:mlg_x_preferred":[
         "Guyana"
     ],
+    "name:mlg_x_variant":[
+        "Goiana"
+    ],
     "name:mlt_x_preferred":[
         "Gujana"
+    ],
+    "name:mlt_x_variant":[
+        "Guyana"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabe8\uabcc\uabe5\uabc5\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
@@ -652,6 +700,9 @@
     "name:san_x_preferred":[
         "\u0917\u092f\u093e\u0928\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5c\u1c5f\u1c6d\u1c5f\u1c71\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Gujana"
     ],
@@ -660,6 +711,9 @@
     ],
     "name:sgs_x_preferred":[
         "Gajana"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u1062\u1086\u1087\u101a\u1083\u1038\u107c\u1083\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dba\u0db1\u0dcf\u0dc0"
@@ -677,7 +731,13 @@
     "name:sme_x_preferred":[
         "Guyana"
     ],
+    "name:smn_x_preferred":[
+        "Guyana"
+    ],
     "name:smo_x_preferred":[
+        "Guyana"
+    ],
+    "name:sms_x_preferred":[
         "Guyana"
     ],
     "name:sna_x_preferred":[
@@ -737,6 +797,9 @@
     "name:tat_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430"
     ],
+    "name:tay_x_preferred":[
+        "Guyana"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c2f\u0c3e\u0c28\u0c3e"
     ],
@@ -759,14 +822,23 @@
     "name:tir_x_preferred":[
         "\u1309\u12eb\u1293"
     ],
+    "name:tok_x_preferred":[
+        "ma Kijana"
+    ],
     "name:ton_x_preferred":[
         "Kuiana"
     ],
     "name:tpi_x_preferred":[
         "Giana"
     ],
+    "name:trv_x_preferred":[
+        "Guyana"
+    ],
     "name:tuk_x_preferred":[
         "Ga\u00fdana"
+    ],
+    "name:tum_x_preferred":[
+        "Guyana"
     ],
     "name:tur_x_preferred":[
         "Guyana"
@@ -808,6 +880,9 @@
     ],
     "name:vie_x_variant":[
         "Guy-a-na"
+    ],
+    "name:vls_x_preferred":[
+        "Guyana"
     ],
     "name:vol_x_preferred":[
         "Gvay\u00e4n"
@@ -1100,7 +1175,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1618362109,
+    "wof:lastmodified":1690930161,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

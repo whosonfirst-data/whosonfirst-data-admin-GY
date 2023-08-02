@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Mahaicony"
     ],
+    "name:spa_x_preferred":[
+        "Mahaicony"
+    ],
     "name:swe_x_preferred":[
         "Mahaicony Village"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890435769,
-    "wof:lastmodified":1566644395,
+    "wof:lastmodified":1690930167,
     "wof:name":"Mahaicony Village",
     "wof:parent_id":1091681309,
     "wof:placetype":"locality",

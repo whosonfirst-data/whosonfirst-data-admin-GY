@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u062b\u064a\u0645"
     ],
+    "name:ast_x_preferred":[
+        "Lethem"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09a4\u09b9\u09c7\u09ae"
     ],
@@ -28,6 +31,9 @@
         "\u041b\u0435\u0442\u0445\u0435\u043c"
     ],
     "name:ceb_x_preferred":[
+        "Lethem"
+    ],
+    "name:deu_x_preferred":[
         "Lethem"
     ],
     "name:ell_x_preferred":[
@@ -38,6 +44,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u062a\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Lethem"
     ],
     "name:fra_x_preferred":[
         "Lethem"
@@ -59,6 +68,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30bb\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0442\u0435\u043c"
     ],
     "name:kor_x_preferred":[
         "\ub808\ud15c"
@@ -237,7 +249,7 @@
         }
     ],
     "wof:id":1141906371,
-    "wof:lastmodified":1636494761,
+    "wof:lastmodified":1690930168,
     "wof:name":"Lethem",
     "wof:parent_id":1091681781,
     "wof:placetype":"locality",
