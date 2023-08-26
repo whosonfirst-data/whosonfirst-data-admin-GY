@@ -77,6 +77,9 @@
     "name:hun_x_preferred":[
         "Pomeroon-Supenaam"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0575\u0578\u0582\u0576\u056b-\u0544\u0561\u0566\u0561\u0580\u0578\u0582\u0576\u056b"
+    ],
     "name:ind_x_preferred":[
         "Cuyuni-Mazaruni"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0caf\u0cc1\u0ca8\u0cbf-\u0cae\u0c9d\u0cb0\u0cc1\u0ca8\u0cbf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u044e\u043d\u0438-\u041c\u0430\u0437\u0430\u0440\u0443\u043d\u0438"
     ],
     "name:kor_x_preferred":[
         "\ucfe0\uc720\ub2c8\ub9c8\uc790\ub8e8\ub2c8\uc8fc"
@@ -104,6 +110,9 @@
     "name:msa_x_preferred":[
         "Cuyuni-Mazaruni"
     ],
+    "name:nan_x_preferred":[
+        "Cuyuni-Mazaruni T\u014da-khu"
+    ],
     "name:nld_x_preferred":[
         "Cuyuni-Mazaruni"
     ],
@@ -114,6 +123,9 @@
         "Cuyuni-Mazaruni"
     ],
     "name:por_x_preferred":[
+        "Cuyuni-Mazaruni"
+    ],
+    "name:ron_x_preferred":[
         "Cuyuni-Mazaruni"
     ],
     "name:rus_x_preferred":[
@@ -279,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494754,
+    "wof:lastmodified":1690930164,
     "wof:name":"Pomeroon-Supenaam",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Parika"
+    ],
     "name:ceb_x_preferred":[
         "Parika"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:fra_x_preferred":[
         "Parika"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0440\u0438\u043a\u0430"
     ],
     "name:kor_x_preferred":[
         "\ud30c\ub9ac\uce74"
@@ -45,6 +51,9 @@
     ],
     "name:por_x_preferred":[
         "Parika"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0438\u043a\u0430"
     ],
     "name:spa_x_preferred":[
         "Parika"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890438773,
-    "wof:lastmodified":1566644394,
+    "wof:lastmodified":1690930166,
     "wof:name":"Parika",
     "wof:parent_id":1091682611,
     "wof:placetype":"locality",

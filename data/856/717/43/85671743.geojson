@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09aa\u09be\u09b0 \u09a1\u09c7\u09ae\u09be\u09b0\u09be\u09b0\u09be-\u09ac\u09be\u09b0\u09ac\u09bf\u099a"
     ],
+    "name:cat_x_preferred":[
+        "Upper Demerara-Berbice"
+    ],
     "name:ceb_x_preferred":[
         "Upper Demerara-Berbice Region"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03c0\u03b5\u03c1 \u039d\u03c4\u03b5\u03bc\u03b5\u03c1\u03ac\u03c1\u03b1-\u039c\u03c0\u03b5\u03c1\u03bc\u03c0\u03af\u03ba\u03b5"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u039d\u03c4\u03b5\u03bc\u03b5\u03c1\u03ac\u03c1\u03b1-\u039c\u03c0\u03ad\u03c1\u03bc\u03c0\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Upper Demerara-Berbice"
@@ -74,6 +80,9 @@
     "name:hun_x_preferred":[
         "Upper Takutu-Upper Essequibo"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u056b\u0576 \u0534\u0565\u0574\u0565\u0580\u0561\u0580\u0561-\u0532\u0565\u0580\u0562\u056b\u0579\u0565"
+    ],
     "name:ind_x_preferred":[
         "Demerara Hulu-Berbice"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0caa\u0ccd\u0caa\u0cb0\u0ccd \u0ca1\u0cc6\u0cae\u0cc6\u0cb0\u0cbe-\u0cac\u0cb0\u0ccd\u0cac\u0cbf\u0cb8\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u043e\u0493\u0430\u0440\u0493\u044b \u0414\u0435\u043c\u0435\u0440\u0430\u0440\u0430-\u0411\u0435\u0440\u0431\u0438\u0441"
     ],
     "name:kor_x_preferred":[
         "\uc5b4\ud37c\ub370\uba54\ub77c\ub77c\ubc84\ube44\uc2a4\uc8fc"
@@ -101,6 +113,9 @@
     "name:msa_x_preferred":[
         "Upper Demerara-Berbice"
     ],
+    "name:nan_x_preferred":[
+        "T\u00e9ng Demerara-Berbice T\u014da-khu"
+    ],
     "name:nld_x_preferred":[
         "Upper Demerara-Berbice"
     ],
@@ -112,6 +127,9 @@
     ],
     "name:por_x_preferred":[
         "Alto Demerara-Berbice"
+    ],
+    "name:ron_x_preferred":[
+        "Upper Demerara-Berbice"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043f\u043f\u0435\u0440-\u0414\u0435\u043c\u0435\u0440\u0430\u0440\u0430-\u0411\u0435\u0440\u0431\u0438\u0441"
@@ -276,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494754,
+    "wof:lastmodified":1690930164,
     "wof:name":"Upper Takutu-Upper Essequibo",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
