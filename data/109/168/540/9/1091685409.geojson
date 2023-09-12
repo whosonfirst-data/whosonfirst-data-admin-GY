@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00382,
-    "geom:area_square_m":46980042.307834,
+    "geom:area_square_m":46979812.232853,
     "geom:bbox":"-57.247579,5.852861,-57.13347,5.92087",
     "geom:latitude":5.890142,
     "geom:longitude":-57.174465,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Corriverton Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.884391,
     "lbl:longitude":-57.160201,
     "lbl:max_zoom":10.0,
@@ -43,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03af\u03b2\u03b5\u03c1\u03c4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Corriverton"
     ],
     "name:eng_x_variant":[
         "Corriverton"
@@ -122,7 +131,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879132,
-    "wof:geomhash":"6ad333e352c97211691df51168f64ce4",
+    "wof:geomhash":"c5332f9a7a85bb50d93bb15c87dc8944",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":1091685409,
-    "wof:lastmodified":1636494758,
+    "wof:lastmodified":1694498096,
     "wof:name":"Corriverton",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

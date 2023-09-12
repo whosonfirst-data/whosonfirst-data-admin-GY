@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005294,
-    "geom:area_square_m":65082241.321244,
+    "geom:area_square_m":65081831.926074,
     "geom:bbox":"-57.39136,6.106184,-57.31414,6.284657",
     "geom:latitude":6.195488,
     "geom:longitude":-57.35278,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "John/Port Mourant Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.205843,
     "lbl:longitude":-57.348973,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "John/Port Mourant"
+    ],
     "name:eng_x_variant":[
         "John / Port Mourant"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879153,
-    "wof:geomhash":"8faa8a11961d94badcb2915dd812a82e",
+    "wof:geomhash":"4356147b1b2990ab90d313494f20c9e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091685955,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694498073,
     "wof:name":"John/Port Mourant",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

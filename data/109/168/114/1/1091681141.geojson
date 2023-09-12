@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.619352,
-    "geom:area_square_m":7595661036.800087,
+    "geom:area_square_m":7595661150.196928,
     "geom:bbox":"-60.720363,6.982384,-59.152828,7.839809",
     "geom:latitude":7.33685,
     "geom:longitude":-60.008284,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Unorganized"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unorganized"
+    ],
     "lbl:latitude":7.296459,
     "lbl:longitude":-59.996476,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Unorganized"
+    ],
     "name:eng_x_variant":[
         "Rest of Region 1"
     ],
@@ -48,7 +57,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473878951,
-    "wof:geomhash":"f2c25243e3c62984c7fe5120661dd300",
+    "wof:geomhash":"2bdaedb90232cc47f074644f0cd605a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1091681141,
-    "wof:lastmodified":1628266734,
+    "wof:lastmodified":1694498076,
     "wof:name":"Unorganized",
     "wof:parent_id":85671751,
     "wof:placetype":"county",

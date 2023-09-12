@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007012,
-    "geom:area_square_m":86203233.39891,
+    "geom:area_square_m":86203194.366053,
     "geom:bbox":"-57.564798,6.077781,-57.479558,6.201694",
     "geom:latitude":6.137744,
     "geom:longitude":-57.517036,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Enfield/New Doe Park Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.138137,
     "lbl:longitude":-57.516224,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Enfield/New Doe Park"
+    ],
     "name:eng_x_variant":[
         "Enfield / New Doe Park"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879133,
-    "wof:geomhash":"2e3aa17458fdea2e1ec25c7a209697cf",
+    "wof:geomhash":"dd5f00141e32343a068121347c50c9cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091685453,
-    "wof:lastmodified":1628266648,
+    "wof:lastmodified":1694498072,
     "wof:name":"Enfield/New Doe Park",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

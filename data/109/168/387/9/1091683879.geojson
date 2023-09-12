@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
-    "geom:area_square_m":29817060.689629,
+    "geom:area_square_m":29817020.702238,
     "geom:bbox":"-57.357336,6.107181,-57.300923,6.257718",
     "geom:latitude":6.184512,
     "geom:longitude":-57.330876,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Whim/Bloomfield Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.184427,
     "lbl:longitude":-57.331304,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Whim/Bloomfield"
+    ],
     "name:eng_x_variant":[
         "Whim / Bloomfield"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879069,
-    "wof:geomhash":"7d79797c51f1e10537e5f6ea4e9ca80f",
+    "wof:geomhash":"0cc3c7aeee038d87adf1dbaf031f4d51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091683879,
-    "wof:lastmodified":1628266744,
+    "wof:lastmodified":1694498077,
     "wof:name":"Whim/Bloomfield",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

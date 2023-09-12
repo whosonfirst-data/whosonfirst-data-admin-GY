@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009093,
-    "geom:area_square_m":111819237.73063,
+    "geom:area_square_m":111819264.441945,
     "geom:bbox":"-57.226281,5.907806,-57.13755,6.051461",
     "geom:latitude":5.977925,
     "geom:longitude":-57.179436,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "No.74 Village/No.52 Village Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":5.979654,
     "lbl:longitude":-57.178607,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "No.74 Village/No.52 Village"
+    ],
     "name:eng_x_variant":[
         "No.74 Village / No.52 Village"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473878967,
-    "wof:geomhash":"5f67b206562f02241604a5fb3e905fad",
+    "wof:geomhash":"3527b7b7c057462a0fe187f9478e50c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091681393,
-    "wof:lastmodified":1628266691,
+    "wof:lastmodified":1694498074,
     "wof:name":"No.74 Village/No.52 Village",
     "wof:parent_id":85671757,
     "wof:placetype":"county",
