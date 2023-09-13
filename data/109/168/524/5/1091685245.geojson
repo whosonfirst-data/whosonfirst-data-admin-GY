@@ -39,7 +39,8 @@
         "Jackson Creek/Crabwood Creek"
     ],
     "name:eng_x_variant":[
-        "Jackson Creek / Crabwood Creek"
+        "Jackson Creek / Crabwood Creek",
+        "Jackson Creek/Crabwood creek"
     ],
     "name:fra_x_preferred":[
         "Jackson Creek/Crabwood creek"
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685245,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1694639797,
     "wof:name":"Jackson Creek/Crabwood Creek",
     "wof:parent_id":85671757,
     "wof:placetype":"county",
