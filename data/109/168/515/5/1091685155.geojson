@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.264751,
-    "geom:area_square_m":27968821474.415131,
+    "geom:area_square_m":27968821289.776031,
     "geom:bbox":"-58.444785,1.499532,-56.49112,4.657199",
     "geom:latitude":2.762543,
     "geom:longitude":-57.697511,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Corentyne River Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":2.447912,
     "lbl:longitude":-57.534892,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Corentyne River"
+    ],
     "name:eng_x_variant":[
         "East Bank Berbice"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879123,
-    "wof:geomhash":"788f3d82845bc6a2a47633b848c34e09",
+    "wof:geomhash":"fb318ea2c0b14e11db67280c9ec07a65",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091685155,
-    "wof:lastmodified":1628266640,
+    "wof:lastmodified":1694498071,
     "wof:name":"Corentyne River",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

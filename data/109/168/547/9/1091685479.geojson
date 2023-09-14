@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001038,
-    "geom:area_square_m":12765261.728461,
+    "geom:area_square_m":12765279.897428,
     "geom:bbox":"-57.525077,6.185598,-57.504271,6.260462",
     "geom:latitude":6.223889,
     "geom:longitude":-57.516057,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "New Amsterdam Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.221901,
     "lbl:longitude":-57.517294,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Nieuw Amsterdam"
+    ],
+    "name:eng_x_preferred":[
+        "New Amsterdam"
     ],
     "name:eng_x_variant":[
         "New Amsterdam"
@@ -155,7 +164,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879135,
-    "wof:geomhash":"9b184c0fb653b0bfc90fbc82a99a785d",
+    "wof:geomhash":"38e85bc403475790031c18024ed0efd3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":1091685479,
-    "wof:lastmodified":1636494758,
+    "wof:lastmodified":1694498096,
     "wof:name":"New Amsterdam",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003001,
-    "geom:area_square_m":36898528.679012,
+    "geom:area_square_m":36898389.771461,
     "geom:bbox":"-57.246499,6.087987,-57.179121,6.16974",
     "geom:latitude":6.126863,
     "geom:longitude":-57.213829,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Joppa/Macedonia Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.126001,
     "lbl:longitude":-57.213319,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Joppa/Macedonia"
+    ],
     "name:eng_x_variant":[
         "Joppa / Macedonia"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473878972,
-    "wof:geomhash":"9c51300827fbb96521439f6ee2fd7e39",
+    "wof:geomhash":"b2aeda7691a47037eb4e149acdbbddb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091681479,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694498073,
     "wof:name":"Joppa/Macedonia",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

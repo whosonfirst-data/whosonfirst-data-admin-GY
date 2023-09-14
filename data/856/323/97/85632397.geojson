@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.213503,
-    "geom:area_square_m":197365851398.970062,
+    "geom:area_square_m":211995441850.303101,
     "geom:bbox":"-61.414728,1.164724,-56.49112,8.525899",
     "geom:latitude":4.789632,
     "geom:longitude":-58.975095,
@@ -14,6 +14,9 @@
     "iso:country":"GY",
     "itu:country_code":[
         "592"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "GY"
@@ -1100,7 +1103,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"592",
     "statoids:ds":"GUY",
     "statoids:fifa":"GUY",
@@ -1161,7 +1165,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"c6fe36fbe376335b84c0d74ad20f8d8f",
+    "wof:geomhash":"eb7bfda4be18c4c106a29049ff568019",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1175,12 +1179,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690930161,
+    "wof:lastmodified":1694639585,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":799613,
-    "wof:population_rank":11,
+    "wof:population":782766,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gy",
     "wof:shortcode":"GY",
     "wof:superseded_by":[],

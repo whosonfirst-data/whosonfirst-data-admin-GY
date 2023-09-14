@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00578,
-    "geom:area_square_m":71008840.55157,
+    "geom:area_square_m":71008991.093269,
     "geom:bbox":"-57.765099,6.443029,-57.652713,6.566487",
     "geom:latitude":6.505977,
     "geom:longitude":-57.717177,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Rising Sun/Profit Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.506098,
     "lbl:longitude":-57.713344,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rising Sun/Profit"
+    ],
     "name:eng_x_variant":[
         "Rising Sun / Profit"
     ],
@@ -49,7 +58,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473878965,
-    "wof:geomhash":"ad09e9ec80a47df45b40200e8ad1ac78",
+    "wof:geomhash":"c7478b40a69198fcdf23e04b2d1ba6c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1091681371,
-    "wof:lastmodified":1628266708,
+    "wof:lastmodified":1694498075,
     "wof:name":"Rising Sun/Profit",
     "wof:parent_id":-1,
     "wof:placetype":"county",

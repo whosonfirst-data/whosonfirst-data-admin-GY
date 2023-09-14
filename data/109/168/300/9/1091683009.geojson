@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025187,
-    "geom:area_square_m":309358143.344691,
+    "geom:area_square_m":309357870.444561,
     "geom:bbox":"-58.190115,6.536476,-57.940903,6.728827",
     "geom:latitude":6.62933,
     "geom:longitude":-58.065296,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Unorganized"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unorganized"
+    ],
     "lbl:latitude":6.627992,
     "lbl:longitude":-58.065296,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Unorganized"
+    ],
     "name:eng_x_variant":[
         "Demerara Conservancy"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"GY",
     "wof:created":1473879032,
-    "wof:geomhash":"cde52104ea5bd7ad8355136ff97a8fc9",
+    "wof:geomhash":"ead9436025b022f260d1eef99e5842ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091683009,
-    "wof:lastmodified":1628266734,
+    "wof:lastmodified":1694498077,
     "wof:name":"Unorganized",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

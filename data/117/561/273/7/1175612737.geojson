@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000785,
-    "geom:area_square_m":9637057.012216,
+    "geom:area_square_m":9636931.360355,
     "geom:bbox":"-58.58461,6.762917,-58.550415,6.852056",
     "geom:latitude":6.809059,
     "geom:longitude":-58.568211,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Sparta/Bonasika and Rest of Essequibo Islands Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.829124,
     "lbl:longitude":-58.559978,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sparta/Bonasika and Rest of Essequibo Islands"
+    ],
     "name:eng_x_variant":[
         "Sparta / Bonasika and Rest of Essequibo Islands"
     ],
@@ -49,7 +58,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473879029,
-    "wof:geomhash":"7d986c3cdd25ae182d4b287c123c971a",
+    "wof:geomhash":"8597ffc9f20b69cf0aec2198bc0746b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1175612737,
-    "wof:lastmodified":1628266718,
+    "wof:lastmodified":1694498076,
     "wof:name":"Sparta/Bonasika and Rest of Essequibo Islands",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

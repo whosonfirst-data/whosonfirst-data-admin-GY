@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005428,
-    "geom:area_square_m":66716059.55916,
+    "geom:area_square_m":66715851.388291,
     "geom:bbox":"-57.514278,6.267542,-57.394869,6.337472",
     "geom:latitude":6.305033,
     "geom:longitude":-57.459498,
     "iso:country":"GY",
+    "label:eng_x_preferred_longname":[
+        "Borlam (No.37)/Kintyre Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:latitude":6.306155,
     "lbl:longitude":-57.459499,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Borlam (No.37)/Kintyre"
+    ],
     "name:eng_x_variant":[
         "Borlam ( No.37 ) / Kintyre"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"GY",
     "wof:created":1473878978,
-    "wof:geomhash":"d2daa4cca8ff2884e8230dc2e91832b4",
+    "wof:geomhash":"95d4c14d79bc1fedb6da74433c4d4114",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1091681655,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694498070,
     "wof:name":"Borlam (No.37)/Kintyre",
     "wof:parent_id":85671757,
     "wof:placetype":"county",
