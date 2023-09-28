@@ -1142,6 +1142,7 @@
         "hasc:id":"GY",
         "icao:code":"8R",
         "ioc:id":"GUY",
+        "iso:code":"GY",
         "itu:id":"GUY",
         "loc:id":"n80061018",
         "m49:code":"328",
@@ -1156,6 +1157,7 @@
         "wk:page":"Guyana",
         "wmo:id":"GY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:country_alpha3":"GUY",
     "wof:geom_alt":[
@@ -1179,7 +1181,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639585,
+    "wof:lastmodified":1695881246,
     "wof:name":"Guyana",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
