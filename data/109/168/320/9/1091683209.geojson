@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000933,
-    "geom:area_square_m":11460774.079214,
+    "geom:area_square_m":11460800.152533,
     "geom:bbox":"-58.165694,6.711112,-58.125746,6.745194",
     "geom:latitude":6.726614,
     "geom:longitude":-58.145762,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879040,
-    "wof:geomhash":"bae42dd2090bcc0724307451f6689478",
+    "wof:geomhash":"a1e1b2bbe72e3a861edc177112a9548e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683209,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Mocha/Arcadia",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

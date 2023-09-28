@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053413,
-    "geom:area_square_m":656724178.885409,
+    "geom:area_square_m":656724213.92341,
     "geom:bbox":"-58.114223,5.919558,-57.778554,6.352522",
     "geom:latitude":6.101072,
     "geom:longitude":-57.937607,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879119,
-    "wof:geomhash":"525170ba5dfa22c6768a8e89a3353aa5",
+    "wof:geomhash":"95a9b525d15806dfceb57642e23b468b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1091685031,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886636,
     "wof:name":"St. Francis Mission",
     "wof:parent_id":-1,
     "wof:placetype":"county",

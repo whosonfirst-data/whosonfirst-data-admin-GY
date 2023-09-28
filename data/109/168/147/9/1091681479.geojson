@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.JM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878972,
     "wof:geomhash":"b2aeda7691a47037eb4e149acdbbddb4",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091681479,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886310,
     "wof:name":"Joppa/Macedonia",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

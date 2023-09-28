@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135315,
-    "geom:area_square_m":1664554839.787654,
+    "geom:area_square_m":1664554949.07482,
     "geom:bbox":"-61.370145,5.529,-60.776171,6.020146",
     "geom:latitude":5.826346,
     "geom:longitude":-61.07972,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879099,
-    "wof:geomhash":"5ff99c898d868d0ab3019251aee54576",
+    "wof:geomhash":"20b82f7f73e10592b069a5c061917908",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684639,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886635,
     "wof:name":"Paruima",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

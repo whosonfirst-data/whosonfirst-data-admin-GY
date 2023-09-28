@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000621,
-    "geom:area_square_m":7623986.371321,
+    "geom:area_square_m":7623921.830564,
     "geom:bbox":"-58.226718,6.749339,-58.196839,6.779041",
     "geom:latitude":6.763702,
     "geom:longitude":-58.211664,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.NL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878999,
-    "wof:geomhash":"e161c744e25185e68bb413b33805f179",
+    "wof:geomhash":"8b7cdba377157c57482f623d5b66d24b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682223,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Nismes/La Grange",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

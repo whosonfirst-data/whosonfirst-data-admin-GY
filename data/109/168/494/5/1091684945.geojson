@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042843,
-    "geom:area_square_m":527453365.990695,
+    "geom:area_square_m":527453380.359465,
     "geom:bbox":"-58.187189,5.162093,-57.938184,5.493251",
     "geom:latitude":5.346568,
     "geom:longitude":-58.056027,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UD.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879111,
-    "wof:geomhash":"de3c49558a09067ca6e21dffa4172a9f",
+    "wof:geomhash":"b8863aff6b467474d83b1b939f107159",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1091684945,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886634,
     "wof:name":"Kwakwani",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

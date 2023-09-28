@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214118,
-    "geom:area_square_m":2635738131.517486,
+    "geom:area_square_m":2635738053.909589,
     "geom:bbox":"-60.566534,5.170512,-59.947182,5.719051",
     "geom:latitude":5.425232,
     "geom:longitude":-60.298851,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879071,
-    "wof:geomhash":"85f7e36f19b3972684c6d80c240831a2",
+    "wof:geomhash":"fe856d2beac61e9f65e63e7b49a7ec16",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683927,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Karambaru to Tukui River, Phillipi",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

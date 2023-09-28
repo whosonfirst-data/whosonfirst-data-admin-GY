@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.437356,
-    "geom:area_square_m":5358985833.987188,
+    "geom:area_square_m":5358987073.590242,
     "geom:bbox":"-59.809639,7.26293,-58.791649,8.40875",
     "geom:latitude":7.715035,
     "geom:longitude":-59.297406,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.BA.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878954,
-    "wof:geomhash":"7a15f24ef89dec2dc45874b16b46e380",
+    "wof:geomhash":"7f618c3cfd26160426d8ec8a3d017fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091681149,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886631,
     "wof:name":"Waini",
     "wof:parent_id":85671751,
     "wof:placetype":"county",

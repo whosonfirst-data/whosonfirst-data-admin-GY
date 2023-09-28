@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001511,
-    "geom:area_square_m":18553746.892573,
+    "geom:area_square_m":18553744.157701,
     "geom:bbox":"-57.959555,6.659244,-57.912258,6.720415",
     "geom:latitude":6.686157,
     "geom:longitude":-57.932693,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.VU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879036,
-    "wof:geomhash":"c21f124e6b9fe5476350786a2161aadc",
+    "wof:geomhash":"ca056e3ea6b99eed6cf686d2f7e627d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683091,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886636,
     "wof:name":"Vereeniging/Unity",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

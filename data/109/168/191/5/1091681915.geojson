@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007842,
-    "geom:area_square_m":96593106.176858,
+    "geom:area_square_m":96593166.41798,
     "geom:bbox":"-59.658428,4.990251,-59.497256,5.088149",
     "geom:latitude":5.042965,
     "geom:longitude":-59.573078,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PT.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878987,
-    "wof:geomhash":"c0aa60961daabbe24c53e24adec8ab4f",
+    "wof:geomhash":"d9cb9b80823285e5b25bd54997dd87b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091681915,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Chenapau River",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

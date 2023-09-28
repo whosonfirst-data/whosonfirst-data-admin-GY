@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.449722,
-    "geom:area_square_m":5508150615.603601,
+    "geom:area_square_m":5508150221.143476,
     "geom:bbox":"-60.369558,7.428784,-59.339937,8.525899",
     "geom:latitude":7.896569,
     "geom:longitude":-59.809549,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.BA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878953,
-    "wof:geomhash":"cbd09d5c904d97b8c5315da22f618037",
+    "wof:geomhash":"8bfa694b3f7eef72af79e1f0dea77b18",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091681147,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886631,
     "wof:name":"Barima/Amakura",
     "wof:parent_id":85671751,
     "wof:placetype":"county",

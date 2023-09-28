@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238132,
-    "geom:area_square_m":2922476333.903912,
+    "geom:area_square_m":2922476553.992676,
     "geom:bbox":"-59.240851,6.717724,-58.520294,7.372703",
     "geom:latitude":7.018524,
     "geom:longitude":-58.944193,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878989,
-    "wof:geomhash":"0ec3228895c238cb99bbeaaf52ace70c",
+    "wof:geomhash":"b07a2def10ded51f4023acd866eb8ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091681961,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Supernaam River, Bethany and Mashabo villages",
     "wof:parent_id":85671753,
     "wof:placetype":"county",

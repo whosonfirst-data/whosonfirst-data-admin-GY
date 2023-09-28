@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002803,
-    "geom:area_square_m":34424495.334837,
+    "geom:area_square_m":34424325.510374,
     "geom:bbox":"-57.967492,6.598783,-57.891444,6.671848",
     "geom:latitude":6.636279,
     "geom:longitude":-57.928193,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879034,
-    "wof:geomhash":"04ee8d3299761ac177b6f06794551774",
+    "wof:geomhash":"4fb1a1ab39b2deb8db4ed5aed34d3404",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683045,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886631,
     "wof:name":"Cane Grove Land Development Scheme",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

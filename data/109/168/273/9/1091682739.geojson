@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004107,
-    "geom:area_square_m":50405144.614368,
+    "geom:area_square_m":50405374.684629,
     "geom:bbox":"-58.520282,6.898734,-58.40461,7.028528",
     "geom:latitude":6.969439,
     "geom:longitude":-58.45671,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879020,
-    "wof:geomhash":"707d75916d043f9bd1453126625c7b91",
+    "wof:geomhash":"41ba59636a3b070d4e4488fa7cdfe319",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682739,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886636,
     "wof:name":"Wakenaam (Essequibo Islands)",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

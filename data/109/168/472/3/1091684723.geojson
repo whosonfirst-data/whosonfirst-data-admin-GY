@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138509,
-    "geom:area_square_m":1709061194.59118,
+    "geom:area_square_m":1709061295.208612,
     "geom:bbox":"-59.856446,3.48679,-59.256136,3.991747",
     "geom:latitude":3.7258,
     "geom:longitude":-59.52783,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UT.TJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879102,
-    "wof:geomhash":"76a5b81db33e8f660e2be8902cb95e8e",
+    "wof:geomhash":"080a9e78915166d898446d502f3e5b17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091684723,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886637,
     "wof:name":"Toka - Jakaretinga",
     "wof:parent_id":-1,
     "wof:placetype":"county",

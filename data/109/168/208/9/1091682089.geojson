@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002113,
-    "geom:area_square_m":25926041.336375,
+    "geom:area_square_m":25926124.285558,
     "geom:bbox":"-58.542417,7.17484,-58.482696,7.232172",
     "geom:latitude":7.198275,
     "geom:longitude":-58.508407,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.ZE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878993,
-    "wof:geomhash":"087f38e7d726d3b4abb267ce4a96da0b",
+    "wof:geomhash":"66af996aec04019e8bf17a6d102074dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091682089,
-    "wof:lastmodified":1627522170,
+    "wof:lastmodified":1695886637,
     "wof:name":"Zorg-E -Vlygt/Aberdeen",
     "wof:parent_id":-1,
     "wof:placetype":"county",

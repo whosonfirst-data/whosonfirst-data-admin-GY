@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005262,
-    "geom:area_square_m":64618034.329151,
+    "geom:area_square_m":64618145.034966,
     "geom:bbox":"-58.053833,6.672469,-57.977411,6.803025",
     "geom:latitude":6.736206,
     "geom:longitude":-58.018616,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.FB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879141,
-    "wof:geomhash":"a9add417a15419a2280346c39fc3917c",
+    "wof:geomhash":"c898c4e7e8b8afbaa3b773d71c2f9e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1175612735,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886633,
     "wof:name":"Foulis/Buxton",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

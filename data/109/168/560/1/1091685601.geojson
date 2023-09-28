@@ -63,6 +63,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879140,
     "wof:geomhash":"18a04702ae1a847a8079e2b6e15eb9eb",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091685601,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886272,
     "wof:name":"Canje River",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

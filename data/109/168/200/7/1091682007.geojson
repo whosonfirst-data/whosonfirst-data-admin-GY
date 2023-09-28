@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878990,
     "wof:geomhash":"5d49d89fd5a47eb82a1ac1c848f89b0d",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091682007,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886299,
     "wof:name":"Good Hope/Pomona",
     "wof:parent_id":-1,
     "wof:placetype":"county",

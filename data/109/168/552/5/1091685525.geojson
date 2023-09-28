@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879137,
     "wof:geomhash":"6c5b0a3ff59533e83f795cd17026fb05",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685525,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886360,
     "wof:name":"No.38/Ordnance Fortlands",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

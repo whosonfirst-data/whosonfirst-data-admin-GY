@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001515,
-    "geom:area_square_m":18598325.798356,
+    "geom:area_square_m":18598450.387964,
     "geom:bbox":"-58.570446,6.854583,-58.507915,6.94875",
     "geom:latitude":6.909798,
     "geom:longitude":-58.538186,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879031,
-    "wof:geomhash":"541d95895b1f1c6ab2d7f0d16081f91b",
+    "wof:geomhash":"a926881d882d34ce830641f6eb6f5fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682949,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"Sparta/Bonasika and Rest of Essequibo Islands",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

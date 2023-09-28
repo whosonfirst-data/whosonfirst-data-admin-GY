@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.JC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879126,
     "wof:geomhash":"47bdb861fe66198d68c836c943b4ede4",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091685245,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886306,
     "wof:name":"Jackson Creek/Crabwood Creek",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

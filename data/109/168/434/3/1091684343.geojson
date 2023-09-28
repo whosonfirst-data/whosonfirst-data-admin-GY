@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135007,
-    "geom:area_square_m":1664850171.945305,
+    "geom:area_square_m":1664849924.811291,
     "geom:bbox":"-59.738101,3.939176,-59.298825,4.550232",
     "geom:latitude":4.220122,
     "geom:longitude":-59.534351,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UT.YP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879087,
-    "wof:geomhash":"b53abcb8efd77d1f7d75c3e7a469d584",
+    "wof:geomhash":"76a766c465e542f37b7ea37df5ccb486",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091684343,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886637,
     "wof:name":"Yarong Paru - Good Hope",
     "wof:parent_id":-1,
     "wof:placetype":"county",

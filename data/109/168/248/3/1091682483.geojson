@@ -65,8 +65,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"GY.MA.UN"
+        "hasc:id":"GY.MA.UN",
+        "meso:local_id":"300"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"GY",
     "wof:created":1473879009,
     "wof:geomhash":"6b661336985c567d64e0f0b5b7790ba8",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1091682483,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886636,
     "wof:name":"Unorganized",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

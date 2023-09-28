@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07294,
-    "geom:area_square_m":893995228.701448,
+    "geom:area_square_m":893995076.475612,
     "geom:bbox":"-60.232311,7.393057,-59.756245,7.751897",
     "geom:latitude":7.598923,
     "geom:longitude":-60.030117,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.BA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879097,
-    "wof:geomhash":"008b0cafbad6b4b458793c2206eefa98",
+    "wof:geomhash":"8afd120c757395ec02692245453a97f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684603,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Matthews Ridge/Arakaka (Matakai)/Port Kaituma",
     "wof:parent_id":85671751,
     "wof:placetype":"county",

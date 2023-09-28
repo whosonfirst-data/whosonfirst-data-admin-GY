@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004493,
-    "geom:area_square_m":55097077.164818,
+    "geom:area_square_m":55097068.413535,
     "geom:bbox":"-58.588831,7.335546,-58.48246,7.417459",
     "geom:latitude":7.367205,
     "geom:longitude":-58.533993,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878955,
-    "wof:geomhash":"b56450b433f92653a4041b29bf5276e6",
+    "wof:geomhash":"d05e8e7dced59bff5254974ef0cc7d41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091681151,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Paradise/Evergreen (including Somerset and Berks)",
     "wof:parent_id":-1,
     "wof:placetype":"county",

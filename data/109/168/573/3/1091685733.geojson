@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003215,
-    "geom:area_square_m":39471961.041962,
+    "geom:area_square_m":39472085.172989,
     "geom:bbox":"-58.078793,6.708436,-58.019208,6.820275",
     "geom:latitude":6.765627,
     "geom:longitude":-58.049879,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879144,
-    "wof:geomhash":"c15877964ed09d52fbda70d19f6324e8",
+    "wof:geomhash":"218be0fdeeae303370763d50fb656fac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091685733,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886634,
     "wof:name":"La Reconnaissance/Mon Repos",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

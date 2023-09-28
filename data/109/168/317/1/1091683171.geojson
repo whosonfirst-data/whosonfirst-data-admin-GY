@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001747,
-    "geom:area_square_m":21450858.162896,
+    "geom:area_square_m":21451024.308003,
     "geom:bbox":"-58.192178,6.73611,-58.120444,6.78173",
     "geom:latitude":6.758262,
     "geom:longitude":-58.155658,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.ER"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879039,
-    "wof:geomhash":"3a6540e919ea974ca17dc16090ab0ec9",
+    "wof:geomhash":"2ea46680cdbac75efb8193d0ee76b4b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683171,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Eccles/Ramsburg",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

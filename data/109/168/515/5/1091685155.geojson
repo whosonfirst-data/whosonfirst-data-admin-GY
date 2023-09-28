@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879123,
     "wof:geomhash":"fb318ea2c0b14e11db67280c9ec07a65",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685155,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886278,
     "wof:name":"Corentyne River",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

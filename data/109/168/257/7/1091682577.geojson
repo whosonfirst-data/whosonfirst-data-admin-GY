@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000843,
-    "geom:area_square_m":10349604.33199,
+    "geom:area_square_m":10349417.500781,
     "geom:bbox":"-58.421317,6.839564,-58.38083,6.872252",
     "geom:latitude":6.858056,
     "geom:longitude":-58.398557,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879014,
-    "wof:geomhash":"d53f44239c441589f3a99c7ab7244e22",
+    "wof:geomhash":"86bed13c7e8f189e2ef27f8e4031c41f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682577,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Good Hope/Hydronie",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.EN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879133,
     "wof:geomhash":"dd5f00141e32343a068121347c50c9cd",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685453,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886291,
     "wof:name":"Enfield/New Doe Park",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

@@ -52,7 +52,10 @@
         85671761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"400"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"GY",
     "wof:created":1473879032,
     "wof:geomhash":"ead9436025b022f260d1eef99e5842ef",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1091683009,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886417,
     "wof:name":"Unorganized",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022852,
-    "geom:area_square_m":281612093.693595,
+    "geom:area_square_m":281612093.693605,
     "geom:bbox":"-59.7811626288,4.59928571099,-59.5886107415,4.80571379447",
     "geom:latitude":4.702868,
     "geom:longitude":-59.692816,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PT.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879121,
-    "wof:geomhash":"0e6300cb249bb07e4ecbf7ec923702d5",
+    "wof:geomhash":"eb87142eb8feb8ced741317adee346eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091685109,
-    "wof:lastmodified":1566644373,
+    "wof:lastmodified":1695886350,
     "wof:name":"Paramakatoi",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

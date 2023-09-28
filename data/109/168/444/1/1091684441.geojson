@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062141,
-    "geom:area_square_m":764835620.000162,
+    "geom:area_square_m":764835339.22303,
     "geom:bbox":"-58.254231,5.358089,-57.836885,5.626162",
     "geom:latitude":5.507102,
     "geom:longitude":-58.047666,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UD.IT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879091,
-    "wof:geomhash":"cd358509f7b4de81276909e1f6272031",
+    "wof:geomhash":"89adfe3bad138c973aa5ec68b71b5472",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1091684441,
-    "wof:lastmodified":1636494758,
+    "wof:lastmodified":1695886618,
     "wof:name":"Ituni",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

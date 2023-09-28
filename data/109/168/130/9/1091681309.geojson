@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008402,
-    "geom:area_square_m":103192251.753716,
+    "geom:area_square_m":103192249.346266,
     "geom:bbox":"-57.92466,6.571275,-57.783182,6.711954",
     "geom:latitude":6.633887,
     "geom:longitude":-57.860064,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.FW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878963,
-    "wof:geomhash":"5107aa8e4f0a0eb159529b0508c6d689",
+    "wof:geomhash":"d1b98abab5efcac129c3b5d7201e0d13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091681309,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Farm/Woodlands",
     "wof:parent_id":-1,
     "wof:placetype":"county",

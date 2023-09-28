@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156163,
-    "geom:area_square_m":1919498250.709674,
+    "geom:area_square_m":1919497970.912698,
     "geom:bbox":"-58.151081,5.900513,-57.684814,6.601848",
     "geom:latitude":6.250058,
     "geom:longitude":-57.912273,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.RS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879052,
-    "wof:geomhash":"91eeace4f6cd5008c15ee4f3f4c03373",
+    "wof:geomhash":"8f47ec7f1ca142825dd751c84c708774",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683511,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"Unorganized",
     "wof:parent_id":-1,
     "wof:placetype":"county",

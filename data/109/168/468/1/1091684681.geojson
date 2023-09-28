@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108688,
-    "geom:area_square_m":1339486081.385192,
+    "geom:area_square_m":1339486243.774148,
     "geom:bbox":"-60.1614,4.45244,-59.715575,4.900139",
     "geom:latitude":4.668744,
     "geom:longitude":-59.927847,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PT.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879101,
-    "wof:geomhash":"8afd32d880f0ebe11bd4e1a7b093a803",
+    "wof:geomhash":"9f039bce052e93d7527a99ebf56b3384",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684681,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Kurukabaru",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

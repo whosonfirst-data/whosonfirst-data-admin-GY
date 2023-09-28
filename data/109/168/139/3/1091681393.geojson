@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.NV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878967,
     "wof:geomhash":"3527b7b7c057462a0fe187f9478e50c8",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091681393,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886359,
     "wof:name":"No.74 Village/No.52 Village",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

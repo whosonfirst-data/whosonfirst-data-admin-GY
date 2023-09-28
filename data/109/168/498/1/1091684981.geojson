@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239981,
-    "geom:area_square_m":2960292024.34203,
+    "geom:area_square_m":2960292132.248048,
     "geom:bbox":"-59.442008,3.634114,-58.89,4.301761",
     "geom:latitude":3.964867,
     "geom:longitude":-59.154957,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UT.YW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879116,
-    "wof:geomhash":"ee3aaad062110427b6f2794cb843758e",
+    "wof:geomhash":"bd0b0b178c807229e24b8d9fe21070e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091684981,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886637,
     "wof:name":"Yakarinta - Wowetta, Surama",
     "wof:parent_id":-1,
     "wof:placetype":"county",

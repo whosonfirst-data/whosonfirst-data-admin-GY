@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005353,
-    "geom:area_square_m":65775043.678807,
+    "geom:area_square_m":65774940.234636,
     "geom:bbox":"-57.803574,6.419638,-57.720748,6.520611",
     "geom:latitude":6.471909,
     "geom:longitude":-57.765146,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879062,
-    "wof:geomhash":"f3341d9efce93c8b7a41eb2465bc73e3",
+    "wof:geomhash":"4298b51730e940457a33edd455f53d47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683675,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886632,
     "wof:name":"Abary/Mahaicony",
     "wof:parent_id":-1,
     "wof:placetype":"county",

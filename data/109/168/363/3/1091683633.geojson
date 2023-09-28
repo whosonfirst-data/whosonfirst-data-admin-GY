@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001019,
-    "geom:area_square_m":12524269.149741,
+    "geom:area_square_m":12524280.977973,
     "geom:bbox":"-57.610252,6.349939,-57.568195,6.389047",
     "geom:latitude":6.366203,
     "geom:longitude":-57.588536,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.WP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879058,
-    "wof:geomhash":"79f6bbd90f00f6fa2dc73ae003f6c9b3",
+    "wof:geomhash":"73152ea7569e8df660d9c2bbc7729a77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683633,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886636,
     "wof:name":"Woodley Park/Bath",
     "wof:parent_id":-1,
     "wof:placetype":"county",

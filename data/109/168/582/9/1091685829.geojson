@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879149,
     "wof:geomhash":"8efaaec5433133e5d506c6178560d402",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685829,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886287,
     "wof:name":"East Bank Berbice",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

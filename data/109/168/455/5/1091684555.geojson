@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301471,
-    "geom:area_square_m":3712773386.583001,
+    "geom:area_square_m":3712773218.719978,
     "geom:bbox":"-58.399642,4.609268,-57.560282,5.802811",
     "geom:latitude":5.127056,
     "geom:longitude":-58.000042,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UD.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879096,
-    "wof:geomhash":"7cb55a04e889e0dee1d9260b9352eee0",
+    "wof:geomhash":"65cb9bed76f9a47aa47d21a349cacb8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684555,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886632,
     "wof:name":"Berbice River settlements",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

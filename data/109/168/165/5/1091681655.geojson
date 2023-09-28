@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878978,
     "wof:geomhash":"95d4c14d79bc1fedb6da74433c4d4114",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091681655,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886269,
     "wof:name":"Borlam (No.37)/Kintyre",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

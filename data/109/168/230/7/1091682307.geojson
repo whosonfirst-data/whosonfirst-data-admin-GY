@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
-    "geom:area_square_m":9502709.506059,
+    "geom:area_square_m":9502904.66094,
     "geom:bbox":"-58.226082,6.795886,-58.180328,6.825389",
     "geom:latitude":6.809251,
     "geom:longitude":-58.198968,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879002,
-    "wof:geomhash":"154206fea8065e3c4df22a6478833e13",
+    "wof:geomhash":"76471183ee2618f2f9c0e9248e20b259",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682307,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Klein Pouderoyen/Best",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

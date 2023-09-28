@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001502,
-    "geom:area_square_m":18445004.317495,
+    "geom:area_square_m":18444938.102273,
     "geom:bbox":"-58.246211,6.762787,-58.187084,6.808892",
     "geom:latitude":6.787509,
     "geom:longitude":-58.221313,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.MZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879000,
-    "wof:geomhash":"baf734c2969de6be234b0980990d259c",
+    "wof:geomhash":"327c1530a4bc4d9d4df7ddb26ed7b75a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682273,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Meer Zorgen/Malgre Tout",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

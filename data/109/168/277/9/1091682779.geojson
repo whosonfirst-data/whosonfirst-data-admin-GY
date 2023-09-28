@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083002,
-    "geom:area_square_m":1019871980.368627,
+    "geom:area_square_m":1019871668.5704,
     "geom:bbox":"-58.444375,6.089988,-58.198396,6.704215",
     "geom:latitude":6.433985,
     "geom:longitude":-58.336709,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879022,
-    "wof:geomhash":"0f6bb4fb5a41a531459fce7825604c65",
+    "wof:geomhash":"cd619f4e5f1b3e3c1b120c3eb9cc56fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682779,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886631,
     "wof:name":"Amsterdam (Demerara River)/Vriesland",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

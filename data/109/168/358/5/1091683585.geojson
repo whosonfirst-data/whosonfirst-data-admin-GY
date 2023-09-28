@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0028,
-    "geom:area_square_m":34419173.219244,
+    "geom:area_square_m":34419278.417984,
     "geom:bbox":"-57.619116,6.272077,-57.530861,6.324425",
     "geom:latitude":6.30074,
     "geom:longitude":-57.569747,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.RZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879055,
-    "wof:geomhash":"efa49598fbe177d8b260a6fe745ee211",
+    "wof:geomhash":"33405ac099325c5efc9cd9442175dfd6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683585,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"Rosignol/Zeelust",
     "wof:parent_id":-1,
     "wof:placetype":"county",

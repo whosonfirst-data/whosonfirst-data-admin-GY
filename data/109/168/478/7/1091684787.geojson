@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210523,
-    "geom:area_square_m":2591371513.984192,
+    "geom:area_square_m":2591371683.299017,
     "geom:bbox":"-59.583337,5.158702,-58.894396,5.73976",
     "geom:latitude":5.452899,
     "geom:longitude":-59.238287,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PT.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879105,
-    "wof:geomhash":"83b3f86eeb58b94832115d7107946170",
+    "wof:geomhash":"7146dfb32e81636161f865521c5b79b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684787,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886634,
     "wof:name":"Madhia+Kurubrong River+Mona Falls",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

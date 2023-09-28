@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001801,
-    "geom:area_square_m":22111946.945991,
+    "geom:area_square_m":22111801.554613,
     "geom:bbox":"-58.197109,6.679906,-58.130599,6.730494",
     "geom:latitude":6.70347,
     "geom:longitude":-58.163041,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.DG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879044,
-    "wof:geomhash":"042041f09ceb3c364d3d7d5eae79eb9d",
+    "wof:geomhash":"f369ca4dff5a67e3e1dd1aae476db4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683263,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886633,
     "wof:name":"Diamond/Golden Grove",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

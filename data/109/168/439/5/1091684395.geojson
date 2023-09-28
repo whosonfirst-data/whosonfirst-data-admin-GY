@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091715,
-    "geom:area_square_m":1128140010.814255,
+    "geom:area_square_m":1128140641.461612,
     "geom:bbox":"-58.507176,5.612325,-58.115675,6.137194",
     "geom:latitude":5.86461,
     "geom:longitude":-58.32332,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UD.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879090,
-    "wof:geomhash":"c498016fc7a374caf59073dd83862668",
+    "wof:geomhash":"076596b30efb6d754f30006bc5f18b19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684395,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886633,
     "wof:name":"Coomaka Lands",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018316,
-    "geom:area_square_m":225241070.539355,
+    "geom:area_square_m":225240845.988824,
     "geom:bbox":"-58.397786,5.896108,-58.207103,6.068144",
     "geom:latitude":5.997007,
     "geom:longitude":-58.290664,
@@ -146,9 +146,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UD.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879120,
-    "wof:geomhash":"184942810de6834d5a2dbbed6735e64e",
+    "wof:geomhash":"8d093869624e6db9726a9095f88f63de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1091685061,
-    "wof:lastmodified":1636494757,
+    "wof:lastmodified":1695886618,
     "wof:name":"Linden",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

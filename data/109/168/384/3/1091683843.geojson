@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879067,
     "wof:geomhash":"cd97607ab100590bf752c212483b70e1",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091683843,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886270,
     "wof:name":"Bush Lot/Adventure",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

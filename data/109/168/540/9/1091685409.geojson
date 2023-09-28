@@ -129,6 +129,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879132,
     "wof:geomhash":"c5332f9a7a85bb50d93bb15c87dc8944",
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1091685409,
-    "wof:lastmodified":1694498096,
+    "wof:lastmodified":1695886618,
     "wof:name":"Corriverton",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

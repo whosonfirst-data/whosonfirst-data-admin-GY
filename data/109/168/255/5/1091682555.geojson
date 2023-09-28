@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000706,
-    "geom:area_square_m":8666563.317046,
+    "geom:area_square_m":8666682.899853,
     "geom:bbox":"-58.381229,6.84533,-58.356613,6.881655",
     "geom:latitude":6.861504,
     "geom:longitude":-58.368323,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.VG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879013,
-    "wof:geomhash":"b69c839fdc46657d410d110ca79bf883",
+    "wof:geomhash":"e62c8ad2badff7365159197dfa4c13a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682555,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886636,
     "wof:name":"Vergenoegen/Greenwich Park",
     "wof:parent_id":85671767,
     "wof:placetype":"county",
