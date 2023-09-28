@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266772,
-    "geom:area_square_m":3276761951.199584,
+    "geom:area_square_m":3276761425.639224,
     "geom:bbox":"-58.870959,6.089988,-58.180328,7.105139",
     "geom:latitude":6.607888,
     "geom:longitude":-58.464593,
@@ -234,16 +234,18 @@
         "gn:id":3377274,
         "gp:id":2345608,
         "hasc:id":"GY.MA",
+        "iso:code":"GY-MA",
         "iso:id":"GY-MA",
         "qs_pg:id":268609,
         "wd:id":"Q1466671",
         "wk:page":"Mahaica-Berbice"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b47bfe2b54e632a9442134df9f9aff4",
+    "wof:geomhash":"be184c67983821b254c2d73b89cb057f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -258,7 +260,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690930163,
+    "wof:lastmodified":1695884774,
     "wof:name":"Essequibo Islands-West Demerara",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

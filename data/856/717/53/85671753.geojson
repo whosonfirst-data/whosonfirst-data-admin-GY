@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488537,
-    "geom:area_square_m":5993572716.251932,
+    "geom:area_square_m":5993573041.830317,
     "geom:bbox":"-59.240851,6.717724,-58.475639,7.66806",
     "geom:latitude":7.169983,
     "geom:longitude":-58.8413,
@@ -267,16 +267,18 @@
         "gn:id":3379023,
         "gp:id":2345604,
         "hasc:id":"GY.CU",
+        "iso:code":"GY-CU",
         "iso:id":"GY-CU",
         "qs_pg:id":1285238,
         "wd:id":"Q1146777",
         "wk:page":"Cuyuni-Mazaruni"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f44e03194a7c9cbf63638cdbd153ddc",
+    "wof:geomhash":"3074799cb47a29ee9433502a065610f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -291,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690930164,
+    "wof:lastmodified":1695884775,
     "wof:name":"Pomeroon-Supenaam",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

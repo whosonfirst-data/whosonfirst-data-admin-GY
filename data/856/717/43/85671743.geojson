@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.606112,
-    "geom:area_square_m":56880625056.410301,
+    "geom:area_square_m":56880624155.410912,
     "geom:bbox":"-59.991686,1.164724,-57.907328,4.550232",
     "geom:latitude":2.833418,
     "geom:longitude":-58.973155,
@@ -270,16 +270,18 @@
         "gn:id":3375469,
         "gp:id":2345611,
         "hasc:id":"GY.UD",
+        "iso:code":"GY-UD",
         "iso:id":"GY-UD",
         "qs_pg:id":219558,
         "wd:id":"Q1309042",
         "wk:page":"Upper Demerara-Berbice"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b36055d737c37698a4193940daaa2106",
+    "wof:geomhash":"b5222683cbba9cbb315f72cf48877fed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690930164,
+    "wof:lastmodified":1695884774,
     "wof:name":"Upper Takutu-Upper Essequibo",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

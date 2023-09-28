@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.604274,
-    "geom:area_square_m":19661811981.398308,
+    "geom:area_square_m":19661812819.915329,
     "geom:bbox":"-60.720363,6.982384,-58.791649,8.525899",
     "geom:latitude":7.617539,
     "geom:longitude":-59.74753,
@@ -287,17 +287,19 @@
         "gn:id":3379515,
         "gp:id":2345603,
         "hasc:id":"GY.BA",
+        "iso:code":"GY-BA",
         "iso:id":"GY-BA",
         "qs_pg:id":59638,
         "unlc:id":"GY-BA",
         "wd:id":"Q537740",
         "wk:page":"Barima-Waini"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cce043b6784836c3eac4f3cfc6e287e1",
+    "wof:geomhash":"2f8f73ff747af64375f03ee5fa992c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690930162,
+    "wof:lastmodified":1695884774,
     "wof:name":"Barima-Waini",
     "wof:parent_id":85632397,
     "wof:placetype":"region",
