@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046481,
-    "geom:area_square_m":570261446.241897,
+    "geom:area_square_m":570260845.51763,
     "geom:bbox":"-58.698503,6.991368,-58.475639,7.374589",
     "geom:latitude":7.166796,
     "geom:longitude":-58.582236,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878992,
-    "wof:geomhash":"29c8a35d8d68521e6fdd39c8ee9a751c",
+    "wof:geomhash":"9d3245074823f31d78ba81269764e81b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091682041,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Riverstown/Annandale",
     "wof:parent_id":-1,
     "wof:placetype":"county",

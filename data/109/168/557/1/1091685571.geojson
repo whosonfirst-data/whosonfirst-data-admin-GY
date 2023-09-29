@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.CF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879138,
     "wof:geomhash":"593a35c31f2dcf259d39c2907dea9410",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685571,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886272,
     "wof:name":"Cane Field/Enterprise",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000963,
-    "geom:area_square_m":11830378.606682,
+    "geom:area_square_m":11830275.793582,
     "geom:bbox":"-58.197106,6.717879,-58.158684,6.753989",
     "geom:latitude":6.736992,
     "geom:longitude":-58.178234,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.HL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879042,
-    "wof:geomhash":"78fbad5d6208e3e65805feddcb037540",
+    "wof:geomhash":"3cba08812481ee421363310a04b351eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683225,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Herstelling/Little Diamond",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

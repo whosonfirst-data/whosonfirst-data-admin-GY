@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0702,
-    "geom:area_square_m":863272327.382797,
+    "geom:area_square_m":863272812.401861,
     "geom:bbox":"-57.947706,5.78443,-57.529972,6.262777",
     "geom:latitude":6.004069,
     "geom:longitude":-57.726746,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.WB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879065,
-    "wof:geomhash":"575de48051e6ccbb6304fa1f89d9eb7a",
+    "wof:geomhash":"fee2f7abf27387d83fc9096ba482602e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683761,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886637,
     "wof:name":"West Bank Berbice (river)",
     "wof:parent_id":85671737,
     "wof:placetype":"county",

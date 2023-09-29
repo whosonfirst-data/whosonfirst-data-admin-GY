@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027956,
-    "geom:area_square_m":344390514.756941,
+    "geom:area_square_m":344390627.424705,
     "geom:bbox":"-60.005545,4.852006,-59.766205,5.07328",
     "geom:latitude":4.959217,
     "geom:longitude":-59.881096,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PT.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879084,
-    "wof:geomhash":"0f95f6e8c7b1c707280df97861817786",
+    "wof:geomhash":"fbeec7aafe1541c8b05ef6004e1fff78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684267,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Kopanang, Waipa, Kenepai",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

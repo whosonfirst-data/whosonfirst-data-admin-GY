@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.577625,
-    "geom:area_square_m":19437145795.167885,
+    "geom:area_square_m":19437146569.782566,
     "geom:bbox":"-60.1614,4.058797,-58.357888,5.73976",
     "geom:latitude":4.857721,
     "geom:longitude":-59.302009,
@@ -282,17 +282,19 @@
         "gn:id":3376386,
         "gp:id":2345610,
         "hasc:id":"GY.PT",
+        "iso:code":"GY-PT",
         "iso:id":"GY-PT",
         "qs_pg:id":1285239,
         "unlc:id":"GY-PT",
         "wd:id":"Q1454035",
         "wk:page":"Potaro-Siparuni"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe072edaa49f0d5083a644d51a2ad6ce",
+    "wof:geomhash":"4a72ab82ff0d1c782d1d0b28cba4851d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690930164,
+    "wof:lastmodified":1695884775,
     "wof:name":"Potaro-Siparuni",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

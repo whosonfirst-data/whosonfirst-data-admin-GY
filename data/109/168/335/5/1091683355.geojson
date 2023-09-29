@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002305,
-    "geom:area_square_m":28319382.487047,
+    "geom:area_square_m":28319420.086406,
     "geom:bbox":"-58.254176,6.519406,-58.182205,6.581819",
     "geom:latitude":6.55252,
     "geom:longitude":-58.21797,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879047,
-    "wof:geomhash":"110a27f0d471232c6cb0c42bc1e0674d",
+    "wof:geomhash":"673f855bb6726a39abc24b19275757bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683355,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"Te Huist Coverden/Soesdyke",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

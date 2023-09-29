@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003283,
-    "geom:area_square_m":40308112.890141,
+    "geom:area_square_m":40308042.84189,
     "geom:bbox":"-58.113883,6.720369,-58.057148,6.832064",
     "geom:latitude":6.774641,
     "geom:longitude":-58.085117,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.LB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879146,
-    "wof:geomhash":"fa5f8c2e75369722276d2d7889c5e840",
+    "wof:geomhash":"7e0e2f72906079edfe6b69584d4b57c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091685765,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886634,
     "wof:name":"La Bonne Intention/Better Hope",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

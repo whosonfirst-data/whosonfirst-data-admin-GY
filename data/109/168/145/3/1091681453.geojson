@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878970,
     "wof:geomhash":"5b7a56f4a8b2819bed565f1ad95b33f7",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091681453,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886360,
     "wof:name":"No.51 Village/Good hope",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

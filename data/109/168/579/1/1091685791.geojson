@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000598,
-    "geom:area_square_m":7341917.346924,
+    "geom:area_square_m":7342125.51239,
     "geom:bbox":"-58.083148,6.718858,-58.050875,6.823012",
     "geom:latitude":6.773948,
     "geom:longitude":-58.066614,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879147,
-    "wof:geomhash":"8733859fbde9ab193df3e10956d347f3",
+    "wof:geomhash":"9dff4490f4e8853c77c38a16faa7d46d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091685791,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886637,
     "wof:name":"Triumph/Beterverwagting",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

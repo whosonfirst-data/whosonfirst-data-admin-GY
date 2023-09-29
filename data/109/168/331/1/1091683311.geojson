@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004303,
-    "geom:area_square_m":52854343.412186,
+    "geom:area_square_m":52854663.986484,
     "geom:bbox":"-58.222219,6.574216,-58.136509,6.690963",
     "geom:latitude":6.637945,
     "geom:longitude":-58.185501,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879045,
-    "wof:geomhash":"022f10755e72c169ed3a3ef1091e9072",
+    "wof:geomhash":"6a115ca1c45b804f8253ccca64cd67c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683311,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886633,
     "wof:name":"Good Success/Caledonia",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

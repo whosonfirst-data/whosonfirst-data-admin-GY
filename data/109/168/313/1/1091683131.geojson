@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002073,
-    "geom:area_square_m":25455125.258521,
+    "geom:area_square_m":25455007.885368,
     "geom:bbox":"-58.129653,6.719021,-58.08501,6.834583",
     "geom:latitude":6.782077,
     "geom:longitude":-58.108417,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879037,
-    "wof:geomhash":"350c3c087beb4e79e796f678271effae",
+    "wof:geomhash":"c598afb5fe3eddd32647448de654310e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683131,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Plaisance/Industry",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

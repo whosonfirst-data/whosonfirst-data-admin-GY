@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177548,
-    "geom:area_square_m":2191864677.649481,
+    "geom:area_square_m":2191864187.505712,
     "geom:bbox":"-59.961336,2.965111,-59.448307,3.588228",
     "geom:latitude":3.258614,
     "geom:longitude":-59.70735,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UT.IS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878983,
-    "wof:geomhash":"31ad29603b1a221c9301c304cce56f6d",
+    "wof:geomhash":"1dff558f1e4d95b5135c1b97250e9d8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091681781,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Ireng/Sawariwau (Incl. St Ignatius)",
     "wof:parent_id":-1,
     "wof:placetype":"county",

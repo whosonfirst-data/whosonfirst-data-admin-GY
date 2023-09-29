@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010673,
-    "geom:area_square_m":131284293.152089,
+    "geom:area_square_m":131284543.729008,
     "geom:bbox":"-60.853033,5.795781,-60.717943,5.928333",
     "geom:latitude":5.857184,
     "geom:longitude":-60.795391,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879073,
-    "wof:geomhash":"a80fb392a3a7cbd17cc897ed21eccb2e",
+    "wof:geomhash":"f2c4e6614646cb9a3b0dc87476805256",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684019,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886637,
     "wof:name":"Waramadan",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

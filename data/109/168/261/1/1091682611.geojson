@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
-    "geom:area_square_m":10998092.035894,
+    "geom:area_square_m":10998166.06588,
     "geom:bbox":"-58.450119,6.819453,-58.406843,6.862319",
     "geom:latitude":6.840788,
     "geom:longitude":-58.427922,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879016,
-    "wof:geomhash":"d92b6e68594d84e1896050fbb2730354",
+    "wof:geomhash":"2dce6c5aa75a2874e4af9bb0986f021d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682611,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Parika/Mora",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

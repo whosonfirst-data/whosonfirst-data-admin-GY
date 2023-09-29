@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.HL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878975,
     "wof:geomhash":"0a9d6fd8073c63148f3e99142dbb8738",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091681575,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886301,
     "wof:name":"Hogstye/Lancaster",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

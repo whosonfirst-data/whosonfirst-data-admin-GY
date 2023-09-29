@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879150,
     "wof:geomhash":"b3879158a2ab409dca9e9ff2fd735aaa",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685859,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886301,
     "wof:name":"Hampshire/Kilcoy",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

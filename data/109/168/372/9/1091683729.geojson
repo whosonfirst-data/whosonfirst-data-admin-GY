@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006046,
-    "geom:area_square_m":74274419.535461,
+    "geom:area_square_m":74274421.546054,
     "geom:bbox":"-57.861074,6.508222,-57.750563,6.598266",
     "geom:latitude":6.549771,
     "geom:longitude":-57.807279,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879063,
-    "wof:geomhash":"bcf929d473d192ae30f2dae53c6e60da",
+    "wof:geomhash":"2672ca5f9d951d267ef1a8162772f5a3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683729,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886632,
     "wof:name":"Chance/Hamlet",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001419,
-    "geom:area_square_m":17424034.981657,
+    "geom:area_square_m":17424044.166089,
     "geom:bbox":"-58.234283,6.694577,-58.197083,6.749898",
     "geom:latitude":6.719904,
     "geom:longitude":-58.216601,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878994,
-    "wof:geomhash":"379a06ef05b5b99fe584752c5f6180da",
+    "wof:geomhash":"ae81b02f6bf6119265991e1d88a4e486",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682133,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Patentia/Toevlugt",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

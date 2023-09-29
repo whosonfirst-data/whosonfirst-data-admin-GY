@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188959,
-    "geom:area_square_m":2317283060.032398,
+    "geom:area_square_m":2317283362.599295,
     "geom:bbox":"-59.130136,6.979457,-58.535667,7.66806",
     "geom:latitude":7.354041,
     "geom:longitude":-58.801086,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878958,
-    "wof:geomhash":"8bc7cf71b0fd5961478ced1aef2a795c",
+    "wof:geomhash":"749582872c5663ef214c5c8d6e3e4172",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091681197,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Charity/Urasara",
     "wof:parent_id":-1,
     "wof:placetype":"county",

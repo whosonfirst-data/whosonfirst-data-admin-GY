@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165182,
-    "geom:area_square_m":2034140312.188208,
+    "geom:area_square_m":2034139905.195421,
     "geom:bbox":"-58.739626,4.846995,-58.237293,5.469369",
     "geom:latitude":5.184275,
     "geom:longitude":-58.521536,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UD.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879093,
-    "wof:geomhash":"158b9ebe5be499f07f5eb0b9e130ae93",
+    "wof:geomhash":"68f94953381a8061637eab63e3bfc1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684481,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Mabura Hill",
     "wof:parent_id":85671745,
     "wof:placetype":"county",

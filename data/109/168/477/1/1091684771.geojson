@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.FG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879103,
     "wof:geomhash":"a73147789a262e860e49cc9407671b2c",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091684771,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886291,
     "wof:name":"Fyrish/Gibraltar",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

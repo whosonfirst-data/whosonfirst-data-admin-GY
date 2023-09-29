@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208201,
-    "geom:area_square_m":2571266160.497977,
+    "geom:area_square_m":2571266116.435475,
     "geom:bbox":"-59.6777,2.493768,-59.208108,3.152441",
     "geom:latitude":2.845085,
     "geom:longitude":-59.416276,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UT.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879108,
-    "wof:geomhash":"6e982f2231797581770aad735c99abfb",
+    "wof:geomhash":"9ffab29e33faa1fc72d0b35d4ba2ff60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091684867,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886636,
     "wof:name":"Sand Creek - Dadanawa, Catunarib, Sawariwau",
     "wof:parent_id":-1,
     "wof:placetype":"county",

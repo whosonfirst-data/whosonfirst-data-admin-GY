@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003785,
-    "geom:area_square_m":46470666.036084,
+    "geom:area_square_m":46470740.436992,
     "geom:bbox":"-58.180085,6.762957,-58.108623,6.836222",
     "geom:latitude":6.802125,
     "geom:longitude":-58.141887,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879048,
-    "wof:geomhash":"c9b22257ec847fba76711e019c9f2edc",
+    "wof:geomhash":"9fa805963d7145f5f4a946a57f619121",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091683403,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886633,
     "wof:name":"City of Georgetown",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

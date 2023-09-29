@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001498,
-    "geom:area_square_m":18414965.408731,
+    "geom:area_square_m":18414917.296693,
     "geom:bbox":"-57.619594,6.319984,-57.555356,6.353017",
     "geom:latitude":6.334583,
     "geom:longitude":-57.58774,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879057,
-    "wof:geomhash":"ecdc5501f4f7c7a174b6b97a908e067b",
+    "wof:geomhash":"9cb789bcc5172f1bc002b5fb66980501",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683609,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886632,
     "wof:name":"Bel Air/Woodlands",
     "wof:parent_id":-1,
     "wof:placetype":"county",

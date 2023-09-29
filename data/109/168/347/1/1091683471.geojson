@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061982,
-    "geom:area_square_m":761621003.671245,
+    "geom:area_square_m":761621200.857634,
     "geom:bbox":"-58.213641,6.087378,-57.878383,6.614815",
     "geom:latitude":6.410617,
     "geom:longitude":-58.088864,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879051,
-    "wof:geomhash":"93fef9ec5e4e6499b59ab74e3b156c40",
+    "wof:geomhash":"abebad973788d9ca539964d4f955dfbc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683471,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"St. Cuthberts/Orange Nassau (Mahaica River)",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

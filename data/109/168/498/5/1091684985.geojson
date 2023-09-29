@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016119,
-    "geom:area_square_m":198078707.186171,
+    "geom:area_square_m":198078707.18614,
     "geom:bbox":"-61.168059,6.23245756315,-60.9998043699,6.45895693462",
     "geom:latitude":6.375185,
     "geom:longitude":-61.08283,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879117,
-    "wof:geomhash":"a4a6e55205e6e154a5943a1ab57b29c7",
+    "wof:geomhash":"290ea6ae4e4560c82850642f86fed65d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1091684985,
-    "wof:lastmodified":1566644373,
+    "wof:lastmodified":1695886350,
     "wof:name":"Arau",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

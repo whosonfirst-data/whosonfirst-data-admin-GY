@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047792,
-    "geom:area_square_m":587340898.715927,
+    "geom:area_square_m":587340825.769405,
     "geom:bbox":"-58.31248,6.088236,-58.118742,6.60601",
     "geom:latitude":6.344681,
     "geom:longitude":-58.230796,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.DE.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879050,
-    "wof:geomhash":"6db0f261758ac83752a076a5829ced6d",
+    "wof:geomhash":"74737c9e6d8599306b2b6f3ac541bfd3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683427,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"Soesdyke-Linden highway (including Timehri)",
     "wof:parent_id":85671761,
     "wof:placetype":"county",

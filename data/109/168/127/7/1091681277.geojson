@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00646,
-    "geom:area_square_m":79228612.743334,
+    "geom:area_square_m":79228840.363533,
     "geom:bbox":"-58.559354,7.225596,-58.475834,7.340613",
     "geom:latitude":7.290275,
     "geom:longitude":-58.511025,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PM.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878961,
-    "wof:geomhash":"057acede72361caa42b23ad1264cea1d",
+    "wof:geomhash":"8636386c88942c6d01b755ecb038c448",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1091681277,
-    "wof:lastmodified":1636494757,
+    "wof:lastmodified":1695886618,
     "wof:name":"Anna Regina",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":3235952.933657,
+    "geom:area_square_m":3235912.395213,
     "geom:bbox":"-58.638956,6.396178,-58.618752,6.420417",
     "geom:latitude":6.410384,
     "geom:longitude":-58.628277,
@@ -130,9 +130,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879130,
-    "wof:geomhash":"573d1bce2e8a7949bfe1b33525521504",
+    "wof:geomhash":"a1e125711f90214f2be338a5db0b6f68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1091685367,
-    "wof:lastmodified":1636494757,
+    "wof:lastmodified":1695886618,
     "wof:name":"Bartica",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

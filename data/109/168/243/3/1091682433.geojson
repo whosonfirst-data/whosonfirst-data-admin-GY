@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002789,
-    "geom:area_square_m":34240702.811271,
+    "geom:area_square_m":34240628.670998,
     "geom:bbox":"-58.30431,6.79123,-58.258513,6.881668",
     "geom:latitude":6.836664,
     "geom:longitude":-58.283352,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.CI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879006,
-    "wof:geomhash":"eea384f98a75210d55390a944b1223e3",
+    "wof:geomhash":"ea017dd6530e0f2544aab3adeb52136a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682433,
-    "wof:lastmodified":1627522164,
+    "wof:lastmodified":1695886632,
     "wof:name":"Cornelia Ida/Stewartville",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

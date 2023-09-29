@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004366,
-    "geom:area_square_m":53589792.750202,
+    "geom:area_square_m":53589654.936311,
     "geom:bbox":"-58.473778,6.880389,-58.342945,6.972084",
     "geom:latitude":6.934591,
     "geom:longitude":-58.410872,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879017,
-    "wof:geomhash":"78aa6cc445f63f85d24bd526991b48b3",
+    "wof:geomhash":"c1afc20858e23bda3bc9c3a29a1fcbc6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682655,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Leguan (Essequibo Islands)",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045801,
-    "geom:area_square_m":563445671.86111,
+    "geom:area_square_m":563445595.801145,
     "geom:bbox":"-60.566112,5.680136,-60.262375,5.948836",
     "geom:latitude":5.795896,
     "geom:longitude":-60.387719,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.JK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879072,
-    "wof:geomhash":"d61b18772ccdb9d20850de51f8367d62",
+    "wof:geomhash":"fb003d92f4908ae970d44da437e7483b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091683975,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Jawalla, Kubenang River",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001671,
-    "geom:area_square_m":20518596.138133,
+    "geom:area_square_m":20518537.645187,
     "geom:bbox":"-58.251098,6.801564,-58.196349,6.857889",
     "geom:latitude":6.82781,
     "geom:longitude":-58.22926,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.NF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879019,
-    "wof:geomhash":"c74c23c7f77800843de66af1f4bba18a",
+    "wof:geomhash":"1ab49e31229c11702e401ae1e745ec90",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682697,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Nouvelle Flanders/La Jalousie",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

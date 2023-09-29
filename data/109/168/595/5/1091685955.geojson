@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.JP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879153,
     "wof:geomhash":"4356147b1b2990ab90d313494f20c9e4",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091685955,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886310,
     "wof:name":"John/Port Mourant",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

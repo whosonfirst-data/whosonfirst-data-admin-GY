@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.BP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879066,
     "wof:geomhash":"a8721961c029875042ec51b50c1b5db0",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091683803,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886267,
     "wof:name":"Black Bush Polder Land Dev Schm",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

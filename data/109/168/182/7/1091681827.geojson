@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.UN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878984,
     "wof:geomhash":"dc1b2bff514bb0b1278b2087b2ffd968",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091681827,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886416,
     "wof:name":"Unorganized",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

@@ -57,6 +57,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.RH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879152,
     "wof:geomhash":"10d44378ed7865af47597e6bf287d667",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1091685907,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886635,
     "wof:name":"Rose Hall",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140884,
-    "geom:area_square_m":1732480567.079583,
+    "geom:area_square_m":1732480653.500764,
     "geom:bbox":"-60.858852,5.718883,-60.401674,6.419919",
     "geom:latitude":6.010208,
     "geom:longitude":-60.604784,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"GY.CU.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879075,
-    "wof:geomhash":"5abde8e3a9c179bc25554ff07d6d5ad6",
+    "wof:geomhash":"9954861809bb300f7ec9477272643ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1091684047,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Kamarang",
     "wof:parent_id":85671773,
     "wof:placetype":"county",

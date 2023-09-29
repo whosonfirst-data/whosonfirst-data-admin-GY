@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.WB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879069,
     "wof:geomhash":"0cc3c7aeee038d87adf1dbaf031f4d51",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091683879,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886422,
     "wof:name":"Whim/Bloomfield",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

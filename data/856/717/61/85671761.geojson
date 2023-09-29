@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17548,
-    "geom:area_square_m":2155907830.092078,
+    "geom:area_square_m":2155908153.649142,
     "geom:bbox":"-58.31248,6.087378,-57.878383,6.836222",
     "geom:latitude":6.494602,
     "geom:longitude":-58.120992,
@@ -165,16 +165,18 @@
         "gn:id":3378741,
         "gp:id":2345607,
         "hasc:id":"GY.ES",
+        "iso:code":"GY-ES",
         "iso:id":"GY-ES",
         "qs_pg:id":894889,
         "wd:id":"Q1368802",
         "wk:page":"Essequibo Islands-West Demerara"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GY",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce5d859ec6d91e0218074399c170fdfa",
+    "wof:geomhash":"16b77b453378b3e2869558a339da2bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +191,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494753,
+    "wof:lastmodified":1695884774,
     "wof:name":"Demerara-Mahaica",
     "wof:parent_id":85632397,
     "wof:placetype":"region",

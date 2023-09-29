@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005355,
-    "geom:area_square_m":65761095.67,
+    "geom:area_square_m":65761254.839685,
     "geom:bbox":"-58.304875,6.702977,-58.22322,6.796105",
     "geom:latitude":6.750504,
     "geom:longitude":-58.268986,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878996,
-    "wof:geomhash":"28806ce28141d857406bcecd796dc342",
+    "wof:geomhash":"48f288d9276d2026735b928bcd44b8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682173,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886631,
     "wof:name":"Canals Polder",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

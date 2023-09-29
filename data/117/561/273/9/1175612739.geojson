@@ -56,6 +56,7 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879026,
     "wof:geomhash":"699c27e874084926bb49db0495d3cb7d",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1175612739,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886403,
     "wof:name":"Sparta/Bonasika and Rest of Essequibo Islands",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

@@ -162,6 +162,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879135,
     "wof:geomhash":"38e85bc403475790031c18024ed0efd3",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1091685479,
-    "wof:lastmodified":1694498096,
+    "wof:lastmodified":1695886618,
     "wof:name":"New Amsterdam",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

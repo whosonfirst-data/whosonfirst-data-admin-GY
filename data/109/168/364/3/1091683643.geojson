@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008356,
-    "geom:area_square_m":102688575.084667,
+    "geom:area_square_m":102688523.006554,
     "geom:bbox":"-57.707826,6.31101,-57.583313,6.44746",
     "geom:latitude":6.38081,
     "geom:longitude":-57.650502,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.NU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879060,
-    "wof:geomhash":"7cebe5680abafde46425cdbfab08bcec",
+    "wof:geomhash":"8a5e08dd6d530b7274234c17b8f6a761",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091683643,
-    "wof:lastmodified":1627522166,
+    "wof:lastmodified":1695886634,
     "wof:name":"Naarstigheid/Union",
     "wof:parent_id":-1,
     "wof:placetype":"county",

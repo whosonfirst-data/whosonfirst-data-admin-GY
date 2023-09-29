@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005244,
-    "geom:area_square_m":64380112.185221,
+    "geom:area_square_m":64379983.265846,
     "geom:bbox":"-58.373037,6.798662,-58.295059,6.888739",
     "geom:latitude":6.840866,
     "geom:longitude":-58.330491,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.ES.UT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879011,
-    "wof:geomhash":"6d30e5576e4c69f99c0a2de7059a7dc4",
+    "wof:geomhash":"7811b84788dc961c2f7a2c1ac3d8a3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091682521,
-    "wof:lastmodified":1627522169,
+    "wof:lastmodified":1695886636,
     "wof:name":"Uitvlugt/Tuschen",
     "wof:parent_id":85671767,
     "wof:placetype":"county",

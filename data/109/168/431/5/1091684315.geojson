@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006029,
-    "geom:area_square_m":74266203.94827,
+    "geom:area_square_m":74266371.545779,
     "geom:bbox":"-59.989527,4.959864,-59.8898,5.051871",
     "geom:latitude":5.007002,
     "geom:longitude":-59.946021,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GY.PT.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879085,
-    "wof:geomhash":"f49308c073979f8f78956ae81fe23cf2",
+    "wof:geomhash":"5483ebd762b49c8d395f9aa0c49b238b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091684315,
-    "wof:lastmodified":1627522165,
+    "wof:lastmodified":1695886633,
     "wof:name":"Kaibarupai",
     "wof:parent_id":85671739,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195077,
-    "geom:area_square_m":2410276137.609026,
+    "geom:area_square_m":2410276695.665245,
     "geom:bbox":"-59.743332,1.913893,-59.107755,2.561227",
     "geom:latitude":2.261881,
     "geom:longitude":-59.45776,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.UT.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473879109,
-    "wof:geomhash":"e7eaca8aa25df8c3dcf7edbcbede340c",
+    "wof:geomhash":"40bfd087edf74869ce62abdec0afdebb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091684899,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886632,
     "wof:name":"Aishalton - Karaudanawa, Achiwib",
     "wof:parent_id":-1,
     "wof:placetype":"county",

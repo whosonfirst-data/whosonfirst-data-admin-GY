@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GY.EB.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878974,
     "wof:geomhash":"31aacc4c2e3b0364c982d9d9559306fe",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091681531,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886409,
     "wof:name":"Tarlogie/Maida",
     "wof:parent_id":85671757,
     "wof:placetype":"county",

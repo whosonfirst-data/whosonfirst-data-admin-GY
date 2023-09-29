@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005749,
-    "geom:area_square_m":70643153.846756,
+    "geom:area_square_m":70643259.412602,
     "geom:bbox":"-57.72476,6.399121,-57.615743,6.49438",
     "geom:latitude":6.444463,
     "geom:longitude":-57.670341,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"GY.MA.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GY",
     "wof:created":1473878977,
-    "wof:geomhash":"8828921b588a48293015461ee59b2713",
+    "wof:geomhash":"951d854996d546acc541d3eec55f5619",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091681611,
-    "wof:lastmodified":1627522167,
+    "wof:lastmodified":1695886635,
     "wof:name":"Tempe/Seafield",
     "wof:parent_id":-1,
     "wof:placetype":"county",
